@@ -1,5 +1,18 @@
 # Histórico editorial
 
+## 2026-10-19 — revisão das 44 pendências
+
+- 44 fichas revisadas; dez novas conclusões: P05 e F56 falsas; F65 verdadeira; L86, F28, L04, F55, F59, F62 e L81 imprecisas.
+- P05: contraexemplo público de atendimento em UPA em 2021. F56/L86: julgamento sobre pressão externa e tarifas, distinguindo intervenção militar.
+- F59: relatório europeu de 2022 com dados de apreensões de 2020, sem extrapolar para ranking mundial atual ou causalidade presidencial.
+- L04: corrigida a síntese anterior da checagem do Aos Fatos; cálculo FIPE permanece identificado como conferência secundária. F55: erro temporal confirmado, total de homicídios não reproduzido.
+- F62: posição pública e modalidades de roubo hediondo; íntegra da emenda permanece indisponível. L81: controle societário separado da regulação de preços.
+- F65: atualização processual baseada na reportagem de 18/10, sem tratar recurso antigo como atualização suficiente.
+- 34 fichas continuam sem conclusão definitiva. Reclassificações de apuração aberta para sem comprovação registram pesquisa inconclusiva, sem contar como novos vereditos factuais.
+- Acrescentadas referências sobre acusações, sem presumir culpa. Corrigida a data da negativa sobre privatização da Petrobras para 9/10.
+- Registro público da rodada, resumo no panorama e vínculo explícito da figura 03 à ficha L02.
+- Total: 199 registros, 126 conclusões factuais, 34 sem conclusão definitiva, 39 não factuais; 157 entradas de fontes.
+
 ## 2026-10-19 — revisão de mais dez fichas
 
 - F24: verdadeira para a ordem de grandeza de vítimas, conforme balanço ministerial anterior ao debate; responsabilidade dos acusados não decorre do número.

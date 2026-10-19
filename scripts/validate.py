@@ -70,3 +70,17 @@ for path in p.local: assert (root/'docs'/path).is_file(), f'Missing asset: {path
 for needed in ('claims','metrics','sources','candidate-chart','theme-chart','gdp-chart','filters','progress-chart','coverage-summary','block','verification'):
     assert needed in p.ids
 print(f"Validated {len(ids)} records, {len(data['sources'])} sources and local page assets.")
+
+audit = json.loads((root/'docs/data/review-log.json').read_text())
+round_ = data['review_summary']['latest_round']
+assert len(audit['records']) == 44
+assert {r['id'] for r in audit['records']} == set(round_['reviewed_ids'])
+assert len(set(round_['reviewed_ids'])) == 44
+for r in audit['records']:
+    c = claims[r['id']]
+    assert r['status'] == c['status'] and r['sources'] == c['sources']
+    assert r['limitation'] and c['review']['date'] == audit['date']
+    assert (r['id'] in round_['new_factual_conclusions']) == (c['status'] in {'verdadeira','falsa','imprecisa'})
+assert set(round_['new_factual_conclusions']).isdisjoint(round_['still_under_review'])
+assert set(round_['new_factual_conclusions'] + round_['still_under_review']) == set(round_['reviewed_ids'])
+print('Validated dated audit of all 44 previously unresolved records.')

@@ -52,6 +52,10 @@ Os gráficos usam a base inteira. Filtros atuam nas fichas e no CSV exportado, c
 
 ## Pendências
 
-As fichas em apuração ou revisão descrevem o que falta: documentos bancários, autos, votações, séries homogêneas, definição de período ou conferência no áudio. Entre os assuntos estão inflação de alimentos, resultados fiscais, acusações financeiras, políticas futuras atribuídas ao adversário e comparações internacionais. Sem esses elementos, não forçamos um julgamento binário.
+As fichas em apuração ou revisão descrevem o que falta: documentos bancários, autos, votações, séries homogêneas, definição de período ou conferência no áudio. Entre os assuntos estão resultados fiscais, acusações financeiras, políticas futuras atribuídas ao adversário e comparações internacionais. Sem esses elementos, não forçamos um julgamento binário.
 
 O validador confere referências, categorias, localização, reciprocidade entre fichas e mapa de cobertura, contagem de parágrafos e arquivos da página. Essa validação estrutural não substitui a revisão jornalística da evidência.
+
+## Revisão integral das pendências de 19/10/2026
+
+As 44 fichas sem conclusão definitiva receberam registro datado de revisão. Dez passaram a ter conclusão factual e 34 continuam inconclusivas. Fichas antes marcadas como apuração aberta foram identificadas como sem comprovação quando a pesquisa permaneceu insuficiente; essa mudança não é veredito de falsidade nem comprovação de inocência. O arquivo `docs/data/review-log.json` preserva o estado anterior e os limites. A rodada não inclui escuta integral do vídeo ou acesso a autos sigilosos.

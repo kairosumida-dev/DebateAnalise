@@ -31,6 +31,8 @@ function metrics() {
   $('metrics').innerHTML = [[data.claims.length,'Registros no inventário','Repetições agrupadas por núcleo'],[resolved,'Com conclusão factual','Verdadeiras, falsas ou imprecisas'],[pending,'Sem conclusão definitiva','Apuração, revisão ou sem comprovação'],[nonfactual,'Sem julgamento de verdade','Propostas, perguntas e opiniões']].map(([n,label,note]) => `<div class="metric"><span class="metric-label">${label}</span><strong>${n}</strong><span>${note}</span></div>`).join('');
   const groups = [[resolved,'Conclusão factual','#287b59'],[pending,'Sem conclusão definitiva','#85725f'],[nonfactual,'Propostas, perguntas e opiniões','#8b9a72']];
   $('progress-chart').innerHTML = `<div class="stack progress-stack" role="img" aria-label="${groups.map(([n,t])=>t+': '+n).join('; ')}">${groups.map(([n,t,color])=>`<span class="segment" style="width:${n/data.claims.length*100}%;background:${color}" title="${t}: ${n}">${n}</span>`).join('')}</div><div class="progress-labels">${groups.map(([n,t,color])=>`<span><i style="background:${color}"></i><strong>${n}</strong> ${t}</span>`).join('')}</div>`;
+  const round=data.review_summary.latest_round;
+  $('review-summary').textContent=`Última rodada: ${round.reviewed_ids.length} pendências revisadas, ${round.new_factual_conclusions.length} novas conclusões factuais e ${round.still_under_review.length} fichas ainda sem conclusão definitiva. Revisar uma ficha não significa comprovar sua afirmação.`;
   const cov=data.coverage;
   $('coverage-summary').textContent=`${cov.paragraph_count} parágrafos percorridos até o fim da transcrição publicada. ${cov.dispositions.mapeado} remetem a fichas; os demais incluem rótulos de falantes, mediação, saudações e interações.`;
 }

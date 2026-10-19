@@ -22,6 +22,8 @@ O [mapa de cobertura](docs/data/coverage.json) liga cada parágrafo às fichas o
 
 As falas são paráfrases. Há distinção entre consulta primária e conclusão baseada em reportagem. Divergências ficam visíveis, inclusive quando uma checagem publicada não é suficiente para concluir. O [método](METODOLOGIA.md) explica as categorias e os limites.
 
+Na última rodada, todas as **44 pendências** foram revistas: **10 novas conclusões**, totalizando **126 conclusões factuais, 34 sem conclusão definitiva e 39 registros não factuais**. O [registro da rodada](docs/data/review-log.json) preserva a classificação anterior, as fontes e os limites de cada ficha. Isso não encerra a auditoria audiovisual nem supre documentos indisponíveis.
+
 ## Executar localmente
 
 Sem instalação de pacotes:
