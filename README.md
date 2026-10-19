@@ -1,22 +1,26 @@
 # Debate em evidência
 
-Página aberta de análise das principais afirmações de Lula e Flávio Bolsonaro no debate da Band de **18 de outubro de 2026**.
+Página aberta de análise das falas de Lula e Flávio Bolsonaro no debate da Band de **18 de outubro de 2026**.
 
 **[Abrir a página](https://kairosumida-dev.github.io/DebateAnalise/)** · [Base de dados](docs/data/claims.json) · [Método editorial](METODOLOGIA.md)
 
 ## O que está disponível
 
-- Busca e filtros por candidato, classificação e tema.
+- Busca e filtros por candidato, classificação, tema, bloco e nível de conferência.
 - Análise individual com evidência, ressalvas e links para fontes.
-- Gráficos de classificações por candidato, distribuição de temas e crescimento do PIB.
+- Quatro gráficos: andamento das checagens, categorias por candidato, temas e crescimento do PIB.
 - Exportação da seleção em CSV, além da base completa em JSON.
 - Layout adaptado a celular e navegação por teclado.
 
 ## Alcance desta edição
 
-**Levantamento parcial, em revisão.** A base usa falas reportadas em cobertura jornalística e checagens publicadas, além de documentos primários identificados. Não houve auditoria minuto a minuto da íntegra; tempos de vídeo não foram inventados. Não afirma cobrir todas as falas importantes. Não é uma amostra estatística e não permite concluir a taxa de veracidade de cada candidato no debate completo.
+**Inventário ampliado: 199 registros após leitura de todos os 687 parágrafos da transcrição publicada.** Os parágrafos também incluem rótulos de falantes e mediação; não são 687 afirmações. Repetições são agrupadas, e propostas, perguntas e opiniões ficam fora dos vereditos de verdade.
 
-As falas são paráfrases, não citações literais. Há distinção entre conferência primária e reprodução de conclusão jornalística. Divergências ficam em revisão; acusações sem evidência suficiente não se tornam fatos nem são automaticamente falsas. Propostas não recebem pontuação de veracidade.
+O [mapa de cobertura](docs/data/coverage.json) liga cada parágrafo às fichas ou registra o motivo de exclusão. As fichas trazem fontes, ressalvas e localização. Não republicamos a transcrição integral.
+
+**A checagem documental permanece em andamento e o vídeo ainda não foi auditado.** Fichas abertas identificam o que falta; nenhuma pendência vira automaticamente falsa. Não há tempos de vídeo inventados nem placar geral de honestidade. A base não se atualiza automaticamente.
+
+As falas são paráfrases. Há distinção entre consulta primária e conclusão baseada em reportagem. Divergências ficam visíveis, inclusive quando uma checagem publicada não é suficiente para concluir. O [método](METODOLOGIA.md) explica as categorias e os limites.
 
 ## Executar localmente
 

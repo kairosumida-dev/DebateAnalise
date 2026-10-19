@@ -5,25 +5,34 @@ const STATUS = {
   imprecisa: {label:'Imprecisa', plural:'Imprecisas', color:'#b37a24'},
   em_revisao: {label:'Em revisão', plural:'Em revisão', color:'#6972a6'},
   sem_comprovacao: {label:'Sem comprovação', plural:'Sem comprovação', color:'#777f86'},
-  proposta: {label:'Proposta', plural:'Propostas', color:'#8b9a72'}
+  pendente: {label:'Apuração aberta', plural:'Apurações abertas', color:'#85725f'},
+  proposta: {label:'Proposta', plural:'Propostas', color:'#8b9a72'},
+  pergunta: {label:'Pergunta', plural:'Perguntas', color:'#7098a0'},
+  opiniao: {label:'Opinião', plural:'Opiniões', color:'#969398'}
 };
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const normalize = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 let data, selection = [];
+const FACTUAL = ['verdadeira','falsa','imprecisa'];
+const OPEN = ['em_revisao','sem_comprovacao','pendente'];
 function sourceLink(key) {
   const s = data.sources[key];
   return `<a class="source-link" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><span class="source-type">${esc(s.type)}</span>`;
 }
 function card(c) {
   const s = STATUS[c.status];
-  return `<article class="claim" id="${esc(c.id)}"><div class="claim-top"><span class="candidate-chip">${esc(c.candidate)} <a class="claim-id" href="#${esc(c.id)}" aria-label="Link para registro ${esc(c.id)}">${esc(c.id)}</a></span><span class="badge" style="--badge:${s.color}">${s.label}</span></div><p class="theme">${esc(c.theme)}</p><h3>${esc(c.claim)}</h3><span class="evidence-label">O QUE A EVIDÊNCIA MOSTRA</span><p>${esc(c.evidence)}</p><details><summary>Análise e fontes</summary>${c.note ? `<p class="note">${esc(c.note)}</p>` : ''}${c.sources.map(sourceLink).join('')}<p class="verification">Conferência: ${esc(c.verification)} · Consulta: 19/10/2026<br>Paráfrase reportada · Tempo do vídeo ainda não conferido</p></details></article>`;
+  return `<article class="claim" id="${esc(c.id)}"><div class="claim-top"><span class="candidate-chip">${esc(c.candidate)} <a class="claim-id" href="#${esc(c.id)}" aria-label="Link para registro ${esc(c.id)}">${esc(c.id)}</a></span><span class="badge" style="--badge:${s.color}">${s.label}</span></div><p class="theme">${esc(c.theme)}</p><h3>${esc(c.claim)}</h3><span class="evidence-label">${c.status==='pendente'?'O QUE FALTA CONFERIR':OPEN.includes(c.status)?'EVIDÊNCIA E LIMITAÇÕES':'O QUE A EVIDÊNCIA MOSTRA'}</span><p>${esc(c.evidence)}</p><details><summary>Análise e fontes</summary>${c.note ? `<p class="note">${esc(c.note)}</p>` : ''}${c.sources.map(sourceLink).join('')}<p class="verification">Conferência: ${esc(c.verification)} · Consulta: 19/10/2026<br>Blocos: ${c.blocks.map(b=>b===4?'considerações finais':b).join(', ')} · Parágrafos ${c.paragraphs.join(', ')} · ${c.occurrences} ocorrência(s)<br><a href="${esc(c.transcript_url)}" target="_blank" rel="noopener noreferrer">Localizar na transcrição ↗</a> · Tempo do vídeo ainda não conferido</p></details></article>`;
 }
 function metrics() {
-  const resolved = data.claims.filter(c => ['verdadeira','falsa','imprecisa'].includes(c.status)).length;
-  const pending = data.claims.filter(c => ['em_revisao','sem_comprovacao'].includes(c.status)).length;
-  const proposals = data.claims.filter(c => c.status === 'proposta').length;
-  $('metrics').innerHTML = [[data.claims.length,'Registros nesta edição','Falas agrupadas por assunto'],[resolved,'Com classificação','Verdadeiras, falsas ou imprecisas'],[pending,'Com pendências','Revisão ou sem comprovação'],[proposals,'Propostas registradas','Sem pontuação de veracidade']].map(([n,label,note]) => `<div class="metric"><span class="metric-label">${label}</span><strong>${n}</strong><span>${note}</span></div>`).join('');
+  const resolved = data.claims.filter(c => FACTUAL.includes(c.status)).length;
+  const pending = data.claims.filter(c => OPEN.includes(c.status)).length;
+  const nonfactual = data.claims.length-resolved-pending;
+  $('metrics').innerHTML = [[data.claims.length,'Registros no inventário','Repetições agrupadas por núcleo'],[resolved,'Com conclusão factual','Verdadeiras, falsas ou imprecisas'],[pending,'Sem conclusão definitiva','Apuração, revisão ou sem comprovação'],[nonfactual,'Sem julgamento de verdade','Propostas, perguntas e opiniões']].map(([n,label,note]) => `<div class="metric"><span class="metric-label">${label}</span><strong>${n}</strong><span>${note}</span></div>`).join('');
+  const groups = [[resolved,'Conclusão factual','#287b59'],[pending,'Sem conclusão definitiva','#85725f'],[nonfactual,'Propostas, perguntas e opiniões','#8b9a72']];
+  $('progress-chart').innerHTML = `<div class="stack progress-stack" role="img" aria-label="${groups.map(([n,t])=>t+': '+n).join('; ')}">${groups.map(([n,t,color])=>`<span class="segment" style="width:${n/data.claims.length*100}%;background:${color}" title="${t}: ${n}">${n}</span>`).join('')}</div><div class="progress-labels">${groups.map(([n,t,color])=>`<span><i style="background:${color}"></i><strong>${n}</strong> ${t}</span>`).join('')}</div>`;
+  const cov=data.coverage;
+  $('coverage-summary').textContent=`${cov.paragraph_count} parágrafos percorridos até o fim da transcrição publicada. ${cov.dispositions.mapeado} remetem a fichas; os demais incluem rótulos de falantes, mediação, saudações e interações.`;
 }
 function charts() {
   const candidates = ['Lula','Flávio Bolsonaro'];
@@ -48,17 +57,18 @@ function charts() {
 }
 function populateFilters() {
   Object.entries(STATUS).forEach(([value,s]) => $('status').add(new Option(s.label,value)));
+  [...new Set(data.claims.map(c=>c.verification))].sort((a,b)=>a.localeCompare(b,'pt-BR')).forEach(v=>$('verification').add(new Option(v,v)));
   [...new Set(data.claims.map(c=>c.theme))].sort((a,b)=>a.localeCompare(b,'pt-BR')).forEach(t=>$('theme').add(new Option(t,t)));
 }
 function filter() {
   const q=normalize($('search').value.trim());
-  selection=data.claims.filter(c=>(!$('candidate').value||c.candidate===$('candidate').value)&&(!$('status').value||c.status===$('status').value)&&(!$('theme').value||c.theme===$('theme').value)&&(!q||normalize([c.id,c.claim,c.evidence,c.note,c.theme,c.candidate,...c.sources.map(k=>data.sources[k].title)].join(' ')).includes(q)));
+  selection=data.claims.filter(c=>(!$('candidate').value||c.candidate===$('candidate').value)&&(!$('status').value||c.status===$('status').value)&&(!$('theme').value||c.theme===$('theme').value)&&(!$('block').value||c.blocks.includes(Number($('block').value)))&&(!$('verification').value||c.verification===$('verification').value)&&(!q||normalize([c.id,c.claim,c.evidence,c.note,c.theme,c.candidate,...c.sources.map(k=>data.sources[k].title)].join(' ')).includes(q)));
   $('claims').innerHTML=selection.length?selection.map(card).join(''):'<p class="empty">Nenhum registro encontrado. Tente outro termo ou limpe os filtros.</p>';
   $('result-count').textContent=`${selection.length} de ${data.claims.length} registros`;
 }
 function exportCsv() {
   const cell = value => { let s=String(value??'');if(/^[=+\-@\t\r]/.test(s))s="'"+s;return '"'+s.replace(/"/g,'""')+'"'; };
-  const rows = [['ID','Candidato','Tema','Classificação','Fala (paráfrase)','Evidência','Ressalva','Conferência','Fontes','Data da consulta'], ...selection.map(c=>[c.id,c.candidate,c.theme,STATUS[c.status].label,c.claim,c.evidence,c.note,c.verification,c.sources.map(k=>data.sources[k].url).join(' | '),c.checked_at])];
+  const rows = [['ID','Candidato','Bloco','Parágrafos','Ocorrências','Tema','Classificação','Fala (paráfrase)','Evidência','Ressalva','Conferência','Fontes','Transcrição','Data da consulta'], ...selection.map(c=>[c.id,c.candidate,c.blocks.join(', '),c.paragraphs.join(', '),c.occurrences,c.theme,STATUS[c.status].label,c.claim,c.evidence,c.note,c.verification,c.sources.map(k=>data.sources[k].url).join(' | '),c.transcript_url,c.checked_at])];
   const url=URL.createObjectURL(new Blob(['\ufeff'+rows.map(r=>r.map(cell).join(';')).join('\r\n')],{type:'text/csv;charset=utf-8;'}));
   const a=document.createElement('a');a.href=url;a.download='debate-band-2026-selecao.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
 }
@@ -66,7 +76,7 @@ async function init() {
   try {
     const response=await fetch('data/claims.json');if(!response.ok)throw new Error('Falha na leitura da base');data=await response.json();
     metrics();charts();populateFilters();filter();
-    $('sources').innerHTML=Object.values(data.sources).map(s=>`<article class="source"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><p>${esc(s.type)} · acesso em 19/10/2026</p></article>`).join('');
+    $('sources').innerHTML=[...new Map(Object.values(data.sources).map(s=>[s.url,s])).values()].map(s=>`<article class="source"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><p>${esc(s.type)} · acesso em 19/10/2026</p></article>`).join('');
     $('filters').addEventListener('input',filter);$('filters').addEventListener('change',filter);$('filters').addEventListener('submit',e=>e.preventDefault());$('filters').addEventListener('reset',()=>setTimeout(filter,0));$('export-csv').addEventListener('click',exportCsv);
     if(location.hash){const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target?.classList.contains('claim')){target.querySelector('details').open=true;target.scrollIntoView();}}
   } catch(error) {

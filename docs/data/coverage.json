@@ -1,0 +1,6333 @@
+[
+  {
+    "paragraph": 1,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 2,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 3,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 4,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 5,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 6,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 7,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "saudacao",
+    "claim_ids": [],
+    "reason": "Saudação ou agradecimento, sem afirmação factual relevante.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 8,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F13",
+      "M02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 9,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 10,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F14",
+      "M01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 11,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 12,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 13,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 14,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L15"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 15,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L12"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "561a4a04-d71a-46b4-b07b-afb8c3da06b8"
+  },
+  {
+    "paragraph": 16,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L17"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 17,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 18,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L16"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "38fe2b22-17be-4460-b176-4cde13dbb44b"
+  },
+  {
+    "paragraph": 19,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M05"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 20,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M05"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 21,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 22,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 23,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 24,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 25,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 26,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 27,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 28,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 29,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 30,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L84"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 31,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L18"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "c6a0757d-0d16-4c1e-938b-e6bf79adfe23"
+  },
+  {
+    "paragraph": 32,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L19"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 33,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "c0da81c1-9546-4e11-85f5-3d3cb9b7f4f4"
+  },
+  {
+    "paragraph": 34,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 35,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "f9acd0fa-842c-4c29-b06d-daae96a2e6d4"
+  },
+  {
+    "paragraph": 36,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 37,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L20"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 38,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "a76581cc-26e1-4c66-84f3-1489ee3e4766"
+  },
+  {
+    "paragraph": 39,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 40,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L22"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "0501fade-389a-4bb8-ae85-a133aaa709d9"
+  },
+  {
+    "paragraph": 41,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L23",
+      "L24"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 42,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L25",
+      "L26"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "ccdea9df-d906-4fe3-8556-354dac739e2f"
+  },
+  {
+    "paragraph": 43,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L26"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 44,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "7e318c11-def9-4d49-8f13-525016d9ae2a"
+  },
+  {
+    "paragraph": 45,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 46,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L27"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "53304f31-81b6-4724-bac9-ef222810e2ca"
+  },
+  {
+    "paragraph": 47,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M25"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 48,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 49,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 50,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 51,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F15"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 52,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F16"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 53,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F17"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "a14369fc-4eaf-49a6-8982-8f85249cbc19"
+  },
+  {
+    "paragraph": 54,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 55,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F18"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "392545f5-d58f-4f04-9e98-1a4904e71b0b"
+  },
+  {
+    "paragraph": 56,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M06"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 57,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F19"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 58,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 59,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 60,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 61,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 62,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 63,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 64,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 65,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L11"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "d42d4fc4-24c1-430d-8df3-16175421f1fc"
+  },
+  {
+    "paragraph": 66,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 67,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 68,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 69,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 70,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L11"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 71,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 72,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 73,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 74,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 75,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 76,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 77,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 78,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 79,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L28"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 80,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 81,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 82,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 83,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L88"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 84,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L28"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 85,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 86,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 87,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F20"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "8cdd2a00-2964-436a-a82f-91aee3cdaf43"
+  },
+  {
+    "paragraph": 88,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 89,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "b7a1a696-8962-4d28-a175-b287f42b732f"
+  },
+  {
+    "paragraph": 90,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F21"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 91,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 92,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L29"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 93,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L14"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 94,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 95,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 96,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 97,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L14"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 98,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 99,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F05"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 100,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F05"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "0b58bb62-4782-403b-9785-f3987338fdff"
+  },
+  {
+    "paragraph": 101,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F22"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 102,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 103,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L86"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 104,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 105,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 106,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 107,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 108,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 109,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 110,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 111,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 112,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 113,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 114,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 115,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 116,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 117,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 118,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 119,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L87"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 120,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 121,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 122,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 123,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L14"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 124,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L30"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "467ef1fa-9070-436d-8ee1-9e6c2e39e34b"
+  },
+  {
+    "paragraph": 125,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 126,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L31"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "bc4c8ae0-1e01-4650-ad5c-c72eff8ca0b6"
+  },
+  {
+    "paragraph": 127,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 128,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 129,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 130,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 131,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 132,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 133,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F67"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 134,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 135,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 136,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 137,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F21",
+      "F23"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 138,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 139,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 140,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 141,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F16"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 142,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 143,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L14"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 144,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 145,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F16"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 146,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 147,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 148,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 149,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F03",
+      "F24"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 150,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 151,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "d0cd531e-6788-4d05-9dab-68433594e0ac"
+  },
+  {
+    "paragraph": 152,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 153,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 154,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 155,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "0c207f75-0afd-43fd-9e88-c7198cbc06b6"
+  },
+  {
+    "paragraph": 156,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 157,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L32",
+      "L33"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 158,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 159,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 160,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 161,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 162,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 163,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F25",
+      "F26"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 164,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F27"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "fe9365e0-b514-4cb5-92e7-168c76e13d4a"
+  },
+  {
+    "paragraph": 165,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 166,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F28"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 167,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 168,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 169,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 170,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 171,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 172,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 173,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L34"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 174,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 175,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 176,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 177,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 178,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 179,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 180,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 181,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 182,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 183,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 184,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 185,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 186,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 187,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 188,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 189,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 190,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 191,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 192,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F29"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 193,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 194,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L35",
+      "L36"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 195,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 196,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 197,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 198,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 199,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L35",
+      "L36",
+      "L37"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "c4bb4234-552f-4cc9-a728-a87c462c87fe"
+  },
+  {
+    "paragraph": 200,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 201,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 202,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F31"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 203,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F30"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "2b248f92-061f-4c55-bacd-98ff14f17e6d"
+  },
+  {
+    "paragraph": 204,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F31"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 205,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 206,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 207,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 208,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 209,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 210,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 211,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 212,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 213,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 214,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 215,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 216,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 217,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 218,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 219,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L38"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 220,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 221,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "P01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 222,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 223,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L32",
+      "L09",
+      "L10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 224,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 225,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F21"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 226,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 227,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L39"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 228,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L40"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "5e7598d2-3f7b-4f30-a601-414f8f12001e"
+  },
+  {
+    "paragraph": 229,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 230,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 231,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "0195c0c7-06f2-4a46-a635-9961aaad4d62"
+  },
+  {
+    "paragraph": 232,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 233,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 234,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F19",
+      "F33"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 235,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F34",
+      "F35"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 236,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 237,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 238,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 239,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 240,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 241,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F35"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 242,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 243,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L85"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 244,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L73"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 245,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 246,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 247,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 248,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 249,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 250,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 251,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 252,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 253,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 254,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F32",
+      "F36",
+      "F37"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 255,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 256,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 257,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 258,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 259,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 260,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 261,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09",
+      "L38"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 262,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 263,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 264,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "P01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "fcf47e5b-3c7f-4276-8ad5-292216a7bcec"
+  },
+  {
+    "paragraph": 265,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 266,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 267,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 268,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 269,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L41"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "7fc7e320-dece-42c6-b232-047c6d33a04c"
+  },
+  {
+    "paragraph": 270,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09",
+      "Q02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 271,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 272,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 273,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F06"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "8d14e036-8f94-4a96-9e00-ef39e9cd6056"
+  },
+  {
+    "paragraph": 274,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 275,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "a2818be4-1a62-4905-9ac7-f87c6236bf0e"
+  },
+  {
+    "paragraph": 276,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 277,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 278,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 279,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 280,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F64"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 281,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 282,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 283,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 284,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 285,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 286,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L41"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 287,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 288,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F65"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 289,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 290,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 291,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 292,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F38"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 293,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 294,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 295,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 296,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F38"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 297,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 298,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L41"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 299,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 300,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 301,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "fc445639-14cf-4065-90e5-2f8fb1e99e25"
+  },
+  {
+    "paragraph": 302,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 303,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 304,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 305,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 306,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 307,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 308,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L41",
+      "L44"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 309,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 310,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F39"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 311,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 312,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L42",
+      "L43"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 313,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 314,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 315,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F40"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "21449440-8ff1-4263-85fd-e4dc7a246547"
+  },
+  {
+    "paragraph": 316,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F40"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 317,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 318,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 319,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 320,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 321,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 322,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09",
+      "L41",
+      "Q02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 323,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L44"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "b8ec554c-62b7-428c-8cbf-0d9ce0ee188c"
+  },
+  {
+    "paragraph": 324,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "Q02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 325,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 326,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 327,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 328,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L48"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 329,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 330,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 331,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 332,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 333,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L45"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "6e7dba22-4e5d-422f-b4f1-c219e7f8d552"
+  },
+  {
+    "paragraph": 334,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L46"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 335,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L47"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "5043bf13-11d0-4fba-bb92-e12ac07f22c9"
+  },
+  {
+    "paragraph": 336,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 337,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 338,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 339,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 340,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 341,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 342,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 343,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 344,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 345,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 346,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 347,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 348,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L45",
+      "L47"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 349,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 350,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F41",
+      "F42"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 351,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 352,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L32"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 353,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 354,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 355,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 356,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 357,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L09",
+      "L41",
+      "L44"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 358,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "Q03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 359,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 360,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 361,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 362,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 363,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 364,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 365,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 366,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 367,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 368,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 369,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "Q03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 370,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 371,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M23"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 372,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 373,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "Q03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 374,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 375,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 376,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 377,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L49"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 378,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 379,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 380,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M23"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 381,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F07"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "f74c8ac8-cdb1-488b-a7a7-442337d66ad6"
+  },
+  {
+    "paragraph": 382,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F11"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "c42816f1-5e3b-4a52-bd05-8cc9f47b4a08"
+  },
+  {
+    "paragraph": 383,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F66"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "616d67a0-997e-4696-9ede-e052d5a3663c"
+  },
+  {
+    "paragraph": 384,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F43"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 385,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F06"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "dfcd83e3-8bdf-40ff-989c-b8927a3ae579"
+  },
+  {
+    "paragraph": 386,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F44"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 387,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F44"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 388,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 389,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 390,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 391,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F45",
+      "F46"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 392,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 393,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 394,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 395,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 396,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 397,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 398,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 399,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 400,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 401,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 402,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "Q04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 403,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 404,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 405,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 406,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 407,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 408,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 409,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 410,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 411,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 412,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 413,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 414,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 415,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 416,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 417,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 418,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 419,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 420,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 421,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 422,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 423,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 424,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 425,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 426,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "Q04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 427,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 428,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 429,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 430,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 431,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 432,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 433,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 434,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "Q04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 435,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 436,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 437,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 438,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 439,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 440,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 441,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 442,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 443,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 444,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 445,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "1ce87ff7-6209-40b3-bbd7-f638264c4b1d"
+  },
+  {
+    "paragraph": 446,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 447,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 448,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 449,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 450,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 451,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 452,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 453,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 454,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 455,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 456,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 457,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 458,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 459,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L13"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "f956e859-8e4c-49a9-9114-3ee86f142cc5"
+  },
+  {
+    "paragraph": 460,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "L52",
+      "L91"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 461,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 462,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 463,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 464,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 465,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F47",
+      "M07"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 466,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M14"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 467,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 468,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 469,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 470,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 471,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 472,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 473,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 474,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 475,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 476,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F48",
+      "M04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 477,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F15",
+      "F49"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 478,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F49"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "119cc342-9528-4876-94da-12af9e102b86"
+  },
+  {
+    "paragraph": 479,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M16"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 480,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M16"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 481,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 482,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 483,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 484,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 485,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "P05"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 486,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L07",
+      "L08",
+      "L54"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 487,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L54"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 488,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 489,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 490,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 491,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 492,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 493,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 494,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 495,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 496,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 497,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 498,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 499,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L54"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 500,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 501,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 502,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 503,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L54"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 504,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 505,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 506,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 507,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "P05",
+      "L54"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 508,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L53"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 509,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 510,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 511,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 512,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 513,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 514,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 515,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 516,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F50"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 517,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F51"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 518,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F52",
+      "F53"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 519,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 520,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 521,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 522,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L55"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 523,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L56"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 524,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L56"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 525,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 526,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 527,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 528,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 529,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F12"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 530,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F12"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 531,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 532,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 533,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 534,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 535,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 536,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L57"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 537,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "L57"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 538,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 539,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 540,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "671fafd4-b6f2-418d-a2a6-1ead725649c2"
+  },
+  {
+    "paragraph": 541,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 542,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L05",
+      "L58",
+      "M28"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 543,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01",
+      "L89"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 544,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 545,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M28"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 546,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L59"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 547,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 548,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 549,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 550,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 551,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L60",
+      "L90"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 552,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L07",
+      "L08",
+      "L61"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 553,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 554,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 555,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F54"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "9b982227-03cc-4b75-a993-3070138e084c"
+  },
+  {
+    "paragraph": 556,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F55"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 557,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 558,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 559,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 560,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 561,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 562,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 563,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 564,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 565,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 566,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 567,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 568,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L06"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 569,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L06",
+      "L62"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 570,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L62"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 571,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L63"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 572,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L50",
+      "M27"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 573,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 574,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 575,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 576,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M07",
+      "M22"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 577,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M08"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 578,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M09",
+      "M10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 579,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 580,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M10",
+      "M11"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 581,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M09",
+      "M10"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 582,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M14",
+      "M11"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 583,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 584,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 585,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 586,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 587,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 588,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 589,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 590,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 591,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 592,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 593,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L64"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 594,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L65",
+      "L66"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 595,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L67",
+      "L68"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 596,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M25"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 597,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M25"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 598,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M26"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 599,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 600,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 601,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 602,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F15",
+      "M12",
+      "M13"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 603,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M14",
+      "M11",
+      "M15"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 604,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M14"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 605,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 606,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 607,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 608,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L69",
+      "P03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 609,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 610,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F56"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 611,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F09",
+      "P02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": "6e08876a-839c-4dcb-a27d-dc6b94590b8f"
+  },
+  {
+    "paragraph": 612,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 613,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F57"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 614,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 615,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "P03"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 616,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 617,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 618,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 619,
+    "speaker": "LULA",
+    "disposition": "interacao",
+    "claim_ids": [],
+    "reason": "Conectivo, chamada de atenção, interrupção ou repetição sem novo núcleo factual.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 620,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 621,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 622,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 623,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L86"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 624,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M24"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 625,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M24"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 626,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M24"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 627,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 628,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 629,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 630,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "P01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 631,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F57",
+      "F58"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 632,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "F58",
+      "M17"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 633,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M17",
+      "F59",
+      "F60",
+      "M03",
+      "M18",
+      "P04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 634,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M18",
+      "P04"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 635,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 636,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 637,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 638,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 639,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F28",
+      "F61",
+      "M19"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 640,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M19",
+      "M20",
+      "M21"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 641,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 642,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L70",
+      "L71",
+      "L72",
+      "M29"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 643,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 644,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M20",
+      "F08",
+      "F62"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 645,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F62"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 646,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "M20"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 647,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 648,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 649,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 650,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L20",
+      "L72",
+      "L21"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 651,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L73"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 652,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L74"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 653,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L74",
+      "L75",
+      "L76"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 654,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L77"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 655,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L77",
+      "L51"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 656,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "M24"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 657,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 658,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 659,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 660,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 661,
+    "speaker": "LULA",
+    "disposition": "saudacao",
+    "claim_ids": [],
+    "reason": "Saudação ou agradecimento, sem afirmação factual relevante.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 662,
+    "speaker": "LULA",
+    "disposition": "saudacao",
+    "claim_ids": [],
+    "reason": "Saudação ou agradecimento, sem afirmação factual relevante.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 663,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 664,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 665,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 666,
+    "speaker": "LULA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 667,
+    "speaker": "LULA",
+    "disposition": "saudacao",
+    "claim_ids": [],
+    "reason": "Saudação ou agradecimento, sem afirmação factual relevante.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 668,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O01"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 669,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L01",
+      "L02",
+      "L26"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 670,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L78",
+      "L79",
+      "L80",
+      "L81",
+      "M30"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 671,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L81"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 672,
+    "speaker": "LULA",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "L82",
+      "L83"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 673,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 674,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 675,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 676,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 677,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 678,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F33"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 679,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 680,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 681,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 682,
+    "speaker": "FLÁVIO BOLSONARO",
+    "disposition": "mapeado",
+    "claim_ids": [
+      "O02",
+      "F16",
+      "M07",
+      "F60",
+      "F63"
+    ],
+    "reason": "Registrado em ficha factual, proposta, pergunta ou opinião; repetições remetem ao mesmo ID.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 683,
+    "speaker": "JORNALISTA",
+    "disposition": "marcador",
+    "claim_ids": [],
+    "reason": "Rótulo de falante ou separador sem conteúdo.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 684,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 685,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 686,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  },
+  {
+    "paragraph": 687,
+    "speaker": "JORNALISTA",
+    "disposition": "mediacao",
+    "claim_ids": [],
+    "reason": "Pergunta, regra, intervalo ou orientação da mediação.",
+    "source_anchor": null
+  }
+]

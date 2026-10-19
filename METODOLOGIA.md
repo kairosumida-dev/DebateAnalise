@@ -1,50 +1,57 @@
 # Método e limitações
 
-Data de referência: 19/10/2026. Debate: 18/10/2026, Band.
+Referência: 19/10/2026. Debate da Band: 18/10/2026, Lula e Flávio Bolsonaro.
 
-## Seleção e atribuição
+## Alcance
 
-As falas foram localizadas em registros da Band, Agência Brasil, Folha e Aos Fatos. A base preserva uma paráfrase de cada item, candidato, tema, conclusão, evidência, ressalvas e referências. Sem marcação de tempo conferida, `timestamp` permanece `null`.
+O inventário percorre sequencialmente os **687 parágrafos da transcrição publicada pelo Aos Fatos**. São **199 registros agrupados**, incluindo afirmações factuais, propostas, perguntas e opiniões. Um parágrafo pode conter vários núcleos e uma afirmação pode reaparecer em vários parágrafos. Rótulos de falantes e intervenções da mediação também integram os 687; esse número não é uma contagem de afirmações.
 
-A versão inicial é um levantamento parcial. A íntegra ainda precisa ser conferida minuto a minuto. A seleção não é aleatória; o número de itens por candidato difere. Não calcular um placar de honestidade ou extrapolar os resultados para todas as falas. Repetições devem ser reunidas quando o núcleo factual for o mesmo.
+`docs/data/coverage.json` informa a destinação de cada parágrafo e os IDs correspondentes, sem reproduzir o texto integral. A numeração local começa em 1 e pode mudar se a fonte editar a transcrição. O resumo da base contém o hash do material consultado. A leitura foi até o fim, mas **não houve auditoria audiovisual**: a gravação pode revelar omissões, nomes incorretos ou diferenças de contexto. `timestamp` permanece `null`.
+
+As fichas são paráfrases e mantêm bloco, parágrafos, evidência, ressalvas, fontes e nível de conferência. A ordem segue a primeira ocorrência. Repetições do mesmo núcleo são agrupadas. Perguntas retóricas que contêm acusações factuais podem gerar uma ficha factual; perguntas sem afirmação independente ficam separadas. Juízos de valor são agrupados como opinião, sem pretender enumerar cada expressão retórica.
+
+O parágrafo 682 da transcrição traz rótulo de jornalista, mas contém as considerações finais de Flávio; essa atribuição foi corrigida editorialmente e documentada. O nome Marcola, em F67, refere-se a Marco Aurélio Santana Ribeiro, não ao dirigente do PCC.
+
+**Inventário concluído não significa checagem documental concluída.** As categorias e os documentos faltantes tornam essa distinção explícita. A página não se atualiza automaticamente.
 
 ## Classificações
 
 | Categoria | Critério |
 |---|---|
-| Verdadeira | Núcleo factual apoiado pela evidência citada. |
+| Verdadeira | Núcleo factual sustentado pela evidência citada, no escopo delimitado. |
 | Falsa | Núcleo factual contradito pela evidência citada. |
-| Imprecisa | Base real com número, escopo ou contexto inadequado. |
-| Em revisão | Divergência ou reconciliação de dados pendente. |
-| Sem comprovação | A pesquisa não obteve evidência suficiente para confirmar. |
-| Proposta | Compromisso futuro, sem classificação de verdade. |
+| Imprecisa | Número, período, alcance ou contexto comprometem a interpretação, apesar de haver base real. |
+| Em revisão | Parte foi conferida, mas há divergência, ambiguidade ou reconciliação de dados pendente. |
+| Apuração aberta | Fala localizada; faltam documentos identificados para concluir. Não é um veredito de ausência de prova ou falsidade. |
+| Sem comprovação | A evidência obtida não sustenta a afirmação ou acusação. Não equivale a falsa nem prova inocência. |
+| Proposta | Compromisso futuro; sem pontuação de verdade. Sistemas já existentes podem ser citados como contexto. |
+| Pergunta | Interrogação sem afirmação factual autônoma; sem pontuação de verdade. |
+| Opinião | Juízo de valor ou retórica; sem pontuação de verdade. |
 
-Classificar uma afirmação como falsa não demonstra intenção deliberada de mentir. Não presumir culpa em investigação, nem transformar ausência de prova em prova de falsidade.
+Uma classificação falsa não demonstra intenção deliberada de mentir. Investigar, indiciar, condenar e condenar definitivamente são situações diferentes. O voto individual secreto não é dedutível de resultados por seção. Anúncio, valor elegível, financiamento disponível e execução financeira também não são equivalentes.
 
-## Força das fontes
+## Fontes e independência
 
-- **Primária:** o documento ou dado foi consultado diretamente. Não significa que a fala foi conferida diretamente no vídeo.
-- **Secundária:** a classificação apoia-se na checagem jornalística explicitamente identificada. O documento original ainda não foi auditado pelo projeto.
-- **Divergência entre fontes:** mantém-se a pendência em vez de escolher silenciosamente uma conclusão.
-- **Pendente:** falta evidência para concluir a análise.
+- **Primária:** documento, registro ou dado consultado diretamente. Não significa conferência direta da fala no vídeo.
+- **Secundária:** conclusão apoiada em reportagem, estudo ou checagem identificada; o documento original pode não ter sido auditado pelo projeto.
+- **Apuração aberta / Pendente:** falta evidência para concluir. Uma referência de transcrição apenas localiza a fala.
+- **Divergência entre fontes:** preserva a discordância e explica o que precisa ser reconciliado.
 
-Fontes governamentais documentam posições oficiais, atos ou dados produzidos pela administração. A posição de uma autoridade, isoladamente, não comprova responsabilidade penal ou eficácia da própria gestão. Registros de depoimentos confirmam o que o depoente afirmou; estimativas contrafactuais dependem de hipóteses.
+O projeto utiliza Aos Fatos como fonte da transcrição e de algumas checagens, mas não adota seus selos automaticamente. As referências incluem documentos do IBGE, Banco Central, legislação, STF, STJ, Congresso, instituições de pesquisa e outros veículos. Há divergências de leitura entre checadores, inclusive sobre vacinas, fechamentos de empresas e períodos fiscais; elas não foram ocultadas.
 
-## Gráficos
+Fonte governamental pode documentar norma, anúncio ou posição oficial. Não é prova independente da eficácia da própria gestão ou de responsabilidade penal. Depoimento comprova o que foi declarado, não automaticamente a veracidade do relato. Estimativas dependem de método e hipóteses. Rankings exigem critérios e ano.
 
-1. **Classificações por candidato:** contagem absoluta de todos os registros da base, com pendências e propostas explicitamente separadas. Barras usam a mesma escala absoluta. Não é amostra representativa.
-2. **Temas:** um tema principal por registro, incluindo pendências e propostas. Não mede tempo de fala.
-3. **PIB:** valores de anos selecionados do IBGE, na série consultada. Não são anos consecutivos. Revisões posteriores podem alterar os valores. Recuperação após recessão não representa, isoladamente, mérito de um governo.
+## Gráficos e exportação
 
-Os gráficos do panorama mostram a base inteira; os filtros atuam sobre as fichas e sobre o CSV exportado. As contagens são calculadas a partir do JSON, sem números digitados à parte.
+- **Da fala à conclusão:** separa conclusões factuais, itens sem conclusão definitiva e itens sem julgamento de verdade.
+- **Por candidato:** contagens absolutas, na mesma escala, incluindo todas as categorias. Não é placar de honestidade, taxa representativa ou medida de tempo de fala.
+- **Temas:** um tema principal por registro, incluindo propostas.
+- **PIB:** anos selecionados do IBGE, não uma série contínua. A recuperação após recessão não demonstra, isoladamente, mérito de um governo.
 
-## Pendências editoriais
+Os gráficos usam a base inteira. Filtros atuam nas fichas e no CSV exportado, com bloco, parágrafos e fontes. Todas as contagens são derivadas da base, sem números fixados no gráfico.
 
-- Conferir a íntegra e adicionar tempos verificáveis.
-- Ampliar a cobertura das falas importantes além dos itens já localizados.
-- Anexar votação nominal da Alerj e documentos primários de outras conclusões secundárias.
-- Conciliar a inflação de alimentos (índice, subgrupo e intervalo).
-- Obter extração de óbitos por Covid por data e mandato.
-- Obter documentos do USTR e comprovação de acusações financeiras ainda pendentes.
+## Pendências
 
-Esta página não oferece um parecer jurídico. Sua finalidade é permitir que o leitor examine os fatos e as limitações de cada evidência.
+As fichas em apuração ou revisão descrevem o que falta: documentos bancários, autos, votações, séries homogêneas, definição de período ou conferência no áudio. Entre os assuntos estão inflação de alimentos, resultados fiscais, acusações financeiras, políticas futuras atribuídas ao adversário e comparações internacionais. Sem esses elementos, não forçamos um julgamento binário.
+
+O validador confere referências, categorias, localização, reciprocidade entre fichas e mapa de cobertura, contagem de parágrafos e arquivos da página. Essa validação estrutural não substitui a revisão jornalística da evidência.
