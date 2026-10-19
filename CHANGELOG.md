@@ -1,5 +1,17 @@
 # Histórico editorial
 
+## 2026-10-19 — pesquisa complementar das 34 restantes
+
+- P02: verdadeira para a defesa pública contra tarifas; transcrição oficial do USTR de 7/7/2026 consultada. F09 preserva separadamente a negativa falsa sobre atuação do governo.
+- L27: imprecisa, com balanço contemporâneo de 2003–2010 e distinção de conceitos e períodos.
+- L57: imprecisa sobre nunca trabalhar, diante do registro parlamentar; uso de ônibus não confirmado.
+- F40: imprecisa sobre condenados no governo; parte do Mensalão conferida por fonte secundária, generalização sobre Petrolão não comprovada.
+- F57: imprecisa; oposição à designação de facções não equivale a apoio aos seus crimes, e entrega de documento não equivale a discussão verbal na reunião.
+- L19: prognóstico/opinião, com contexto primário da Fitch; excluído dos vereditos factuais.
+- P04: novos documentos do CNJ e da Câmara sem presumir a operação do cadastro público nacional.
+- Tentativa de obter transcrição com tempos do vídeo oficial retornou indisponível; auditoria audiovisual não declarada concluída.
+- Total: 199 registros, 131 conclusões factuais, 28 inconclusivos e 40 sem julgamento de verdade.
+
 ## 2026-10-19 — revisão das 44 pendências
 
 - 44 fichas revisadas; dez novas conclusões: P05 e F56 falsas; F65 verdadeira; L86, F28, L04, F55, F59, F62 e L81 imprecisas.

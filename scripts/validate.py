@@ -71,16 +71,22 @@ for needed in ('claims','metrics','sources','candidate-chart','theme-chart','gdp
     assert needed in p.ids
 print(f"Validated {len(ids)} records, {len(data['sources'])} sources and local page assets.")
 
-audit = json.loads((root/'docs/data/review-log.json').read_text())
+for audit_path, expected in [('review-log.json',44),('review-log-next.json',34)]:
+    audit = json.loads((root/'docs/data'/audit_path).read_text())
+    assert len(audit['records']) == expected
+    assert len({r['id'] for r in audit['records']}) == expected
+    for r in audit['records']:
+        assert r['id'] in claims and r['limitation']
+        assert r['status'] in valid and all(s in data['sources'] for s in r['sources'])
+latest = json.loads((root/'docs/data/review-log-next.json').read_text())
 round_ = data['review_summary']['latest_round']
-assert len(audit['records']) == 44
-assert {r['id'] for r in audit['records']} == set(round_['reviewed_ids'])
-assert len(set(round_['reviewed_ids'])) == 44
-for r in audit['records']:
+assert {r['id'] for r in latest['records']} == set(round_['reviewed_ids'])
+for r in latest['records']:
     c = claims[r['id']]
     assert r['status'] == c['status'] and r['sources'] == c['sources']
-    assert r['limitation'] and c['review']['date'] == audit['date']
+    assert c['review']['date'] == latest['date']
     assert (r['id'] in round_['new_factual_conclusions']) == (c['status'] in {'verdadeira','falsa','imprecisa'})
-assert set(round_['new_factual_conclusions']).isdisjoint(round_['still_under_review'])
-assert set(round_['new_factual_conclusions'] + round_['still_under_review']) == set(round_['reviewed_ids'])
-print('Validated dated audit of all 44 previously unresolved records.')
+groups = [round_['new_factual_conclusions'],round_['still_under_review'],round_.get('nonfactual_reclassifications',[])]
+assert sum(map(len,groups)) == len(set(sum(groups,[]))) == len(round_['reviewed_ids'])
+assert set(sum(groups,[])) == set(round_['reviewed_ids'])
+print('Validated both dated reviews and the latest 34-record audit.')

@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-19",
+  "scope": "Pesquisa complementar das 34 fichas restantes. Cinco novas conclusões factuais; um prognóstico separado dos vereditos. Auditoria audiovisual não concluída.",
+  "audiovisual_attempt": {
+    "date": "2026-10-19",
+    "source": "video",
+    "result": "A ferramenta de exportação informou que não há transcrição disponível para o vídeo. Não foi possível realizar auditoria audiovisual integral nesta sessão; tempos permanecem nulos."
+  },
+  "records": [
+    {
+      "id": "L19",
+      "previous_status": "sem_comprovacao",
+      "status": "opiniao",
+      "outcome": "opiniao",
+      "sources": [
+        "fitchjunho2026",
+        "transcricao"
+      ],
+      "limitation": "Classificação editorial como prognóstico; não conta como acerto ou erro factual. A nota da Fitch é contexto documentado e não representa automaticamente a posição de todas as agências ou garantia de promoção."
+    },
+    {
+      "id": "L27",
+      "previous_status": "em_revisao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "bancarizacao2010",
+        "bancarizacao2015",
+        "transcricao"
+      ],
+      "limitation": "O enquadramento corrige a mistura de períodos e conceitos; não presume que o relatório de 2015 seja a fonte utilizada pelo candidato. Relacionamento financeiro, titularidade de conta e uso de internet não são a mesma medida. A cifra de 2010 foi conferida por cobertura contemporânea, não por reprodução integral da base original."
+    },
+    {
+      "id": "F19",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "bcbendividamento",
+        "transcricao"
+      ],
+      "limitation": "O estudo do BC distingue endividamento e comprometimento de renda. Não foi encontrado estudo causal que identifique o efeito fiscal alegado nesta fala; correlação não basta."
+    },
+    {
+      "id": "L88",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "robertaentrevista2026",
+        "transcricao"
+      ],
+      "limitation": "A entrevista é documentada. Não foi obtido registro de pagamento, orientação ou combinação que comprove o alegado aliciamento; contato ou apoio posterior não demonstram sua origem."
+    },
+    {
+      "id": "F21",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "reuterslulinha2026",
+        "transcricao"
+      ],
+      "limitation": "Falta trilha bancária que ligue recursos de aposentados ao sustento na Espanha. Suspeita investigada não comprova essa transferência específica. A investigação e a quebra de sigilo são documentadas; não equivalem a culpa, condição de foragido ou prova de seleção política de alvos."
+    },
+    {
+      "id": "F22",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "reuterslulinha2026",
+        "transcricao"
+      ],
+      "limitation": "Residir no exterior não prova fuga. Falta documento que indique ordem de prisão descumprida ou reconhecimento formal da condição de foragido. A investigação e a quebra de sigilo são documentadas; não equivalem a culpa, condição de foragido ou prova de seleção política de alvos."
+    },
+    {
+      "id": "F67",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "marcolareuters2026",
+        "marcola",
+        "inqueritos",
+        "transcricao"
+      ],
+      "limitation": "A Reuters registra suspeitas da PF e pagamentos relacionados a Roberta. Isso não comprova todo o favorecimento criminal afirmado. O apelido Marcola refere-se ao ex-assessor Marco Aurélio Santana Ribeiro, não ao dirigente do PCC."
+    },
+    {
+      "id": "F23",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "sindnapidirecao",
+        "inss",
+        "transcricao"
+      ],
+      "limitation": "Cargo de Frei Chico confirmado pela entidade. A investigação sobre descontos do sindicato não autoriza atribuir a ele participação criminal nem presumir que todos os descontos fossem ilegais."
+    },
+    {
+      "id": "F25",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "transcricao"
+      ],
+      "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+    },
+    {
+      "id": "F29",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "vorcaroreuniao2026",
+        "transcricao"
+      ],
+      "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+    },
+    {
+      "id": "F31",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "reuterslulinha2026",
+        "transcricao"
+      ],
+      "limitation": "Faltam casos, ordens ou documentos que demonstrem seleção política de alvos. Investigar um opositor não é, isoladamente, prova de perseguição. A investigação e a quebra de sigilo são documentadas; não equivalem a culpa, condição de foragido ou prova de seleção política de alvos."
+    },
+    {
+      "id": "F32",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "filmecontas",
+        "transcricao"
+      ],
+      "limitation": "Não afirmamos desvio sem prova; também não tratamos a negativa de desvio como comprovação independente."
+    },
+    {
+      "id": "P01",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "audioorigem2026",
+        "band",
+        "agencia"
+      ],
+      "limitation": "A fala do debate não dizia que a PF havia confirmado o pagamento. Portanto, a falta dessa confirmação não é usada para classificá-la como falsa. Autenticidade de voz e veracidade de uma acusação são verificações distintas."
+    },
+    {
+      "id": "L39",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "transcricao"
+      ],
+      "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+    },
+    {
+      "id": "F33",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "pacotefiscal2026",
+        "transcricao"
+      ],
+      "limitation": "A reportagem apresenta estimativa de impacto de um pacote que inclui medidas futuras, como o Prospera MEI em 2027. Impacto anunciado, crédito e despesa já executada não são equivalentes. Sem memória de cálculo completa, os R$ 350 bilhões de gasto para reeleição não foram confirmados."
+    },
+    {
+      "id": "L43",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "marielleautos",
+        "transcricao"
+      ],
+      "limitation": "Emprego de parentes, vínculo com milícia e autoria do assassinato são fatos distintos; não inferimos um a partir do outro."
+    },
+    {
+      "id": "F40",
+      "previous_status": "sem_comprovacao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "aos",
+        "mensalaoeleitos2026",
+        "transcricao"
+      ],
+      "limitation": "Conferência secundária para os condenados petistas identificados, sem auditoria exaustiva de toda a administração. O alcance é parcial: corrigir a parte sobre o Mensalão não equivale a concluir sobre cada condenado em outros processos ou sobre aconselhamento informal."
+    },
+    {
+      "id": "L48",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "transcricao"
+      ],
+      "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+    },
+    {
+      "id": "F42",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "medidaprotetiva2024",
+        "inqueritoluis2024",
+        "transcricao"
+      ],
+      "limitation": "Luís Cláudio negou as acusações. Não indiciar não equivale a decisão definitiva sobre todos os fatos; a ficha não atesta inocência ou culpa."
+    },
+    {
+      "id": "F66",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "mempresposta2026",
+        "encerramentos",
+        "transcricao"
+      ],
+      "limitation": "Ofício SEI 1500/2026, quadro da página 5. A comparação com 2008 mencionada pela Lupa ainda precisa ser reconciliada com a série original e sua metodologia. Falências, baixas de CNPJ e exclusões do Simples são medidas distintas. Saldo positivo não refuta, sozinho, recorde de encerramentos."
+    },
+    {
+      "id": "F43",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "transcricao"
+      ],
+      "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+    },
+    {
+      "id": "F44",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "tsemultalula2024",
+        "tseremocoes2022",
+        "transcricao"
+      ],
+      "limitation": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações."
+    },
+    {
+      "id": "L57",
+      "previous_status": "sem_comprovacao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "flavioperfil",
+        "transcricao"
+      ],
+      "limitation": "O veredito refere-se ao núcleo verificável sobre atividade profissional. Não confirma nem refuta a experiência pessoal com transporte público, e não transforma juízo sobre desempenho em fato."
+    },
+    {
+      "id": "L61",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "suscomparacaooficial",
+        "omsjapao",
+        "transcricao"
+      ],
+      "limitation": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada."
+    },
+    {
+      "id": "L66",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "industria2024",
+        "pib2025anual",
+        "pib2026",
+        "transcricao"
+      ],
+      "limitation": "Esses resultados não autorizam trocar o indicador: PIB industrial não é PIB total nem produção física da PIM. Sem identificar a referência temporal da fala, a diferença não basta para uma conclusão definitiva."
+    },
+    {
+      "id": "P02",
+      "previous_status": "sem_comprovacao",
+      "status": "verdadeira",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "ustrjulho2026",
+        "band",
+        "agencia"
+      ],
+      "limitation": "Páginas 11–15 da transcrição oficial. Isso confirma a atuação pública, sem certificar todos os encontros privados. A negativa de que o governo enviou representantes é analisada separadamente e classificada como falsa em F09."
+    },
+    {
+      "id": "F57",
+      "previous_status": "sem_comprovacao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "faccoescnn2026",
+        "faccoesentrevista2026",
+        "transcricao"
+      ],
+      "limitation": "As fontes distinguem entrega de documento, discussão na reunião e apoio às organizações. A formulação do debate mistura esses atos. O conteúdo integral da conversa reservada não foi obtido."
+    },
+    {
+      "id": "F60",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "transcricao"
+      ],
+      "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+    },
+    {
+      "id": "P04",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "cnp2026",
+        "cadastropl2026",
+        "leicadastro2024",
+        "cnjgtcadastro",
+        "adpfcadastro",
+        "transcricao"
+      ],
+      "limitation": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade."
+    },
+    {
+      "id": "F61",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "penal",
+        "transcricao"
+      ],
+      "limitation": "Diagnóstico clínico e responsabilização penal não são categorias excludentes. A generalização sobre a posição do governo exige prova própria."
+    },
+    {
+      "id": "L74",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "fiscal2022",
+        "rtn2023publicacao",
+        "transcricao"
+      ],
+      "limitation": "Foram acrescentados documentos para separar resultado realizado, orçamento e obrigações de exercícios anteriores. O déficit de 2023 não pode ser integralmente atribuído ao governo anterior, nem o superávit de 2022 elimina obrigações adiadas. A cifra de 2,8% continua sem reconciliação documental."
+    },
+    {
+      "id": "L76",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "rtnhistorico",
+        "fiscalhistorico",
+        "transcricao"
+      ],
+      "limitation": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade."
+    },
+    {
+      "id": "L78",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "ansaproducao2026",
+        "fmm2026",
+        "fertilizantesinfrasa",
+        "transcricao"
+      ],
+      "limitation": "Contratos não equivalem a obras ou navios entregues. A Infra S.A. registra produção de fertilizantes de 7,2 milhões de toneladas em 2024, ante 8,8 milhões em 2015; a série antecede as reativações de 2026 e não mede seu efeito. Falta consolidar produção, capacidade utilizada e emprego recentes dos dois setores."
+    },
+    {
+      "id": "L79",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "petrobrasnegativa2026",
+        "petrobraspl",
+        "privatizacoes",
+        "transcricao"
+      ],
+      "limitation": "Declaração de campanha documenta sua posição pública; não permite conhecer uma intenção oculta ou garantir a política futura."
+    }
+  ]
+}

@@ -24,6 +24,8 @@ As falas são paráfrases. Há distinção entre consulta primária e conclusão
 
 Na última rodada, todas as **44 pendências** foram revistas: **10 novas conclusões**, totalizando **126 conclusões factuais, 34 sem conclusão definitiva e 39 registros não factuais**. O [registro da rodada](docs/data/review-log.json) preserva a classificação anterior, as fontes e os limites de cada ficha. Isso não encerra a auditoria audiovisual nem supre documentos indisponíveis.
 
+Pesquisa complementar: **cinco novas conclusões**, total de **131 conclusões factuais, 28 inconclusivas e 40 registros não factuais**. A afirmação sobre proximidade do grau de investimento foi identificada como prognóstico, sem contar como acerto ou erro. [Registro complementar](docs/data/review-log-next.json). A tentativa de exportar a transcrição do vídeo oficial retornou indisponível; não foi realizada auditoria integral da gravação.
+
 ## Executar localmente
 
 Sem instalação de pacotes:

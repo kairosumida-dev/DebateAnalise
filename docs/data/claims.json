@@ -1151,6 +1151,60 @@
       "type": "Registro jornalístico",
       "accessed_at": "2026-10-19",
       "published_at": "2026-10-09"
+    },
+    "ustrjulho2026": {
+      "title": "USTR · transcrição oficial de 7/7/2026, páginas impressas 11–15",
+      "url": "https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/0707%20USTR%20Brazil%20301%20Day%202_full.pdf",
+      "type": "Fonte primária · audiência oficial",
+      "accessed_at": "2026-10-19"
+    },
+    "bancarizacao2010": {
+      "title": "UOL/InfoMoney · balanço de inclusão bancária em 2003–2010",
+      "url": "https://economia.uol.com.br/noticias/infomoney/2010/12/15/brasil-tem-110-milhoes-de-pessoas-com-relacionamento-com-instituicao-financeira.amp.htm",
+      "type": "Registro jornalístico contemporâneo",
+      "accessed_at": "2026-10-19"
+    },
+    "fitchjunho2026": {
+      "title": "Fitch · confirmação de BB com perspectiva estável, 16/6/2026",
+      "url": "https://assets.fitchratings.com/pdf/web/viewer.html?file=%2FdownloadFile%3Fslug%3Dsovereigns%2Ffitch-affirms-brazil-at-bb-outlook-stable-16-06-2026%26reportType%3DdoddFrank%26sfReport%3Dfalse",
+      "type": "Fonte primária · classificação de risco",
+      "accessed_at": "2026-10-19"
+    },
+    "flavioperfil": {
+      "title": "Senado · perfil e atividade parlamentar de Flávio Bolsonaro",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894",
+      "type": "Fonte primária · registro parlamentar",
+      "accessed_at": "2026-10-19"
+    },
+    "mensalaoeleitos2026": {
+      "title": "UOL · situação dos petistas condenados no Mensalão",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/10/05/petistas-condenados-eleitos.ghtm",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "faccoescnn2026": {
+      "title": "CNN · documento levado a Trump sobre classificação das facções",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-levou-a-trump-argumentos-contra-classificar-pcc-e-cv-como-terroristas/",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "faccoesentrevista2026": {
+      "title": "Folha · Lula declara não ter discutido designação na reunião",
+      "url": "https://www1.folha.uol.com.br/mundo/2026/05/lula-diz-que-nao-discutiu-com-trump-classificacao-de-faccoes-criminosas.shtml",
+      "type": "Registro jornalístico de entrevista",
+      "accessed_at": "2026-10-19"
+    },
+    "cnp2026": {
+      "title": "CNJ · Consulta Nacional de Pessoas é de uso judicial restrito",
+      "url": "https://www.cnj.jus.br/justica-4-0-consulta-nacional-de-pessoas-ganha-novas-funcionalidades/",
+      "type": "Fonte primária · sistema judicial",
+      "accessed_at": "2026-10-19"
+    },
+    "cadastropl2026": {
+      "title": "Câmara · PL 2336/2026 sobre gestão e prazo de implementação do cadastro",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623939",
+      "type": "Fonte primária · tramitação legislativa",
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -1652,14 +1706,15 @@
       "id": "L19",
       "candidate": "Lula",
       "theme": "Economia",
-      "status": "sem_comprovacao",
+      "status": "opiniao",
       "claim": "Brasil estaria próximo de recuperar grau de investimento.",
-      "evidence": "Próximo é um juízo prospectivo. Falta fixar agência, nota e data; estar um degrau abaixo não garante prazo ou probabilidade de promoção.",
+      "evidence": "A Fitch manteve o Brasil em BB, com perspectiva estável, em junho de 2026, abaixo do grau de investimento. A expressão “próximo de recuperar” não fixa agência, prazo ou probabilidade: é uma avaliação prospectiva, não a afirmação de que a promoção já ocorreu.",
       "sources": [
+        "fitchjunho2026",
         "transcricao"
       ],
-      "verification": "Pesquisa inconclusiva",
-      "note": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade.",
+      "verification": "Opinião",
+      "note": "Classificação editorial como prognóstico; não conta como acerto ou erro factual. A nota da Fitch é contexto documentado e não representa automaticamente a posição de todas as agências ou garantia de promoção.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         32
@@ -1675,8 +1730,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+        "outcome": "opiniao",
+        "limitation": "Classificação editorial como prognóstico; não conta como acerto ou erro factual. A nota da Fitch é contexto documentado e não representa automaticamente a posição de todas as agências ou garantia de promoção."
       }
     },
     {
@@ -1934,15 +1989,16 @@
       "id": "L27",
       "candidate": "Lula",
       "theme": "Economia",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "Bancarizou 22 milhões de brasileiros.",
-      "evidence": "O Banco Central registra, com base no Global Findex, mais de 22 milhões de novos titulares de contas entre 2011 e 2014. Isso confirma a existência de uma cifra semelhante, mas corresponde ao governo Dilma e não, automaticamente, aos anos de Lula. A fala aparece junto de resultados de 2003–2010 e não explicita a série usada.",
+      "evidence": "O balanço contemporâneo de 2003–2010 reporta aumento de 70 para 110 milhões de pessoas com relacionamento financeiro, diferença de 40 milhões. A cifra de mais de 22 milhões localizada no relatório do BC refere-se a novos titulares de contas em 2011–2014, período de Dilma. A expansão existiu, mas os 22 milhões não foram conciliados com o período e a atribuição usados na fala.",
       "sources": [
+        "bancarizacao2010",
         "bancarizacao2015",
         "transcricao"
       ],
-      "verification": "Primária",
-      "note": "RIF 2015, página impressa 66 (página 64 do PDF). Pessoas com conta, número de contas e relacionamentos ativos não são a mesma medida. A coincidência numérica não prova que essa seja a fonte da fala; falta reconciliar o período e a atribuição causal.",
+      "verification": "Primária e secundária",
+      "note": "O enquadramento corrige a mistura de períodos e conceitos; não presume que o relatório de 2015 seja a fonte utilizada pelo candidato. Relacionamento financeiro, titularidade de conta e uso de internet não são a mesma medida. A cifra de 2010 foi conferida por cobertura contemporânea, não por reprodução integral da base original.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         46
@@ -1958,8 +2014,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "RIF 2015, página impressa 66 (página 64 do PDF). Pessoas com conta, número de contas e relacionamentos ativos não são a mesma medida. A coincidência numérica não prova que essa seja a fonte da fala; falta reconciliar o período e a atribuição causal."
+        "outcome": "conclusao_factual",
+        "limitation": "O enquadramento corrige a mistura de períodos e conceitos; não presume que o relatório de 2015 seja a fonte utilizada pelo candidato. Relacionamento financeiro, titularidade de conta e uso de internet não são a mesma medida. A cifra de 2010 foi conferida por cobertura contemporânea, não por reprodução integral da base original."
       }
     },
     {
@@ -3883,14 +3939,16 @@
       "id": "F40",
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",
-      "status": "sem_comprovacao",
+      "status": "imprecisa",
       "claim": "Condenados no Mensalão e Petrolão estão no atual governo.",
-      "evidence": "Faltam nomes e atos de nomeação dos supostos integrantes. Cargo partidário e mandato parlamentar não equivalem a cargo no Executivo.",
+      "evidence": "Na parte sobre o Mensalão, a fala confunde atuação no PT ou candidatura com integração ao Executivo: a checagem identifica Delúbio Soares, João Paulo Cunha, José Dirceu e José Genoíno e informa que nenhum integrou a equipe do terceiro mandato. A alegação adicional sobre o Petrolão não traz nomes ou nomeações que permitam confirmar que todos voltaram ao governo.",
       "sources": [
+        "aos",
+        "mensalaoeleitos2026",
         "transcricao"
       ],
-      "verification": "Pesquisa inconclusiva",
-      "note": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade.",
+      "verification": "Secundária",
+      "note": "Conferência secundária para os condenados petistas identificados, sem auditoria exaustiva de toda a administração. O alcance é parcial: corrigir a parte sobre o Mensalão não equivale a concluir sobre cada condenado em outros processos ou sobre aconselhamento informal.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         315,
@@ -3907,8 +3965,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+        "outcome": "conclusao_factual",
+        "limitation": "Conferência secundária para os condenados petistas identificados, sem auditoria exaustiva de toda a administração. O alcance é parcial: corrigir a parte sobre o Mensalão não equivale a concluir sobre cada condenado em outros processos ou sobre aconselhamento informal."
       }
     },
     {
@@ -5041,14 +5099,15 @@
       "id": "L57",
       "candidate": "Lula",
       "theme": "Trabalho",
-      "status": "sem_comprovacao",
+      "status": "imprecisa",
       "claim": "Flávio nunca trabalhou nem andou de ônibus.",
-      "evidence": "Falta evidência para a negativa absoluta de uso de ônibus. A atuação profissional e parlamentar de Flávio é pública; retórica sobre nunca trabalhar não substitui análise de sua trajetória.",
+      "evidence": "A afirmação literal de que Flávio nunca trabalhou desconsidera sua atividade parlamentar documentada pelo Senado. A crítica ao mérito ou à qualidade desse trabalho é avaliação política. Não foi encontrada comprovação para a negativa absoluta de que nunca utilizou ônibus.",
       "sources": [
+        "flavioperfil",
         "transcricao"
       ],
-      "verification": "Pesquisa inconclusiva",
-      "note": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade.",
+      "verification": "Primária",
+      "note": "O veredito refere-se ao núcleo verificável sobre atividade profissional. Não confirma nem refuta a experiência pessoal com transporte público, e não transforma juízo sobre desempenho em fato.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         536,
@@ -5065,8 +5124,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+        "outcome": "conclusao_factual",
+        "limitation": "O veredito refere-se ao núcleo verificável sobre atividade profissional. Não confirma nem refuta a experiência pessoal com transporte público, e não transforma juízo sobre desempenho em fato."
       }
     },
     {
@@ -6022,15 +6081,16 @@
       "id": "P02",
       "candidate": "Flávio Bolsonaro",
       "theme": "Relações exteriores",
-      "status": "sem_comprovacao",
+      "status": "verdadeira",
       "claim": "Suas viagens aos EUA serviram para defender empresas brasileiras.",
-      "evidence": "Há relato de manifestação pública de Flávio contrária às tarifas, mas o projeto não obteve agendas e registros suficientes das viagens citadas para confirmar seu conjunto de objetivos.",
+      "evidence": "A transcrição oficial da audiência do USTR de 7/7/2026 registra Flávio pedindo que os EUA não imponham tarifas ao Brasil e defendendo empresas brasileiras. Há, portanto, ato público concreto compatível com a finalidade declarada.",
       "sources": [
+        "ustrjulho2026",
         "band",
         "agencia"
       ],
-      "verification": "Pesquisa inconclusiva",
-      "note": "Não se exige acesso a intenções privadas para verificar uma posição pública. A lacuna aqui é documental sobre os compromissos específicos citados; não se presume finalidade contrária.",
+      "verification": "Primária",
+      "note": "Páginas 11–15 da transcrição oficial. Isso confirma a atuação pública, sem certificar todos os encontros privados. A negativa de que o governo enviou representantes é analisada separadamente e classificada como falsa em F09.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -6046,22 +6106,24 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Não se exige acesso a intenções privadas para verificar uma posição pública. A lacuna aqui é documental sobre os compromissos específicos citados; não se presume finalidade contrária."
+        "outcome": "conclusao_factual",
+        "limitation": "Páginas 11–15 da transcrição oficial. Isso confirma a atuação pública, sem certificar todos os encontros privados. A negativa de que o governo enviou representantes é analisada separadamente e classificada como falsa em F09."
       }
     },
     {
       "id": "F57",
       "candidate": "Flávio Bolsonaro",
       "theme": "Relações exteriores",
-      "status": "sem_comprovacao",
+      "status": "imprecisa",
       "claim": "Lula foi aos EUA defender PCC e CV como não terroristas.",
-      "evidence": "O governo se opôs à designação americana das facções como terroristas. Isso não equivale a defender seus crimes; falta conferir o conteúdo exato da reunião nos EUA.",
+      "evidence": "Há relato de documento brasileiro contrário à designação de PCC e CV como terroristas levado aos EUA. Isso é uma posição sobre instrumento jurídico e soberania, não prova de defesa dos crimes das facções. Lula declarou que a designação não foi discutida verbalmente no encontro com Trump.",
       "sources": [
+        "faccoescnn2026",
+        "faccoesentrevista2026",
         "transcricao"
       ],
-      "verification": "Pesquisa inconclusiva",
-      "note": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade.",
+      "verification": "Secundária",
+      "note": "As fontes distinguem entrega de documento, discussão na reunião e apoio às organizações. A formulação do debate mistura esses atos. O conteúdo integral da conversa reservada não foi obtido.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         613,
@@ -6078,8 +6140,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Revisada em 19/10/2026. A evidência consultada não permite concluir; a ausência de comprovação não demonstra falsidade."
+        "outcome": "conclusao_factual",
+        "limitation": "As fontes distinguem entrega de documento, discussão na reunião e apoio às organizações. A formulação do debate mistura esses atos. O conteúdo integral da conversa reservada não foi obtido."
       }
     },
     {
@@ -6292,13 +6354,15 @@
       "claim": "O Cadastro Nacional de Pedófilos não foi colocado em funcionamento.",
       "evidence": "A Lei 15.035/2024 determina a criação do cadastro e a consulta pública. O CNJ instituiu grupo de trabalho pela Portaria 153/2025, alterada em junho de 2026. Em outubro de 2026, a ADPF 1328 discutia alegada omissão na implementação. Há documentação do problema institucional, mas falta confirmação operacional direta na data do debate.",
       "sources": [
+        "cnp2026",
+        "cadastropl2026",
         "leicadastro2024",
         "cnjgtcadastro",
         "adpfcadastro",
         "transcricao"
       ],
       "verification": "Primária e secundária",
-      "note": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional.",
+      "note": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -6316,7 +6380,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional."
+        "limitation": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade."
       }
     },
     {
@@ -7042,7 +7106,7 @@
   "coverage_description": "Leitura sequencial de todos os 687 parágrafos da transcrição publicada, com repetições agrupadas e fichas cronológicas. Auditoria audiovisual e apurações documentais indicadas permanecem abertas.",
   "review_summary": {
     "transcript_inventory": "concluído",
-    "documentary_checking": "44 pendências revisadas; conclusões documentais parciais",
+    "documentary_checking": "pesquisa ampliada; 28 fichas sem evidência suficiente para conclusão definitiva",
     "audiovisual_audit": "não realizada",
     "date": "2026-10-19",
     "latest_round": {
@@ -7054,18 +7118,15 @@
         "L88",
         "F21",
         "F22",
-        "L86",
         "F67",
         "F23",
         "F25",
-        "F28",
         "F29",
         "F31",
         "F32",
         "P01",
         "L39",
         "F33",
-        "F65",
         "L43",
         "F40",
         "L48",
@@ -7073,41 +7134,30 @@
         "F66",
         "F43",
         "F44",
-        "P05",
         "L57",
-        "L04",
         "L61",
-        "F55",
         "L66",
-        "F56",
         "P02",
         "F57",
-        "F59",
         "F60",
         "P04",
         "F61",
-        "F62",
         "L74",
         "L76",
         "L78",
-        "L79",
-        "L81"
+        "L79"
       ],
       "new_factual_conclusions": [
-        "L86",
-        "F28",
-        "F65",
-        "P05",
-        "L04",
-        "F55",
-        "F56",
-        "F59",
-        "F62",
-        "L81"
+        "L27",
+        "F40",
+        "L57",
+        "P02",
+        "F57"
+      ],
+      "nonfactual_reclassifications": [
+        "L19"
       ],
       "still_under_review": [
-        "L19",
-        "L27",
         "F19",
         "L88",
         "F21",
@@ -7122,17 +7172,13 @@
         "L39",
         "F33",
         "L43",
-        "F40",
         "L48",
         "F42",
         "F66",
         "F43",
         "F44",
-        "L57",
         "L61",
         "L66",
-        "P02",
-        "F57",
         "F60",
         "P04",
         "F61",
@@ -7190,8 +7236,110 @@
           "L74",
           "L78"
         ]
+      },
+      {
+        "date": "2026-10-19",
+        "reviewed_ids": [
+          "L19",
+          "L27",
+          "F19",
+          "L88",
+          "F21",
+          "F22",
+          "L86",
+          "F67",
+          "F23",
+          "F25",
+          "F28",
+          "F29",
+          "F31",
+          "F32",
+          "P01",
+          "L39",
+          "F33",
+          "F65",
+          "L43",
+          "F40",
+          "L48",
+          "F42",
+          "F66",
+          "F43",
+          "F44",
+          "P05",
+          "L57",
+          "L04",
+          "L61",
+          "F55",
+          "L66",
+          "F56",
+          "P02",
+          "F57",
+          "F59",
+          "F60",
+          "P04",
+          "F61",
+          "F62",
+          "L74",
+          "L76",
+          "L78",
+          "L79",
+          "L81"
+        ],
+        "new_factual_conclusions": [
+          "L86",
+          "F28",
+          "F65",
+          "P05",
+          "L04",
+          "F55",
+          "F56",
+          "F59",
+          "F62",
+          "L81"
+        ],
+        "still_under_review": [
+          "L19",
+          "L27",
+          "F19",
+          "L88",
+          "F21",
+          "F22",
+          "F67",
+          "F23",
+          "F25",
+          "F29",
+          "F31",
+          "F32",
+          "P01",
+          "L39",
+          "F33",
+          "L43",
+          "F40",
+          "L48",
+          "F42",
+          "F66",
+          "F43",
+          "F44",
+          "L57",
+          "L61",
+          "L66",
+          "P02",
+          "F57",
+          "F60",
+          "P04",
+          "F61",
+          "L74",
+          "L76",
+          "L78",
+          "L79"
+        ]
       }
-    ]
+    ],
+    "audiovisual_attempt": {
+      "date": "2026-10-19",
+      "source": "video",
+      "result": "A ferramenta de exportação informou que não há transcrição disponível para o vídeo. Não foi possível realizar auditoria audiovisual integral nesta sessão; tempos permanecem nulos."
+    }
   },
   "fiscal": {
     "source": "rtnhistorico",
