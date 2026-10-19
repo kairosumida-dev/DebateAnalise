@@ -80,7 +80,7 @@ function exportCsv() {
 }
 async function init() {
   try {
-    const response=await fetch('data/claims.json');if(!response.ok)throw new Error('Falha na leitura da base');data=await response.json();
+    const response=await fetch('data/claims.json',{cache:'no-store'});if(!response.ok)throw new Error('Falha na leitura da base');data=await response.json();
     metrics();charts();populateFilters();filter();
     $('sources').innerHTML=[...new Map(Object.values(data.sources).map(s=>[s.url,s])).values()].map(s=>`<article class="source"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><p>${esc(s.type)} · acesso em 19/10/2026</p></article>`).join('');
     $('filters').addEventListener('input',filter);$('filters').addEventListener('change',filter);$('filters').addEventListener('submit',e=>e.preventDefault());$('filters').addEventListener('reset',()=>setTimeout(filter,0));$('export-csv').addEventListener('click',exportCsv);

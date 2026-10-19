@@ -66,7 +66,7 @@ class CheckHTML(HTMLParser):
             if v and not v.startswith(('#','https://','http://','data:')):
                 self.local.append(v)
 p=CheckHTML();p.feed((root/'docs/index.html').read_text())
-for path in p.local: assert (root/'docs'/path).is_file(), f'Missing asset: {path}'
+for path in p.local: assert (root/'docs'/urlparse(path).path).is_file(), f'Missing asset: {path}'
 for needed in ('claims','metrics','sources','candidate-chart','theme-chart','gdp-chart','filters','progress-chart','coverage-summary','block','verification'):
     assert needed in p.ids
 print(f"Validated {len(ids)} records, {len(data['sources'])} sources and local page assets.")

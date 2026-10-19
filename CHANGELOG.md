@@ -2,6 +2,8 @@
 
 ## 2026-10-19 — pesquisa complementar das 34 restantes
 
+- Corrigida leitura de dados antigos mantidos no cache do navegador após publicação; a base é solicitada sem reutilizar esse cache.
+
 - P02: verdadeira para a defesa pública contra tarifas; transcrição oficial do USTR de 7/7/2026 consultada. F09 preserva separadamente a negativa falsa sobre atuação do governo.
 - L27: imprecisa, com balanço contemporâneo de 2003–2010 e distinção de conceitos e períodos.
 - L57: imprecisa sobre nunca trabalhar, diante do registro parlamentar; uso de ônibus não confirmado.
