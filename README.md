@@ -8,7 +8,7 @@ Página aberta de análise das falas de Lula e Flávio Bolsonaro no debate da Ba
 
 - Busca e filtros por candidato, classificação, tema, bloco e nível de conferência.
 - Análise individual com evidência, ressalvas e links para fontes.
-- Quatro gráficos: andamento das checagens, categorias por candidato, temas e crescimento do PIB.
+- Cinco gráficos: andamento das checagens, categorias por candidato, temas, crescimento do PIB e resultados fiscais de 2003–2010.
 - Exportação da seleção em CSV, além da base completa em JSON.
 - Layout adaptado a celular e navegação por teclado.
 

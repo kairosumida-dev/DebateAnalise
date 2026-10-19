@@ -807,6 +807,48 @@
       "type": "Levantamento jornalístico",
       "published_at": null,
       "accessed_at": "2026-10-19"
+    },
+    "imfsaldo2002": {
+      "title": "FMI · posição financeira do Brasil em 31/12/2002",
+      "url": "https://www.imf.org/external/np/fin/tad/exfin2.aspx?date1key=2002-12-31&memberKey1=90",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "imfcambio2002": {
+      "title": "FMI · câmbio em 31/12/2002: US$ 1,35952 por DES",
+      "url": "https://www.imf.org/external/np/fin/ert/GUI/Pages/Report.aspx?CF=Compressed&CU=%27USD%27&CUF=Period&DS=Ascending&DT=Blank&EX=CSDR&Fr=628929792000000000&P=DateRange&To=700000000000000000",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "imfacordo2002": {
+      "title": "FMI · acordo de US$ 30,4 bilhões aprovado em setembro de 2002",
+      "url": "https://www.imf.org/external/np/sec/pr/2002/pr0240.htm",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "bfmedia2021": {
+      "title": "MDS · Bolsa Família Informa 783, abril de 2021",
+      "url": "https://mds.gov.br/webarquivos/sala_de_imprensa/boletins/boletim_bolsa_familia/2021/abril/Boletim_BFInforma783.html",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "ploasuperavit2026": {
+      "title": "Planejamento · projeto de 2026 já previa superávit primário",
+      "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2025/setembro/com-previsao-de-superavit-nas-contas-publicas-governo-federal-envia-projeto-de-orcamento-de-2026-ao-congresso",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "rtnhistorico": {
+      "title": "Tesouro Nacional · série histórica do RTN, planilha de julho de 2026",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -1474,14 +1516,17 @@
       "id": "L23",
       "candidate": "Lula",
       "theme": "Economia",
-      "status": "pendente",
+      "status": "imprecisa",
       "claim": "Brasil devia 30 bilhões ao FMI quando assumiu.",
-      "evidence": "Falta conciliar saldo devedor e limite do acordo de 2002, além de explicitar a moeda. Limite de financiamento não equivale ao total efetivamente sacado.",
+      "evidence": "O acordo aprovado em setembro de 2002 oferecia US$ 30,4 bilhões de crédito. O saldo efetivamente devido em 31/12/2002 era DES 15,31964 bilhões: aproximadamente US$ 20,83 bilhões, usando US$ 1,35952 por DES na mesma data. A fala confunde o limite do acordo com a dívida existente ao assumir.",
       "sources": [
+        "imfsaldo2002",
+        "imfcambio2002",
+        "imfacordo2002",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária",
+      "note": "Cálculo reproduzível: 15,31964 × 1,35952 = US$ 20,8273569728 bilhões. Não somar o limite aprovado ao saldo devedor.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         41
@@ -3088,15 +3133,16 @@
       "id": "F37",
       "candidate": "Flávio Bolsonaro",
       "theme": "Trabalho",
-      "status": "pendente",
+      "status": "imprecisa",
       "claim": "Bolsonaro triplicou benefício médio que antes era R$ 190.",
-      "evidence": "Falta compatibilizar média do programa anterior com piso do Auxílio Brasil. O valor de R$ 600 em 2022 incluía complemento temporário, já documentado na ficha F36.",
+      "evidence": "O piso de R$ 600 em 2022 equivale a pouco mais de três vezes uma média próxima de R$ 190. Mas a comparação mistura piso e média: o MDS registrava média de R$ 186,56 no Bolsa Família em abril de 2021, já durante Bolsonaro. O complemento que elevou o piso a R$ 600 valia de agosto a dezembro de 2022.",
       "sources": [
+        "bfmedia2021",
         "auxilio2022",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária",
+      "note": "A ordem de grandeza do aumento tem respaldo; a comparação não demonstra que o benefício médio de Lula foi triplicado de forma permanente.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         254
@@ -6072,15 +6118,16 @@
       "id": "L75",
       "candidate": "Lula",
       "theme": "Contas públicas",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "Apresentou orçamento com superávit de 0,1%, dito inédito.",
-      "evidence": "O projeto de 2027 prevê R$ 18,6 bilhões de superávit primário, pouco mais de 0,1% do PIB. Falta sustentar a alegação de ineditismo e explicitar a comparação usada.",
+      "evidence": "O projeto de 2027 prevê superávit primário de R$ 18,6 bilhões, pouco acima de 0,1% do PIB. Isso não é inédito: o projeto de orçamento de 2026, enviado em 2025, já previa resultado primário positivo e meta de 0,25% do PIB.",
       "sources": [
         "ploA2027",
+        "ploasuperavit2026",
         "transcricao"
       ],
       "verification": "Primária",
-      "note": "Projeção orçamentária não é resultado já realizado; o orçamento ainda depende do Congresso.",
+      "note": "Projetos e metas não equivalem a resultados realizados. A classificação decorre da alegação de ineditismo, não de tratar uma projeção como realizada.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         653
@@ -6101,13 +6148,14 @@
       "theme": "Contas públicas",
       "status": "em_revisao",
       "claim": "Foi o único presidente com superávit em todos os seus oito anos iniciais.",
-      "evidence": "O estudo confirma superávits primários nos oito anos de 2003–2010. A exclusividade depende do período histórico e do agregado fiscal comparado, ainda não reconciliados aqui.",
+      "evidence": "A série do Tesouro confirma resultados primários positivos em todos os anos de 2003 a 2010, tanto acima como abaixo da linha. Ao incluir juros, o resultado nominal foi negativo nos oito anos. A exclusividade histórica continua em revisão: a série do RTN começa em 1997 e não autoriza comparar todos os presidentes anteriores.",
       "sources": [
+        "rtnhistorico",
         "fiscalhistorico",
         "transcricao"
       ],
-      "verification": "Secundária",
-      "note": "Não confundir resultado primário, que exclui juros, com resultado nominal. A fala refere-se aos oito anos iniciais, não ao mandato de 2023 em diante.",
+      "verification": "Primária",
+      "note": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         653
@@ -6425,5 +6473,60 @@
     "documentary_checking": "em andamento",
     "audiovisual_audit": "não realizada",
     "date": "2026-10-19"
+  },
+  "fiscal": {
+    "source": "rtnhistorico",
+    "unit": "R$ bilhões correntes",
+    "method": "Governo Central; primário abaixo da linha e nominal; RTN, aba 2.1, linhas 73 e 75; valores originais em milhões divididos por mil.",
+    "values": [
+      {
+        "year": 2003,
+        "primary": 38.743884,
+        "nominal": -62.152541,
+        "source_cells": "2.1!H66, H73, H75"
+      },
+      {
+        "year": 2004,
+        "primary": 52.385183,
+        "nominal": -27.033334,
+        "source_cells": "2.1!I66, I73, I75"
+      },
+      {
+        "year": 2005,
+        "primary": 55.741366,
+        "nominal": -73.284006,
+        "source_cells": "2.1!J66, J73, J75"
+      },
+      {
+        "year": 2006,
+        "primary": 51.35157,
+        "nominal": -74.475046,
+        "source_cells": "2.1!K66, K73, K75"
+      },
+      {
+        "year": 2007,
+        "primary": 59.438717,
+        "nominal": -59.606985,
+        "source_cells": "2.1!L66, L73, L75"
+      },
+      {
+        "year": 2008,
+        "primary": 71.307922,
+        "nominal": -24.890758,
+        "source_cells": "2.1!M66, M73, M75"
+      },
+      {
+        "year": 2009,
+        "primary": 42.443213,
+        "nominal": -107.363187,
+        "source_cells": "2.1!N66, N73, N75"
+      },
+      {
+        "year": 2010,
+        "primary": 78.723256,
+        "nominal": -45.785487,
+        "source_cells": "2.1!O66, O73, O75"
+      }
+    ]
   }
 }

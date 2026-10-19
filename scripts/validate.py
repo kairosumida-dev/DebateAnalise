@@ -48,6 +48,9 @@ from collections import Counter
 assert dict(Counter(r['disposition'] for r in coverage)) == data['coverage']['dispositions']
 for s in data['sources'].values():
     assert urlparse(s['url']).scheme == 'https' and urlparse(s['url']).netloc
+assert data['fiscal']['source'] in data['sources']
+assert [v['year'] for v in data['fiscal']['values']] == list(range(2003,2011))
+assert all(v['primary'] > 0 and v['nominal'] < 0 for v in data['fiscal']['values'])
 assert data['gdp']['source'] in data['sources']
 assert len({v['year'] for v in data['gdp']['values']}) == len(data['gdp']['values'])
 class CheckHTML(HTMLParser):

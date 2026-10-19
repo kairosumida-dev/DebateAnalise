@@ -1,5 +1,13 @@
 # Histórico editorial
 
+## 2026-10-19 — nova rodada documental
+
+- L23: de apuração aberta para imprecisa; separados saldo do FMI em 31/12/2002 e limite do acordo, com conversão cambial reproduzível.
+- F37: de apuração aberta para imprecisa; documentadas média do Bolsa Família em 2021 e vigência do piso temporário de R$ 600.
+- L75: de em revisão para imprecisa; PLOA 2026 já previa superávit, contradizendo o ineditismo.
+- L76: oito superávits primários confirmados diretamente na série do Tesouro; exclusividade histórica permanece em revisão. Novo gráfico compara primário e nominal em 2003–2010.
+- Totais: 199 registros, 109 conclusões factuais, 51 sem conclusão definitiva e 39 propostas, perguntas ou opiniões.
+
 ## 2026-10-19 — inventário ampliado
 
 - Ampliação de 36 para 199 registros após leitura sequencial da transcrição de 687 parágrafos, com mapa de cobertura, blocos, localização e repetições agrupadas.
