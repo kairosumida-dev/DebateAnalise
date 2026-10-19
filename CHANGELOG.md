@@ -1,5 +1,15 @@
 # Histórico editorial
 
+## 2026-10-19 — revisão de mais cinco fichas
+
+- F54: verdadeira no sentido de aquisição federal durante Bolsonaro; cruzados contrato, distribuição pelo PNI e registro da aplicação, com ressalva da inferência sem lote individual.
+- F14: imprecisa; documentados autoria judicial e alcance da regra sobre regimes aberto e semiaberto.
+- F66: mantida em revisão; adicionados números primários de 2023–2025, sem presumir recorde histórico ou confundir baixa com falência.
+- L61: de apuração aberta para em revisão, com posição oficial e comparação da OMS; critérios de exclusividade ainda insuficientes.
+- F44: de apuração aberta para em revisão; adicionados julgamento de propaganda negativa e documento do TSE, sem equiparar remoção a condenação.
+- Duas novas conclusões, três revisões ainda abertas: 111 conclusões factuais, 49 sem conclusão definitiva e 39 registros não factuais.
+
+
 ## 2026-10-19 — nova rodada documental
 
 - L23: de apuração aberta para imprecisa; separados saldo do FMI em 31/12/2002 e limite do acordo, com conversão cambial reproduzível.

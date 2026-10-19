@@ -849,6 +849,69 @@
       "type": "Fonte primária · documento oficial",
       "published_at": null,
       "accessed_at": "2026-10-19"
+    },
+    "cnjregimes": {
+      "title": "CNJ · intimação prévia para execução em regime aberto e semiaberto",
+      "url": "https://www.cnj.jus.br/cnj-mantem-ordem-para-evitar-prisoes-automaticas-em-regimes-aberto-e-semiaberto/",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "pna2021": {
+      "title": "Ministério da Saúde · 5º informe técnico da vacinação, 08/03/2021",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/covid-19/informes-tecnicos/2021/5o-informe-tecnico.pdf",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "coronavaccontrato": {
+      "title": "Butantan · conclusão da entrega de 100 milhões de doses contratadas pelo Ministério",
+      "url": "https://www.butantan.gov.br/noticias/butantan-entrega-69-milhoes-de-doses-da-coronavac-encerra-contrato-de-100-milhoes-de-doses-com-ministerio-e-inicia-substituicao-de-vacinas-retidas",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "lulavacinado2021": {
+      "title": "ANSA · registro da vacinação de Lula em 13/03/2021",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/ansa/2021/03/13/lula-e-vacinado-contra-covid-19-em-sao-bernardo.amp.htm",
+      "type": "Registro jornalístico contemporâneo",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "mempresposta2026": {
+      "title": "MEMP · Ofício SEI 1500/2026, resposta ao RIC 227/2026, quadro da página 5",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3135780&filename=Tramitacao-18-RIC-227-2026",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "suscomparacaooficial": {
+      "title": "Ministério da Saúde · apresentação SUS Digital, 2024",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/julho/arquivos/apresentacao-sus-digital.pdf",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "omsjapao": {
+      "title": "OMS · revisão do sistema de saúde japonês",
+      "url": "https://apo.who.int/publications/9789290226260",
+      "type": "Estudo de organização internacional",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "tseremocoes2022": {
+      "title": "TSE · remoções de conteúdo e narrativas enganosas nas eleições de 2022",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/combate-a-desinformacao-tse-derruba-mais-de-uma-centena-de-postagens-com-narrativas-enganosas",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "tsemultalula2024": {
+      "title": "Estadão · multa por impulsionamento de propaganda negativa em 2024",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/04/30/tse-condena-lula-e-sua-coligacao-a-pagarem-r-250-mil-por-campanha-negativa-contra-bolsonaro.htm",
+      "type": "Registro jornalístico de julgamento",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -1031,14 +1094,15 @@
       "id": "F14",
       "candidate": "Flávio Bolsonaro",
       "theme": "Segurança",
-      "status": "pendente",
+      "status": "imprecisa",
       "claim": "Governo manda soltar criminosos perigosos por falta de vagas.",
-      "evidence": "Falta identificar uma norma ou ordem executiva que determine a soltura automática descrita; decisões judiciais e progressão de regime não são ordens do presidente.",
+      "evidence": "A regra documentada pelo CNJ exige intimação antes do mandado para iniciar pena em regime aberto ou semiaberto e revê mandados emitidos nessas condições. É uma determinação do Judiciário sobre execução penal, baseada em resoluções de 2021 e 2022; não equivale a ordem presidencial geral de libertar criminosos perigosos por falta de vagas.",
       "sources": [
+        "cnjregimes",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária",
+      "note": "O CNJ identifica o Pedido de Providências 0008070-64.2022.2.00.0000 e o art. 23 da Resolução 417/2021, alterado pela 474/2022. A conclusão corrige autoria, abrangência e condições da medida documentada; não nega a superlotação nem presume que toda soltura seja adequada. A fala não identifica uma ordem executiva específica.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         10
@@ -3794,16 +3858,17 @@
       "theme": "Trabalho",
       "status": "em_revisao",
       "claim": "Há recorde de empresas fechadas.",
-      "evidence": "A Lupa registra 2,8 milhões de empresas extintas em 2025, abaixo de 3,3 milhões em 2008, e saldo líquido positivo. Outra checagem usa falências, que não são sinônimo de encerramento.",
+      "evidence": "A resposta oficial do MEMP registra 2.174.540 empresas fechadas em 2023, 2.444.353 em 2024 e 2.834.016 em 2025: há aumento e 2025 é o maior dos três anos apresentados. O mesmo quadro informa 5.064.779 aberturas em 2025, saldo de 2.230.763. Esse recorte não estabelece recorde histórico.",
       "sources": [
+        "mempresposta2026",
         "encerramentos",
         "transcricao"
       ],
       "paragraphs": [
         383
       ],
-      "note": "Mantido em revisão até conciliar a série original e o período pretendido. Não trocamos a medida citada por falências para produzir um veredito.",
-      "verification": "Secundária",
+      "note": "Ofício SEI 1500/2026, quadro da página 5. A comparação com 2008 mencionada pela Lupa ainda precisa ser reconciliada com a série original e sua metodologia. Falências, baixas de CNPJ e exclusões do Simples são medidas distintas. Saldo positivo não refuta, sozinho, recorde de encerramentos.",
+      "verification": "Primária",
       "quote_type": "Paráfrase da transcrição consultada",
       "transcript_source": "transcricao",
       "transcript_url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
@@ -3845,14 +3910,16 @@
       "id": "F44",
       "candidate": "Flávio Bolsonaro",
       "theme": "Eleições",
-      "status": "pendente",
+      "status": "em_revisao",
       "claim": "Lula foi condenado várias vezes pelo TSE por desinformação.",
-      "evidence": "Faltam números dos processos, decisões e resultado dos recursos. Liminar de remoção e condenação definitiva não são equivalentes.",
+      "evidence": "Há registro de multa de R$ 250 mil a Lula e sua coligação por impulsionamento de propaganda negativa em 2022, julgada em 2024. O TSE também documenta remoções de narrativas enganosas contra candidatos em 2022. Esses registros não bastam para afirmar que Lula sofreu várias condenações pessoais por fake news: é preciso identificar cada processo e seu fundamento.",
       "sources": [
+        "tsemultalula2024",
+        "tseremocoes2022",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária e secundária",
+      "note": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         386,
@@ -4828,14 +4895,16 @@
       "id": "L61",
       "candidate": "Lula",
       "theme": "Saúde",
-      "status": "pendente",
+      "status": "em_revisao",
       "claim": "Brasil seria o único país com mais de 100 milhões de habitantes com sistema como o SUS.",
-      "evidence": "Falta definir como o SUS é comparado aos sistemas de outros países: universalidade legal, gratuidade no ponto de uso, cobertura efetiva e população.",
+      "evidence": "O Ministério da Saúde apresenta o SUS como singular entre países com mais de 100 milhões de habitantes pela oferta gratuita. A OMS documenta cobertura universal também no Japão, com outro modelo de financiamento. Portanto, universalidade, gratuidade, tamanho e qualidade precisam ser comparados separadamente; uma referência ao Japão não refuta automaticamente a formulação sobre o SUS.",
       "sources": [
+        "suscomparacaooficial",
+        "omsjapao",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária e estudo",
+      "note": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         552
@@ -4854,15 +4923,17 @@
       "id": "F54",
       "candidate": "Flávio Bolsonaro",
       "theme": "Saúde",
-      "status": "em_revisao",
+      "status": "verdadeira",
       "claim": "Lula recebeu vacina comprada por Bolsonaro.",
-      "evidence": "Lula recebeu CoronaVac; o Butantan registra contratos federais de aquisição dessa vacina em 2021. A marca, isoladamente, não prova nem exclui o custeio federal da dose recebida.",
+      "evidence": "Lula recebeu CoronaVac em 13/03/2021 na vacinação pública de São Bernardo. O Ministério da Saúde contratou a CoronaVac do Butantan e a distribuiu pelo PNI durante o governo Bolsonaro. Assim, a atribuição de compra ao governo federal tem respaldo; ser uma vacina do Butantan não exclui compra federal.",
       "sources": [
-        "coronavac",
+        "coronavaccontrato",
+        "pna2021",
+        "lulavacinado2021",
         "transcricao"
       ],
-      "verification": "Primária",
-      "note": "Falta rastrear o lote ou a documentação da vacinação de Lula. Não adotamos a conclusão de que ser CoronaVac basta para negar a compra federal.",
+      "verification": "Primária e secundária",
+      "note": "Conclusão sobre a aquisição pública no governo Bolsonaro, não sobre pagamento pessoal do presidente ou autoria do desenvolvimento. O registro da aplicação é jornalístico; a aquisição e a distribuição têm documentos primários. A vinculação à compra federal decorre desse contexto de fornecimento ao PNI, sem auditoria do lote individual.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         555
@@ -6472,7 +6543,26 @@
     "transcript_inventory": "concluído",
     "documentary_checking": "em andamento",
     "audiovisual_audit": "não realizada",
-    "date": "2026-10-19"
+    "date": "2026-10-19",
+    "latest_round": {
+      "date": "2026-10-19",
+      "reviewed_ids": [
+        "F54",
+        "F14",
+        "F66",
+        "L61",
+        "F44"
+      ],
+      "new_factual_conclusions": [
+        "F54",
+        "F14"
+      ],
+      "still_under_review": [
+        "F66",
+        "L61",
+        "F44"
+      ]
+    }
   },
   "fiscal": {
     "source": "rtnhistorico",
