@@ -28,6 +28,8 @@ Pesquisa complementar: **cinco novas conclusões**, total de **131 conclusões f
 
 Última rodada de dez fichas: cinco novas conclusões factuais, totalizando **136 conclusões, 23 inconclusivas e 40 registros não factuais**. As outras cinco fichas da rodada receberam documentação e limites adicionais. [Registro da rodada](docs/data/review-ten-final.json).
 
+Rodada complementar de cinco: **duas novas conclusões**, total de **138 conclusões factuais, 21 inconclusivas e 40 registros não factuais**. Três fichas receberam evidência adicional sem confirmação da acusação. [Registro](docs/data/review-five-final.json).
+
 ## Executar localmente
 
 Sem instalação de pacotes:

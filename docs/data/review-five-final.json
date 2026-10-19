@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-19",
+  "scope": "Mais cinco fichas investigadas: duas novas conclusões factuais e três sem comprovação, com ressalvas adicionais.",
+  "records": [
+    {
+      "id": "F33",
+      "previous_status": "sem_comprovacao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "pacote350composicao",
+        "pacotefiscal2026",
+        "transcricao"
+      ],
+      "limitation": "O levantamento é atribuído pela Veja a Marcos Mendes e ao Estadão; não foi reproduzido integralmente pelo projeto nem confirmado como a fonte usada pelo candidato. A correção é conceitual: financiamento, estoque de dívida abrangida e despesa efetiva são diferentes. Isso não significa que crédito reembolsável tenha custo fiscal zero."
+    },
+    {
+      "id": "L43",
+      "previous_status": "em_revisao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "adrianoinvestigacao",
+        "marielleautos",
+        "transcricao"
+      ],
+      "limitation": "Emprego de parentes e ligações com milícia não comprovam autoria ou mando desse assassinato. O estágio de 2023 foi cotejado com a decisão noticiada pelo STF em fevereiro de 2026; a condenação de outros réus, isoladamente, não provaria inexistência de qualquer outro envolvido. A ficha não atribui inocência geral a Adriano por outros crimes."
+    },
+    {
+      "id": "F22",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "lulinhadepoimento",
+        "reuterslulinha2026",
+        "transcricao"
+      ],
+      "limitation": "A manifestação da defesa é uma posição da parte e antecede outubro; não comprova toda a conduta posterior. Também não comprova inocência. A pesquisa não transforma falta de mandado localizado em certidão de inexistência de ordem judicial."
+    },
+    {
+      "id": "F32",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "filmeinvestigacao",
+        "filmecontas",
+        "transcricao"
+      ],
+      "limitation": "A investigação da origem e a investigação do destino são distintas: uma lacuna sobre recursos públicos não prova desvio de dinheiro do filme. A nota da produtora comprova sua declaração, não a validação judicial de todas as despesas. Não se utiliza a fala diferente sobre contas na sabatina da Globo como se fosse a mesma afirmação do debate."
+    },
+    {
+      "id": "F42",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "afpluisclaudio",
+        "medidaprotetiva2024",
+        "inqueritoluis2024",
+        "transcricao"
+      ],
+      "limitation": "Não foi obtido desfecho judicial posterior que permita atestar culpa ou absolvição na data do debate. Um vídeo falso atribuído ao filho de Lula também circulou, mas o debate não citou esse vídeo: sua falsidade não é usada para refutar automaticamente a acusação verbal."
+    }
+  ]
+}

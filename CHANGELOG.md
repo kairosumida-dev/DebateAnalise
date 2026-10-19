@@ -1,5 +1,14 @@
 # Histórico editorial
 
+## 2026-10-19 — mais cinco fichas investigadas
+
+- F33: imprecisa; composição da cifra de R$ 350 bilhões mistura crédito, renúncias, despesas e propostas, sem comprovar execução integral ou finalidade exclusiva eleitoral. Conferência secundária, cálculo não reproduzido integralmente.
+- L43: imprecisa; documentação sobre Adriano e decisão do STF sobre os mandantes distinguem emprego de parentes, relação com milícia e autoria do assassinato.
+- F22: posição da defesa e residência documentadas, sem certificar condição de foragido ou inexistência de ordem judicial.
+- F32: cotejadas nota da produtora e lacunas da investigação financeira, distinguindo origem e destino dos recursos.
+- F42: acrescida apuração da AFP sobre não indiciamento e ausência de resposta do MP; não presumido desfecho posterior nem atribuída ao debate referência a vídeo falso.
+- Duas novas conclusões e três fichas sem comprovação. Total: 138 conclusões, 21 inconclusivas e 40 registros não factuais.
+
 ## 2026-10-19 — mais dez fichas investigadas
 
 - L66: imprecisa por omitir o período; cifra industrial de 3,4% localizada no primeiro semestre de 2024, páginas 16 e 24 do caderno do IBGE. Não se presume confusão com o PIB total.

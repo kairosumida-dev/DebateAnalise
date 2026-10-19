@@ -1253,6 +1253,36 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/instituto-questiona-no-stf-criacao-de-cadastro-nacional-de-pedofilos-e-predadores-sexuais/",
       "type": "Fonte primária · notícia de ação judicial",
       "accessed_at": "2026-10-19"
+    },
+    "pacote350composicao": {
+      "title": "Veja · composição dos R$ 350 bilhões anunciados",
+      "url": "https://veja.abril.com.br/economia/medidas-tomadas-pelo-governo-lula-em-ano-eleitoral-somam-r-350-bi-em-impacto-fiscal/",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "adrianoinvestigacao": {
+      "title": "Folha · participação de Adriano descartada e relato de recusa da encomenda",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2023/10/delator-do-caso-marielle-diz-que-policiais-do-rio-tentaram-extorquir-dinheiro-de-suspeito.shtml",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "lulinhadepoimento": {
+      "title": "Folha · comunicação de disponibilidade para depor, março de 2026",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/03/lulinha-diz-a-mendonca-que-voltara-ao-brasil-para-depor-e-defesa-ja-nao-ve-risco-de-prisao.shtml",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "filmeinvestigacao": {
+      "title": "Folha · lacunas da investigação financeira do filme em setembro de 2026",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/policia-civil-deixou-produtora-de-dark-horse-de-fora-de-pedido-ao-coaf.shtml",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "afpluisclaudio": {
+      "title": "AFP · inquérito concluído sem indiciamento e ausência de atualização do MP",
+      "url": "https://checamos.afp.com/doc.afp.com.38UV99D",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -2592,13 +2622,14 @@
       "theme": "Corrupção e INSS",
       "status": "sem_comprovacao",
       "claim": "Lulinha está fugido na Espanha.",
-      "evidence": "Residir no exterior não prova fuga. Falta documento que indique ordem de prisão descumprida ou reconhecimento formal da condição de foragido.",
+      "evidence": "A residência de Lulinha na Espanha é documentada. Em março de 2026, sua defesa informou ao STF disponibilidade para voltar e depor. Isso não permite, por si só, tratá-lo como foragido; não foi obtido mandado descumprido ou ato judicial que confirme essa condição na data do debate.",
       "sources": [
+        "lulinhadepoimento",
         "reuterslulinha2026",
         "transcricao"
       ],
-      "verification": "Secundária · acusação não demonstrada",
-      "note": "Residir no exterior não prova fuga. Falta documento que indique ordem de prisão descumprida ou reconhecimento formal da condição de foragido. A investigação e a quebra de sigilo são documentadas; não equivalem a culpa, condição de foragido ou prova de seleção política de alvos.",
+      "verification": "Secundária",
+      "note": "A manifestação da defesa é uma posição da parte e antecede outubro; não comprova toda a conduta posterior. Também não comprova inocência. A pesquisa não transforma falta de mandado localizado em certidão de inexistência de ordem judicial.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         101
@@ -2615,7 +2646,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "Residir no exterior não prova fuga. Falta documento que indique ordem de prisão descumprida ou reconhecimento formal da condição de foragido. A investigação e a quebra de sigilo são documentadas; não equivalem a culpa, condição de foragido ou prova de seleção política de alvos."
+        "limitation": "A manifestação da defesa é uma posição da parte e antecede outubro; não comprova toda a conduta posterior. Também não comprova inocência. A pesquisa não transforma falta de mandado localizado em certidão de inexistência de ordem judicial."
       }
     },
     {
@@ -3284,13 +3315,14 @@
       "theme": "Corrupção e INSS",
       "status": "sem_comprovacao",
       "claim": "Todos os recursos de Vorcaro foram destinados ao filme.",
-      "evidence": "A produtora declarou destinação integral dos aportes à produção e informou prestação de contas judicial. A declaração da parte interessada não substitui auditoria do destino de cada repasse.",
+      "evidence": "A Go Up declarou que os recursos recebidos foram destinados ao filme e que apresentou contas em junho. Em setembro, a cobertura da investigação ainda apontava falta de esclarecimento sobre a origem de recursos e lacunas nos pedidos de dados financeiros. Não foi obtida auditoria que rastreie cada aporte até a despesa correspondente.",
       "sources": [
+        "filmeinvestigacao",
         "filmecontas",
         "transcricao"
       ],
       "verification": "Secundária",
-      "note": "Não afirmamos desvio sem prova; também não tratamos a negativa de desvio como comprovação independente.",
+      "note": "A investigação da origem e a investigação do destino são distintas: uma lacuna sobre recursos públicos não prova desvio de dinheiro do filme. A nota da produtora comprova sua declaração, não a validação judicial de todas as despesas. Não se utiliza a fala diferente sobre contas na sabatina da Globo como se fosse a mesma afirmação do debate.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         208,
@@ -3313,7 +3345,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "Não afirmamos desvio sem prova; também não tratamos a negativa de desvio como comprovação independente."
+        "limitation": "A investigação da origem e a investigação do destino são distintas: uma lacuna sobre recursos públicos não prova desvio de dinheiro do filme. A nota da produtora comprova sua declaração, não a validação judicial de todas as despesas. Não se utiliza a fala diferente sobre contas na sabatina da Globo como se fosse a mesma afirmação do debate."
       }
     },
     {
@@ -3469,15 +3501,16 @@
       "id": "F33",
       "candidate": "Flávio Bolsonaro",
       "theme": "Gastos públicos",
-      "status": "sem_comprovacao",
+      "status": "imprecisa",
       "claim": "Lula gastou R$ 350 bilhões para se reeleger.",
-      "evidence": "Falta memória de cálculo do total, separando despesa, crédito e renúncia futura. A finalidade eleitoral alegada também requer evidência própria.",
+      "evidence": "Uma compilação publicada em outubro reúne mais de R$ 350 bilhões em medidas, mas soma crédito reembolsável, subsídios, benefícios e renúncias, incluindo propostas ainda não executadas. Esse montante não equivale a R$ 350 bilhões já gastos pelo Tesouro. A finalidade exclusiva de reeleição também não é demonstrada pela soma.",
       "sources": [
+        "pacote350composicao",
         "pacotefiscal2026",
         "transcricao"
       ],
-      "verification": "Secundária · cálculo não reproduzido",
-      "note": "A reportagem apresenta estimativa de impacto de um pacote que inclui medidas futuras, como o Prospera MEI em 2027. Impacto anunciado, crédito e despesa já executada não são equivalentes. Sem memória de cálculo completa, os R$ 350 bilhões de gasto para reeleição não foram confirmados.",
+      "verification": "Secundária",
+      "note": "O levantamento é atribuído pela Veja a Marcos Mendes e ao Estadão; não foi reproduzido integralmente pelo projeto nem confirmado como a fonte usada pelo candidato. A correção é conceitual: financiamento, estoque de dívida abrangida e despesa efetiva são diferentes. Isso não significa que crédito reembolsável tenha custo fiscal zero.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         234,
@@ -3495,8 +3528,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "A reportagem apresenta estimativa de impacto de um pacote que inclui medidas futuras, como o Prospera MEI em 2027. Impacto anunciado, crédito e despesa já executada não são equivalentes. Sem memória de cálculo completa, os R$ 350 bilhões de gasto para reeleição não foram confirmados."
+        "outcome": "conclusao_factual",
+        "limitation": "O levantamento é atribuído pela Veja a Marcos Mendes e ao Estadão; não foi reproduzido integralmente pelo projeto nem confirmado como a fonte usada pelo candidato. A correção é conceitual: financiamento, estoque de dívida abrangida e despesa efetiva são diferentes. Isso não significa que crédito reembolsável tenha custo fiscal zero."
       }
     },
     {
@@ -3957,15 +3990,16 @@
       "id": "L43",
       "candidate": "Lula",
       "theme": "Segurança",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "Liga o Escritório do Crime à autoria da morte de Marielle.",
-      "evidence": "O STF condenou os irmãos Brazão e outros réus pelo planejamento do crime. Esse julgamento não comprova, por si só, a atribuição de mando a Adriano da Nóbrega ou ao Escritório do Crime feita na fala.",
+      "evidence": "A fala associa parentes de Adriano da Nóbrega empregados no gabinete ao mando da morte de Marielle. A Folha registra que investigadores descartaram sua participação e que teria recusado uma sondagem para executar o crime. Em 2026, o STF condenou os irmãos Brazão e Ronald Paulo Alves Pereira pelo planejamento. A associação feita no debate extrapola esses registros.",
       "sources": [
+        "adrianoinvestigacao",
         "marielleautos",
         "transcricao"
       ],
-      "verification": "Primária",
-      "note": "Emprego de parentes, vínculo com milícia e autoria do assassinato são fatos distintos; não inferimos um a partir do outro.",
+      "verification": "Primária e secundária",
+      "note": "Emprego de parentes e ligações com milícia não comprovam autoria ou mando desse assassinato. O estágio de 2023 foi cotejado com a decisão noticiada pelo STF em fevereiro de 2026; a condenação de outros réus, isoladamente, não provaria inexistência de qualquer outro envolvido. A ficha não atribui inocência geral a Adriano por outros crimes.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         312
@@ -3981,8 +4015,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Emprego de parentes, vínculo com milícia e autoria do assassinato são fatos distintos; não inferimos um a partir do outro."
+        "outcome": "conclusao_factual",
+        "limitation": "Emprego de parentes e ligações com milícia não comprovam autoria ou mando desse assassinato. O estágio de 2023 foi cotejado com a decisão noticiada pelo STF em fevereiro de 2026; a condenação de outros réus, isoladamente, não provaria inexistência de qualquer outro envolvido. A ficha não atribui inocência geral a Adriano por outros crimes."
       }
     },
     {
@@ -4164,14 +4198,15 @@
       "theme": "Mulheres",
       "status": "sem_comprovacao",
       "claim": "Filho de Lula agrediu a esposa.",
-      "evidence": "Houve acusação e medida protetiva em 2024. A cobertura da conclusão policial informa ausência de indiciamento naquele inquérito. Esses documentos não autorizam tratar a agressão como fato judicialmente comprovado, nem presumir que uma medida protetiva seja condenação.",
+      "evidence": "A AFP registra que a polícia concluiu o inquérito em julho de 2024 sem indiciamento, por não constatar lesão corporal nem violência psicológica. A medida protetiva e a acusação existiram, mas não são condenação. A agência informou não ter recebido resposta do MP sobre atualização até março de 2025.",
       "sources": [
+        "afpluisclaudio",
         "medidaprotetiva2024",
         "inqueritoluis2024",
         "transcricao"
       ],
       "verification": "Secundária",
-      "note": "Luís Cláudio negou as acusações. Não indiciar não equivale a decisão definitiva sobre todos os fatos; a ficha não atesta inocência ou culpa.",
+      "note": "Não foi obtido desfecho judicial posterior que permita atestar culpa ou absolvição na data do debate. Um vídeo falso atribuído ao filho de Lula também circulou, mas o debate não citou esse vídeo: sua falsidade não é usada para refutar automaticamente a acusação verbal.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         350
@@ -4188,7 +4223,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "Luís Cláudio negou as acusações. Não indiciar não equivale a decisão definitiva sobre todos os fatos; a ficha não atesta inocência ou culpa."
+        "limitation": "Não foi obtido desfecho judicial posterior que permita atestar culpa ou absolvição na data do debate. Um vídeo falso atribuído ao filho de Lula também circulou, mas o debate não citou esse vídeo: sua falsidade não é usada para refutar automaticamente a acusação verbal."
       }
     },
     {
@@ -7162,36 +7197,26 @@
   "coverage_description": "Leitura sequencial de todos os 687 parágrafos da transcrição publicada, com repetições agrupadas e fichas cronológicas. Auditoria audiovisual e apurações documentais indicadas permanecem abertas.",
   "review_summary": {
     "transcript_inventory": "concluído",
-    "documentary_checking": "136 conclusões factuais; 23 fichas ainda inconclusivas",
+    "documentary_checking": "138 conclusões factuais; 21 fichas ainda inconclusivas",
     "audiovisual_audit": "não realizada",
     "date": "2026-10-19",
     "latest_round": {
       "date": "2026-10-19",
       "reviewed_ids": [
-        "L66",
-        "L74",
-        "L78",
-        "F66",
-        "F67",
-        "L76",
-        "F23",
-        "F44",
-        "L61",
-        "P04"
+        "F33",
+        "L43",
+        "F22",
+        "F32",
+        "F42"
       ],
       "new_factual_conclusions": [
-        "L66",
-        "L74",
-        "L78",
-        "F66",
-        "F67"
+        "F33",
+        "L43"
       ],
       "still_under_review": [
-        "L76",
-        "F23",
-        "F44",
-        "L61",
-        "P04"
+        "F22",
+        "F32",
+        "F42"
       ]
     },
     "previous_rounds": [
@@ -7417,6 +7442,35 @@
           "L76",
           "L78",
           "L79"
+        ]
+      },
+      {
+        "date": "2026-10-19",
+        "reviewed_ids": [
+          "L66",
+          "L74",
+          "L78",
+          "F66",
+          "F67",
+          "L76",
+          "F23",
+          "F44",
+          "L61",
+          "P04"
+        ],
+        "new_factual_conclusions": [
+          "L66",
+          "L74",
+          "L78",
+          "F66",
+          "F67"
+        ],
+        "still_under_review": [
+          "L76",
+          "F23",
+          "F44",
+          "L61",
+          "P04"
         ]
       }
     ],
