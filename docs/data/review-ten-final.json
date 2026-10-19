@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-19",
+  "scope": "Dez fichas investigadas: cinco novas conclusões factuais e cinco revisões inconclusivas. A meta numérica não substitui suficiência de evidência.",
+  "records": [
+    {
+      "id": "L66",
+      "previous_status": "em_revisao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "ibge2024semestre",
+        "industria2024",
+        "pib2025anual",
+        "pib2026",
+        "transcricao"
+      ],
+      "limitation": "Não se conclui que o candidato trocou necessariamente PIB total por indústria: foi localizado um indicador industrial com a cifra exata. A imprecisão é de referência temporal; o resultado anual de 2024 e os resultados de 2025 são recortes distintos. A divulgação histórica pode ser revisada pelo IBGE."
+    },
+    {
+      "id": "L74",
+      "previous_status": "em_revisao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "bcbfechamento2022",
+        "fiscal2022",
+        "rtn2023publicacao",
+        "transcricao"
+      ],
+      "limitation": "Percentuais do BC são os da publicação de 30/1/2023, sujeitos a revisões posteriores do PIB. O veredito vale para a apresentação dos 2,8% como resultado deixado pelo governo anterior: não nega obrigações adiadas nem equipara orçamento previsto a resultado realizado. Nenhuma dessas obrigações foi somada para produzir 2,8% nesta ficha."
+    },
+    {
+      "id": "L78",
+      "previous_status": "em_revisao",
+      "status": "verdadeira",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "fmmentregas2026",
+        "ansaproducao2026",
+        "fmm2026",
+        "fertilizantesinfrasa",
+        "transcricao"
+      ],
+      "limitation": "O núcleo confirmado é a retomada produtiva, não a recuperação integral de capacidade, emprego ou competitividade dos dois setores. O balanço de embarcações foi consultado no resultado indexado da publicação oficial; a página integral retornou 401. Não se atribui toda a produção exclusivamente ao presidente nem se afirma que todas as unidades tinham sido privatizadas."
+    },
+    {
+      "id": "F66",
+      "previous_status": "em_revisao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "encerramentos",
+        "mempresposta2026",
+        "transcricao"
+      ],
+      "limitation": "A comparação histórica com 2008 é secundária e não foi reproduzida diretamente no painel pelo projeto. A resposta oficial do MEMP sustenta apenas o recorte recente. Baixas cadastrais não equivalem a falências ou fechamento físico; saldo positivo de aberturas não refuta sozinho a alta de encerramentos."
+    },
+    {
+      "id": "F67",
+      "previous_status": "sem_comprovacao",
+      "status": "imprecisa",
+      "outcome": "conclusao_factual",
+      "sources": [
+        "bergerreunioes2026",
+        "marcolareuters2026",
+        "marcola",
+        "inqueritos",
+        "transcricao"
+      ],
+      "limitation": "A ficha não exige condenação para reconhecer uma reunião ou uma intermediação documentada. Também não trata intermediação como prova automática de corrupção. Berger afirmou não ter atendido aos pedidos da lobista; pagamentos e eventual favorecimento continuam sujeitos à apuração."
+    },
+    {
+      "id": "L76",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "rtnhistorico",
+        "fiscalhistorico",
+        "transcricao"
+      ],
+      "limitation": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade. A tabela 2 do estudo amplia a comparação anterior a 1997, mas não cobre todos os governos da história brasileira; por isso, não se declara comprovada a exclusividade irrestrita."
+    },
+    {
+      "id": "F23",
+      "previous_status": "sem_comprovacao",
+      "status": "sem_comprovacao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "sindnapirequerimento",
+        "sindnapidirecao",
+        "inss",
+        "transcricao"
+      ],
+      "limitation": "Cargo de Frei Chico confirmado pela entidade. A investigação sobre descontos do sindicato não autoriza atribuir a ele participação criminal nem presumir que todos os descontos fossem ilegais. O RIC 5506/2025 identifica formalmente os descontos do sindicato como objeto de investigação na Operação Sem Desconto. Um requerimento parlamentar documenta a apuração, não uma sentença ou a participação criminal do vice-presidente."
+    },
+    {
+      "id": "F44",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "multalulafundamento",
+        "tsemultalula2024",
+        "tseremocoes2022",
+        "transcricao"
+      ],
+      "limitation": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações. A reportagem de 29/4/2024 explicita que o fundamento da multa por impulsionamento independe da veracidade do conteúdo. Isso não comprova a pluralidade de condenações pessoais por desinformação alegada."
+    },
+    {
+      "id": "L61",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "omsuhcjapao",
+        "suscomparacaooficial",
+        "omsjapao",
+        "transcricao"
+      ],
+      "limitation": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada. O estudo da OMS documenta cobertura universal japonesa desde 1961 e copagamento: é um contraexemplo à exclusividade da universalidade, mas não um sistema idêntico ao SUS nem uma medida comum de tamanho e qualidade. Essa distinção impede um falso contraexemplo."
+    },
+    {
+      "id": "P04",
+      "previous_status": "em_revisao",
+      "status": "em_revisao",
+      "outcome": "inconclusiva",
+      "sources": [
+        "stfadicadastro",
+        "cnp2026",
+        "cadastropl2026",
+        "leicadastro2024",
+        "cnjgtcadastro",
+        "adpfcadastro",
+        "transcricao"
+      ],
+      "limitation": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade. A ADI 7871 discute a constitucionalidade da divulgação de dados. A notícia de ajuizamento não suspende automaticamente a lei nem certifica a situação operacional do serviço; a alegação de inatividade continua sem confirmação direta na data do debate."
+    }
+  ]
+}

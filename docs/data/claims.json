@@ -1205,6 +1205,54 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623939",
       "type": "Fonte primária · tramitação legislativa",
       "accessed_at": "2026-10-19"
+    },
+    "ibge2024semestre": {
+      "title": "IBGE · Contas Nacionais, 2º trimestre de 2024, páginas 16 e 24",
+      "url": "https://ftp.ibge.gov.br/Contas_Nacionais/Contas_Nacionais_Trimestrais/Fasciculo_Indicadores_IBGE/2024/pib-vol-val_202402caderno.pdf",
+      "type": "Fonte primária · tabela original",
+      "accessed_at": "2026-10-19"
+    },
+    "bcbfechamento2022": {
+      "title": "Banco Central · estatísticas fiscais de 30/1/2023, exercício 2022",
+      "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202301_Texto_de_estatisticas_fiscais.pdf",
+      "type": "Fonte primária · estatísticas fiscais",
+      "accessed_at": "2026-10-19"
+    },
+    "fmmentregas2026": {
+      "title": "Ministério de Portos · balanço de 70 embarcações entregues na Região Norte",
+      "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/06/com-recursos-do-fundo-da-marinha-mercante-regiao-norte-amplia-frota-com-70-novas-embarcacoes-nos-ultimos-tres-anos",
+      "type": "Registro oficial indexado · acesso integral retornou 401",
+      "accessed_at": "2026-10-19"
+    },
+    "bergerreunioes2026": {
+      "title": "Estado de Minas/PlatôBR · Berger admite reuniões solicitadas por Marcola",
+      "url": "https://www.em.com.br/politica/platobr/2026/08/7488199-berger-chefe-de-gabinete-adjunto-de-lula-segue-no-posto-mas-a-situacao-e-de-alerta.html",
+      "type": "Registro jornalístico",
+      "accessed_at": "2026-10-19"
+    },
+    "sindnapirequerimento": {
+      "title": "Câmara · RIC 5506/2025 sobre investigação de descontos do Sindnapi",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549363",
+      "type": "Fonte primária · requerimento de informação",
+      "accessed_at": "2026-10-19"
+    },
+    "multalulafundamento": {
+      "title": "Metrópoles · fundamento da multa de R$ 250 mil no TSE",
+      "url": "https://www.metropoles.com/brasil/tse-multa-lula-em-r-250-mil-por-propaganda-negativa-contra-bolsonaro",
+      "type": "Registro jornalístico de julgamento",
+      "accessed_at": "2026-10-19"
+    },
+    "omsuhcjapao": {
+      "title": "OMS · cobertura universal e qualidade no sistema japonês, 2016",
+      "url": "https://iris.who.int/bitstream/handle/10665/250579/WHO-HIS-SDS-2016.16-eng.pdf?sequence=1",
+      "type": "Estudo de organização internacional",
+      "accessed_at": "2026-10-19"
+    },
+    "stfadicadastro": {
+      "title": "STF · ADI 7871 questiona lei do cadastro de condenados por crimes sexuais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/instituto-questiona-no-stf-criacao-de-cadastro-nacional-de-pedofilos-e-predadores-sexuais/",
+      "type": "Fonte primária · notícia de ação judicial",
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -2689,10 +2737,11 @@
       "id": "F67",
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",
-      "status": "sem_comprovacao",
+      "status": "imprecisa",
       "claim": "Marcola, ex-chefe de gabinete de Lula, abria portas de ministérios para negócios de Roberta e Lulinha.",
-      "evidence": "Marcola é o apelido de Marco Aurélio Santana Ribeiro, ex-chefe de gabinete, e não referência ao dirigente do PCC. Há apuração sobre lobby, mas o favorecimento irregular específico requer documentação.",
+      "evidence": "Há base para o núcleo sobre acesso: a cobertura registra que Swedenberger Barbosa admitiu reuniões com Roberta a pedido de Marcola. Isso vai além de mera coincidência de contatos. Já a generalização para negócios efetivados de Lulinha e o enquadramento criminal não são comprovados por essa admissão.",
       "sources": [
+        "bergerreunioes2026",
         "marcolareuters2026",
         "marcola",
         "inqueritos",
@@ -2701,7 +2750,7 @@
       "paragraphs": [
         133
       ],
-      "note": "A Reuters registra suspeitas da PF e pagamentos relacionados a Roberta. Isso não comprova todo o favorecimento criminal afirmado. O apelido Marcola refere-se ao ex-assessor Marco Aurélio Santana Ribeiro, não ao dirigente do PCC.",
+      "note": "A ficha não exige condenação para reconhecer uma reunião ou uma intermediação documentada. Também não trata intermediação como prova automática de corrupção. Berger afirmou não ter atendido aos pedidos da lobista; pagamentos e eventual favorecimento continuam sujeitos à apuração.",
       "verification": "Secundária",
       "quote_type": "Paráfrase da transcrição consultada",
       "transcript_source": "transcricao",
@@ -2715,8 +2764,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "A Reuters registra suspeitas da PF e pagamentos relacionados a Roberta. Isso não comprova todo o favorecimento criminal afirmado. O apelido Marcola refere-se ao ex-assessor Marco Aurélio Santana Ribeiro, não ao dirigente do PCC."
+        "outcome": "conclusao_factual",
+        "limitation": "A ficha não exige condenação para reconhecer uma reunião ou uma intermediação documentada. Também não trata intermediação como prova automática de corrupção. Berger afirmou não ter atendido aos pedidos da lobista; pagamentos e eventual favorecimento continuam sujeitos à apuração."
       }
     },
     {
@@ -2727,12 +2776,13 @@
       "claim": "Frei Chico ocupa direção de sindicato que roubou aposentados.",
       "evidence": "O Sindnapi confirma Frei Chico como vice-presidente. A entidade esteve sob investigação por descontos; isso não estabelece, por si só, participação criminal dele.",
       "sources": [
+        "sindnapirequerimento",
         "sindnapidirecao",
         "inss",
         "transcricao"
       ],
       "verification": "Secundária",
-      "note": "Cargo de Frei Chico confirmado pela entidade. A investigação sobre descontos do sindicato não autoriza atribuir a ele participação criminal nem presumir que todos os descontos fossem ilegais.",
+      "note": "Cargo de Frei Chico confirmado pela entidade. A investigação sobre descontos do sindicato não autoriza atribuir a ele participação criminal nem presumir que todos os descontos fossem ilegais. O RIC 5506/2025 identifica formalmente os descontos do sindicato como objeto de investigação na Operação Sem Desconto. Um requerimento parlamentar documenta a apuração, não uma sentença ou a participação criminal do vice-presidente.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         137
@@ -2749,7 +2799,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "Cargo de Frei Chico confirmado pela entidade. A investigação sobre descontos do sindicato não autoriza atribuir a ele participação criminal nem presumir que todos os descontos fossem ilegais."
+        "limitation": "Cargo de Frei Chico confirmado pela entidade. A investigação sobre descontos do sindicato não autoriza atribuir a ele participação criminal nem presumir que todos os descontos fossem ilegais. O RIC 5506/2025 identifica formalmente os descontos do sindicato como objeto de investigação na Operação Sem Desconto. Um requerimento parlamentar documenta a apuração, não uma sentença ou a participação criminal do vice-presidente."
       }
     },
     {
@@ -4281,19 +4331,19 @@
       "id": "F66",
       "candidate": "Flávio Bolsonaro",
       "theme": "Trabalho",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "Há recorde de empresas fechadas.",
-      "evidence": "A resposta oficial do MEMP registra 2.174.540 empresas fechadas em 2023, 2.444.353 em 2024 e 2.834.016 em 2025: há aumento e 2025 é o maior dos três anos apresentados. O mesmo quadro informa 5.064.779 aberturas em 2025, saldo de 2.230.763. Esse recorte não estabelece recorde histórico.",
+      "evidence": "O MEMP confirma 2.834.016 empresas encerradas em 2025, maior valor no recorte 2023–2025. A Lupa reporta, a partir do Mapa de Empresas, cerca de 3,3 milhões em 2008: portanto, sua série não sustenta recorde histórico em 2025. Há aumento recente, mas falta delimitar a série para chamar de recorde.",
       "sources": [
-        "mempresposta2026",
         "encerramentos",
+        "mempresposta2026",
         "transcricao"
       ],
       "paragraphs": [
         383
       ],
-      "note": "Ofício SEI 1500/2026, quadro da página 5. A comparação com 2008 mencionada pela Lupa ainda precisa ser reconciliada com a série original e sua metodologia. Falências, baixas de CNPJ e exclusões do Simples são medidas distintas. Saldo positivo não refuta, sozinho, recorde de encerramentos.",
-      "verification": "Primária",
+      "note": "A comparação histórica com 2008 é secundária e não foi reproduzida diretamente no painel pelo projeto. A resposta oficial do MEMP sustenta apenas o recorte recente. Baixas cadastrais não equivalem a falências ou fechamento físico; saldo positivo de aberturas não refuta sozinho a alta de encerramentos.",
+      "verification": "Primária e secundária",
       "quote_type": "Paráfrase da transcrição consultada",
       "transcript_source": "transcricao",
       "transcript_url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
@@ -4306,8 +4356,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Ofício SEI 1500/2026, quadro da página 5. A comparação com 2008 mencionada pela Lupa ainda precisa ser reconciliada com a série original e sua metodologia. Falências, baixas de CNPJ e exclusões do Simples são medidas distintas. Saldo positivo não refuta, sozinho, recorde de encerramentos."
+        "outcome": "conclusao_factual",
+        "limitation": "A comparação histórica com 2008 é secundária e não foi reproduzida diretamente no painel pelo projeto. A resposta oficial do MEMP sustenta apenas o recorte recente. Baixas cadastrais não equivalem a falências ou fechamento físico; saldo positivo de aberturas não refuta sozinho a alta de encerramentos."
       }
     },
     {
@@ -4349,12 +4399,13 @@
       "claim": "Lula foi condenado várias vezes pelo TSE por desinformação.",
       "evidence": "Há registro de multa de R$ 250 mil a Lula e sua coligação por impulsionamento de propaganda negativa em 2022, julgada em 2024. O TSE também documenta remoções de narrativas enganosas contra candidatos em 2022. Esses registros não bastam para afirmar que Lula sofreu várias condenações pessoais por fake news: é preciso identificar cada processo e seu fundamento.",
       "sources": [
+        "multalulafundamento",
         "tsemultalula2024",
         "tseremocoes2022",
         "transcricao"
       ],
       "verification": "Primária e secundária",
-      "note": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações.",
+      "note": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações. A reportagem de 29/4/2024 explicita que o fundamento da multa por impulsionamento independe da veracidade do conteúdo. Isso não comprova a pluralidade de condenações pessoais por desinformação alegada.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         386,
@@ -4372,7 +4423,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações."
+        "limitation": "Multa por impulsionamento negativo pode existir independentemente da veracidade do conteúdo. Ordem de retirada, multa por descumprimento e condenação no mérito são decisões diferentes. A íntegra dos acórdãos e a relação completa de processos continuam necessárias; a pesquisa parcial não prova inexistência de outras condenações. A reportagem de 29/4/2024 explicita que o fundamento da multa por impulsionamento independe da veracidade do conteúdo. Isso não comprova a pluralidade de condenações pessoais por desinformação alegada."
       }
     },
     {
@@ -5358,12 +5409,13 @@
       "claim": "Brasil seria o único país com mais de 100 milhões de habitantes com sistema como o SUS.",
       "evidence": "O Ministério da Saúde apresenta o SUS como singular entre países com mais de 100 milhões de habitantes pela oferta gratuita. A OMS documenta cobertura universal também no Japão, com outro modelo de financiamento. Portanto, universalidade, gratuidade, tamanho e qualidade precisam ser comparados separadamente; uma referência ao Japão não refuta automaticamente a formulação sobre o SUS.",
       "sources": [
+        "omsuhcjapao",
         "suscomparacaooficial",
         "omsjapao",
         "transcricao"
       ],
       "verification": "Primária e estudo",
-      "note": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada.",
+      "note": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada. O estudo da OMS documenta cobertura universal japonesa desde 1961 e copagamento: é um contraexemplo à exclusividade da universalidade, mas não um sistema idêntico ao SUS nem uma medida comum de tamanho e qualidade. Essa distinção impede um falso contraexemplo.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         552
@@ -5380,7 +5432,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada."
+        "limitation": "A transcrição fala em tamanho e qualidade, sem definir indicadores. A apresentação governamental registra a posição oficial, mas não oferece uma auditoria comparativa de todos os países populosos. Falta fixar critérios e comparar cobertura, financiamento e resultados; a exclusividade não foi confirmada nem refutada nesta rodada. O estudo da OMS documenta cobertura universal japonesa desde 1961 e copagamento: é um contraexemplo à exclusividade da universalidade, mas não um sistema idêntico ao SUS nem uma medida comum de tamanho e qualidade. Essa distinção impede um falso contraexemplo."
       }
     },
     {
@@ -5773,17 +5825,18 @@
       "id": "L66",
       "candidate": "Lula",
       "theme": "Indústria",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "PIB industrial voltou a crescer 3,4%.",
-      "evidence": "O IBGE informa, na divulgação de 2024, crescimento de 3,4% do PIB total e 3,3% da indústria. Para 2025, informa 2,3% no total e 1,4% na indústria. A cifra industrial de 3,4% citada sem ano ainda não foi conciliada com uma série e um período definidos.",
+      "evidence": "Existe um recorte industrial de 3,4%: o IBGE registrou essa alta no primeiro semestre de 2024 frente ao mesmo semestre de 2023. O caderno original confirma o número nas páginas 16 e 24. A fala omite o período e pode ser confundida com o crescimento anual ou com o resultado mais recente de 2026.",
       "sources": [
+        "ibge2024semestre",
         "industria2024",
         "pib2025anual",
         "pib2026",
         "transcricao"
       ],
       "verification": "Primária",
-      "note": "Esses resultados não autorizam trocar o indicador: PIB industrial não é PIB total nem produção física da PIM. Sem identificar a referência temporal da fala, a diferença não basta para uma conclusão definitiva.",
+      "note": "Não se conclui que o candidato trocou necessariamente PIB total por indústria: foi localizado um indicador industrial com a cifra exata. A imprecisão é de referência temporal; o resultado anual de 2024 e os resultados de 2025 são recortes distintos. A divulgação histórica pode ser revisada pelo IBGE.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         594
@@ -5799,8 +5852,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Esses resultados não autorizam trocar o indicador: PIB industrial não é PIB total nem produção física da PIM. Sem identificar a referência temporal da fala, a diferença não basta para uma conclusão definitiva."
+        "outcome": "conclusao_factual",
+        "limitation": "Não se conclui que o candidato trocou necessariamente PIB total por indústria: foi localizado um indicador industrial com a cifra exata. A imprecisão é de referência temporal; o resultado anual de 2024 e os resultados de 2025 são recortes distintos. A divulgação histórica pode ser revisada pelo IBGE."
       }
     },
     {
@@ -6354,6 +6407,7 @@
       "claim": "O Cadastro Nacional de Pedófilos não foi colocado em funcionamento.",
       "evidence": "A Lei 15.035/2024 determina a criação do cadastro e a consulta pública. O CNJ instituiu grupo de trabalho pela Portaria 153/2025, alterada em junho de 2026. Em outubro de 2026, a ADPF 1328 discutia alegada omissão na implementação. Há documentação do problema institucional, mas falta confirmação operacional direta na data do debate.",
       "sources": [
+        "stfadicadastro",
         "cnp2026",
         "cadastropl2026",
         "leicadastro2024",
@@ -6362,7 +6416,7 @@
         "transcricao"
       ],
       "verification": "Primária e secundária",
-      "note": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade.",
+      "note": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade. A ADI 7871 discute a constitucionalidade da divulgação de dados. A notícia de ajuizamento não suspende automaticamente a lei nem certifica a situação operacional do serviço; a alegação de inatividade continua sem confirmação direta na data do debate.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -6380,7 +6434,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade."
+        "limitation": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional. A Consulta Nacional de Pessoas anunciada pelo CNJ em setembro é restrita a magistrados e não comprova a consulta pública do cadastro discutido. O PL 2336/2026 é proposta legislativa, não certificado de operação ou de inatividade. A ADI 7871 discute a constitucionalidade da divulgação de dados. A notícia de ajuizamento não suspende automaticamente a lei nem certifica a situação operacional do serviço; a alegação de inatividade continua sem confirmação direta na data do debate."
       }
     },
     {
@@ -6694,16 +6748,17 @@
       "id": "L74",
       "candidate": "Lula",
       "theme": "Contas públicas",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "Herdou déficit de 2,8% do governo anterior.",
-      "evidence": "O TCU documenta superávit primário do Governo Central em 2022. A apresentação do Tesouro para 2023 registra déficit primário de 2,1% do PIB, afetado pelo pagamento de precatórios. Nenhum desses resultados corresponde diretamente aos 2,8% herdados citados sem definição de agregado e período.",
+      "evidence": "O fechamento de 2022 não corresponde aos 2,8% citados. O BC registrou superávit primário de 1,28% do PIB para o setor público consolidado e déficit nominal de 4,68%, com juros. O TCU registra superávit primário do Governo Central. A fala mistura uma suposta herança sem definir agregado, conceito ou memória de cálculo.",
       "sources": [
+        "bcbfechamento2022",
         "fiscal2022",
         "rtn2023publicacao",
         "transcricao"
       ],
       "verification": "Primária",
-      "note": "Foram acrescentados documentos para separar resultado realizado, orçamento e obrigações de exercícios anteriores. O déficit de 2023 não pode ser integralmente atribuído ao governo anterior, nem o superávit de 2022 elimina obrigações adiadas. A cifra de 2,8% continua sem reconciliação documental.",
+      "note": "Percentuais do BC são os da publicação de 30/1/2023, sujeitos a revisões posteriores do PIB. O veredito vale para a apresentação dos 2,8% como resultado deixado pelo governo anterior: não nega obrigações adiadas nem equipara orçamento previsto a resultado realizado. Nenhuma dessas obrigações foi somada para produzir 2,8% nesta ficha.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         652,
@@ -6720,8 +6775,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Foram acrescentados documentos para separar resultado realizado, orçamento e obrigações de exercícios anteriores. O déficit de 2023 não pode ser integralmente atribuído ao governo anterior, nem o superávit de 2022 elimina obrigações adiadas. A cifra de 2,8% continua sem reconciliação documental."
+        "outcome": "conclusao_factual",
+        "limitation": "Percentuais do BC são os da publicação de 30/1/2023, sujeitos a revisões posteriores do PIB. O veredito vale para a apresentação dos 2,8% como resultado deixado pelo governo anterior: não nega obrigações adiadas nem equipara orçamento previsto a resultado realizado. Nenhuma dessas obrigações foi somada para produzir 2,8% nesta ficha."
       }
     },
     {
@@ -6758,14 +6813,14 @@
       "theme": "Contas públicas",
       "status": "em_revisao",
       "claim": "Foi o único presidente com superávit em todos os seus oito anos iniciais.",
-      "evidence": "A série do Tesouro confirma resultados primários positivos em todos os anos de 2003 a 2010, tanto acima como abaixo da linha. Ao incluir juros, o resultado nominal foi negativo nos oito anos. A exclusividade histórica continua em revisão: a série do RTN começa em 1997 e não autoriza comparar todos os presidentes anteriores.",
+      "evidence": "A série do Tesouro confirma resultados primários positivos em todos os anos de 2003 a 2010, tanto acima como abaixo da linha. Ao incluir juros, o resultado nominal foi negativo nos oito anos. A exclusividade histórica continua em revisão: a série do RTN começa em 1997 e não autoriza comparar todos os presidentes anteriores. A tabela acadêmica de 1995–2002 permite agora comparar também os dois mandatos completos de FHC: houve déficit primário em 1997, de R$ 2,375 bilhões.",
       "sources": [
         "rtnhistorico",
         "fiscalhistorico",
         "transcricao"
       ],
       "verification": "Primária",
-      "note": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade.",
+      "note": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade. A tabela 2 do estudo amplia a comparação anterior a 1997, mas não cobre todos os governos da história brasileira; por isso, não se declara comprovada a exclusividade irrestrita.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         653
@@ -6782,7 +6837,7 @@
       "review": {
         "date": "2026-10-19",
         "outcome": "inconclusiva",
-        "limitation": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade."
+        "limitation": "Planilha do RTN, aba 2.1, linhas 66 (primário acima da linha), 73 (primário abaixo da linha) e 75 (nominal), colunas H–O. O gráfico usa as linhas 73 e 75. Confirmar os oito anos não basta para confirmar a exclusividade. A tabela 2 do estudo amplia a comparação anterior a 1997, mas não cobre todos os governos da história brasileira; por isso, não se declara comprovada a exclusividade irrestrita."
       }
     },
     {
@@ -6843,17 +6898,18 @@
       "id": "L78",
       "candidate": "Lula",
       "theme": "Indústria",
-      "status": "em_revisao",
+      "status": "verdadeira",
       "claim": "Recuperou a indústria naval e a de fertilizantes.",
-      "evidence": "Há retomada efetiva: a Petrobras informa produção de ureia na Ansa em abril de 2026, além do retorno das Fafens de Sergipe e Bahia. No setor naval, o Ministério de Portos registra R$ 14,43 bilhões em contratos do FMM em 2023–2026. Isso vai além de anúncios genéricos, mas não demonstra recuperação integral dos dois setores.",
+      "evidence": "No sentido de retomada da atividade, há resultados concretos: a Ansa voltou a produzir ureia em abril de 2026 e as Fafens da Bahia e de Sergipe também retomaram a produção. No setor naval, o balanço ministerial registra 70 embarcações entregues na Região Norte em três anos, além dos contratos do FMM já documentados.",
       "sources": [
+        "fmmentregas2026",
         "ansaproducao2026",
         "fmm2026",
         "fertilizantesinfrasa",
         "transcricao"
       ],
-      "verification": "Primária e estudo",
-      "note": "Contratos não equivalem a obras ou navios entregues. A Infra S.A. registra produção de fertilizantes de 7,2 milhões de toneladas em 2024, ante 8,8 milhões em 2015; a série antecede as reativações de 2026 e não mede seu efeito. Falta consolidar produção, capacidade utilizada e emprego recentes dos dois setores.",
+      "verification": "Primária e registro oficial indexado",
+      "note": "O núcleo confirmado é a retomada produtiva, não a recuperação integral de capacidade, emprego ou competitividade dos dois setores. O balanço de embarcações foi consultado no resultado indexado da publicação oficial; a página integral retornou 401. Não se atribui toda a produção exclusivamente ao presidente nem se afirma que todas as unidades tinham sido privatizadas.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         670
@@ -6869,8 +6925,8 @@
       ],
       "review": {
         "date": "2026-10-19",
-        "outcome": "inconclusiva",
-        "limitation": "Contratos não equivalem a obras ou navios entregues. A Infra S.A. registra produção de fertilizantes de 7,2 milhões de toneladas em 2024, ante 8,8 milhões em 2015; a série antecede as reativações de 2026 e não mede seu efeito. Falta consolidar produção, capacidade utilizada e emprego recentes dos dois setores."
+        "outcome": "conclusao_factual",
+        "limitation": "O núcleo confirmado é a retomada produtiva, não a recuperação integral de capacidade, emprego ou competitividade dos dois setores. O balanço de embarcações foi consultado no resultado indexado da publicação oficial; a página integral retornou 401. Não se atribui toda a produção exclusivamente ao presidente nem se afirma que todas as unidades tinham sido privatizadas."
       }
     },
     {
@@ -7106,86 +7162,36 @@
   "coverage_description": "Leitura sequencial de todos os 687 parágrafos da transcrição publicada, com repetições agrupadas e fichas cronológicas. Auditoria audiovisual e apurações documentais indicadas permanecem abertas.",
   "review_summary": {
     "transcript_inventory": "concluído",
-    "documentary_checking": "pesquisa ampliada; 28 fichas sem evidência suficiente para conclusão definitiva",
+    "documentary_checking": "136 conclusões factuais; 23 fichas ainda inconclusivas",
     "audiovisual_audit": "não realizada",
     "date": "2026-10-19",
     "latest_round": {
       "date": "2026-10-19",
       "reviewed_ids": [
-        "L19",
-        "L27",
-        "F19",
-        "L88",
-        "F21",
-        "F22",
-        "F67",
-        "F23",
-        "F25",
-        "F29",
-        "F31",
-        "F32",
-        "P01",
-        "L39",
-        "F33",
-        "L43",
-        "F40",
-        "L48",
-        "F42",
-        "F66",
-        "F43",
-        "F44",
-        "L57",
-        "L61",
         "L66",
-        "P02",
-        "F57",
-        "F60",
-        "P04",
-        "F61",
         "L74",
-        "L76",
         "L78",
-        "L79"
+        "F66",
+        "F67",
+        "L76",
+        "F23",
+        "F44",
+        "L61",
+        "P04"
       ],
       "new_factual_conclusions": [
-        "L27",
-        "F40",
-        "L57",
-        "P02",
-        "F57"
-      ],
-      "nonfactual_reclassifications": [
-        "L19"
+        "L66",
+        "L74",
+        "L78",
+        "F66",
+        "F67"
       ],
       "still_under_review": [
-        "F19",
-        "L88",
-        "F21",
-        "F22",
-        "F67",
+        "L76",
         "F23",
-        "F25",
-        "F29",
-        "F31",
-        "F32",
-        "P01",
-        "L39",
-        "F33",
-        "L43",
-        "L48",
-        "F42",
-        "F66",
-        "F43",
         "F44",
         "L61",
-        "L66",
-        "F60",
-        "P04",
-        "F61",
-        "L74",
-        "L76",
-        "L78",
-        "L79"
+        "P04"
       ]
     },
     "previous_rounds": [
@@ -7325,6 +7331,85 @@
           "L66",
           "P02",
           "F57",
+          "F60",
+          "P04",
+          "F61",
+          "L74",
+          "L76",
+          "L78",
+          "L79"
+        ]
+      },
+      {
+        "date": "2026-10-19",
+        "reviewed_ids": [
+          "L19",
+          "L27",
+          "F19",
+          "L88",
+          "F21",
+          "F22",
+          "F67",
+          "F23",
+          "F25",
+          "F29",
+          "F31",
+          "F32",
+          "P01",
+          "L39",
+          "F33",
+          "L43",
+          "F40",
+          "L48",
+          "F42",
+          "F66",
+          "F43",
+          "F44",
+          "L57",
+          "L61",
+          "L66",
+          "P02",
+          "F57",
+          "F60",
+          "P04",
+          "F61",
+          "L74",
+          "L76",
+          "L78",
+          "L79"
+        ],
+        "new_factual_conclusions": [
+          "L27",
+          "F40",
+          "L57",
+          "P02",
+          "F57"
+        ],
+        "nonfactual_reclassifications": [
+          "L19"
+        ],
+        "still_under_review": [
+          "F19",
+          "L88",
+          "F21",
+          "F22",
+          "F67",
+          "F23",
+          "F25",
+          "F29",
+          "F31",
+          "F32",
+          "P01",
+          "L39",
+          "F33",
+          "L43",
+          "L48",
+          "F42",
+          "F66",
+          "F43",
+          "F44",
+          "L61",
+          "L66",
           "F60",
           "P04",
           "F61",

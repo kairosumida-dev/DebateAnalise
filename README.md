@@ -26,6 +26,8 @@ Na última rodada, todas as **44 pendências** foram revistas: **10 novas conclu
 
 Pesquisa complementar: **cinco novas conclusões**, total de **131 conclusões factuais, 28 inconclusivas e 40 registros não factuais**. A afirmação sobre proximidade do grau de investimento foi identificada como prognóstico, sem contar como acerto ou erro. [Registro complementar](docs/data/review-log-next.json). A tentativa de exportar a transcrição do vídeo oficial retornou indisponível; não foi realizada auditoria integral da gravação.
 
+Última rodada de dez fichas: cinco novas conclusões factuais, totalizando **136 conclusões, 23 inconclusivas e 40 registros não factuais**. As outras cinco fichas da rodada receberam documentação e limites adicionais. [Registro da rodada](docs/data/review-ten-final.json).
+
 ## Executar localmente
 
 Sem instalação de pacotes:

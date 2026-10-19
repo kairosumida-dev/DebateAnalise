@@ -71,14 +71,14 @@ for needed in ('claims','metrics','sources','candidate-chart','theme-chart','gdp
     assert needed in p.ids
 print(f"Validated {len(ids)} records, {len(data['sources'])} sources and local page assets.")
 
-for audit_path, expected in [('review-log.json',44),('review-log-next.json',34)]:
+for audit_path, expected in [('review-log.json',44),('review-log-next.json',34),('review-ten-final.json',10)]:
     audit = json.loads((root/'docs/data'/audit_path).read_text())
     assert len(audit['records']) == expected
     assert len({r['id'] for r in audit['records']}) == expected
     for r in audit['records']:
         assert r['id'] in claims and r['limitation']
         assert r['status'] in valid and all(s in data['sources'] for s in r['sources'])
-latest = json.loads((root/'docs/data/review-log-next.json').read_text())
+latest = json.loads((root/'docs/data/review-ten-final.json').read_text())
 round_ = data['review_summary']['latest_round']
 assert {r['id'] for r in latest['records']} == set(round_['reviewed_ids'])
 for r in latest['records']:
@@ -89,4 +89,4 @@ for r in latest['records']:
 groups = [round_['new_factual_conclusions'],round_['still_under_review'],round_.get('nonfactual_reclassifications',[])]
 assert sum(map(len,groups)) == len(set(sum(groups,[]))) == len(round_['reviewed_ids'])
 assert set(sum(groups,[])) == set(round_['reviewed_ids'])
-print('Validated both dated reviews and the latest 34-record audit.')
+print('Validated dated review history and latest ten-record audit.')

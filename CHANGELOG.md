@@ -1,5 +1,15 @@
 # Histórico editorial
 
+## 2026-10-19 — mais dez fichas investigadas
+
+- L66: imprecisa por omitir o período; cifra industrial de 3,4% localizada no primeiro semestre de 2024, páginas 16 e 24 do caderno do IBGE. Não se presume confusão com o PIB total.
+- L74: imprecisa; acrescida nota original do BC com resultado primário e nominal de 2022, sem chamar o déficit nominal de zero ou ignorar passivos.
+- L78: verdadeira no núcleo de retomada da atividade, sem certificar recuperação integral. Acrescido registro oficial indexado de entregas de embarcações; acesso integral retornou 401.
+- F66: imprecisa; comparação de 2008 identificada explicitamente como secundária, mantendo a série recente oficial e a diferença entre baixa cadastral e falência.
+- F67: imprecisa; admissão de reuniões a pedido de Marcola sustenta intermediação, mas não toda a generalização sobre negócios e criminalidade.
+- L76, F23, F44, L61 e P04: documentação ampliada; continuam inconclusivas. Nenhuma lacuna foi transformada automaticamente em falsidade.
+- Total: 136 conclusões factuais, 23 inconclusivas, 40 não factuais; 199 registros. Registro público da rodada e gráficos atualizados.
+
 ## 2026-10-19 — pesquisa complementar das 34 restantes
 
 - Corrigida leitura de dados antigos mantidos no cache do navegador após publicação; a base é solicitada sem reutilizar esse cache.
