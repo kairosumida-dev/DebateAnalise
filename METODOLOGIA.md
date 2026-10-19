@@ -61,3 +61,7 @@ O validador confere referências, categorias, localização, reciprocidade entre
 As 44 fichas sem conclusão definitiva receberam registro datado de revisão. Dez passaram a ter conclusão factual e 34 continuam inconclusivas. Fichas antes marcadas como apuração aberta foram identificadas como sem comprovação quando a pesquisa permaneceu insuficiente; essa mudança não é veredito de falsidade nem comprovação de inocência. O arquivo `docs/data/review-log.json` preserva o estado anterior e os limites. A rodada não inclui escuta integral do vídeo ou acesso a autos sigilosos.
 
 Na pesquisa complementar das 34 restantes, cinco receberam novas conclusões e um prognóstico foi separado dos vereditos; 28 permanecem inconclusivas. O registro complementar conserva os limites. A ferramenta de exportação do vídeo oficial não disponibilizou transcrição; nenhuma sincronização audiovisual foi inferida disso. A ausência de legenda exportável não implica defeito na gravação nem permite certificar sua conferência.
+
+## Revalidação das falsas de 19/10/2026
+
+As 16 fichas falsas foram revistas com a fala completa da transcrição ao lado. Três critérios levaram a mudanças: paráfrase mais forte que a fala (F27), evidência posterior não considerada (F02) e erro numérico com base real, que o método trata como imprecisão (L60). Fontes inacessíveis por assinatura foram substituídas ou complementadas por outras abertas, sem presumir o conteúdo das fechadas. `docs/data/review-false-audit.json` guarda a classificação anterior e os limites.

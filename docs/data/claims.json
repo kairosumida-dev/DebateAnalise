@@ -1283,6 +1283,48 @@
       "url": "https://checamos.afp.com/doc.afp.com.38UV99D",
       "type": "Registro jornalístico",
       "accessed_at": "2026-10-19"
+    },
+    "roberta_mensagens": {
+      "title": "Times Brasil · mensagens de Roberta chamando Lulinha de sócio (via Metrópoles)",
+      "url": "https://timesbrasil.com.br/brasil/mensagens-mostram-roberta-luchsinger-chamando-lulinha-de-socio/",
+      "type": "Registro jornalístico",
+      "published_at": "2026-09-17",
+      "accessed_at": "2026-10-19"
+    },
+    "roberta_cnn": {
+      "title": "Metrópoles · entrevista de Roberta à CNN em 17/10",
+      "url": "https://www.metropoles.com/colunas/andreza-matais/vou-fazer-delacao-premiada-diz-lobista-roberta-luchsinger-socia-de-lulinha",
+      "type": "Registro jornalístico",
+      "published_at": "2026-10-17",
+      "accessed_at": "2026-10-19"
+    },
+    "roberta_pf": {
+      "title": "CNN Brasil · depoimento de Roberta à PF",
+      "url": "https://www.cnnbrasil.com.br/politica/fraudes-no-inss-o-que-se-sabe-sobre-depoimento-de-amiga-de-lulinha-a-pf/",
+      "type": "Registro jornalístico",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "const_mandato": {
+      "title": "Constituição Federal · arts. 46 e 53 (mandato e imunidades)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#art53",
+      "type": "Fonte primária",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "reservas2002": {
+      "title": "Tribuna PR/Agência Globo · reservas líquidas sem FMI em 2002",
+      "url": "https://www.tribunapr.com.br/noticias/economia/reservas-devem-fechar-o-ano-em-us-13-bilhoes/amp/",
+      "type": "Registro jornalístico",
+      "published_at": "2002-11-02",
+      "accessed_at": "2026-10-19"
+    },
+    "aos_transcricao_checagens": {
+      "title": "Aos Fatos · checagens anexadas à transcrição",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "type": "Checagem jornalística",
+      "published_at": "2026-10-18",
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -1869,7 +1911,13 @@
       "blocks": [
         1,
         4
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Série do IBGE e do BC: 3,97% em 2011, 4,8% em 2021 e 3,0% em 2022, todos depois de 2010 e antes do retorno de Lula."
+      }
     },
     {
       "id": "L20",
@@ -1990,10 +2038,11 @@
       "claim": "Brasil não tinha reservas internacionais ao início de sua gestão.",
       "evidence": "O relatório do BC apresenta reservas anteriores ao governo, inclusive US$ 37,8 bilhões em 2002.",
       "sources": [
-        "reservas"
+        "reservas",
+        "reservas2002"
       ],
       "verification": "Primária",
-      "note": "",
+      "note": "Contexto: descontados os empréstimos do FMI, as reservas líquidas eram baixas no fim de 2002 (projeção de US$ 13,6 bilhões em reportagem da época). Escassez não equivale a \"não tinha reserva\".",
       "checked_at": "2026-10-19",
       "paragraphs": [
         41
@@ -2006,7 +2055,13 @@
       "occurrences": 1,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Valor líquido de 2002 é projeção jornalística, não série oficial; usado só como contexto."
+      }
     },
     {
       "id": "L25",
@@ -2387,15 +2442,18 @@
       "id": "F02",
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",
-      "status": "falsa",
-      "claim": "Roberta disse que era sócia de Lulinha.",
-      "evidence": "A entrevista reportada registra negativa de vínculo profissional, não confissão.",
+      "status": "imprecisa",
+      "claim": "Roberta é sócia de Lulinha e disse que é sócia.",
+      "evidence": "Reportagens de 17/9/2026, baseadas em mensagens obtidas pelo Metrópoles, registram Roberta chamando Lulinha de \"meu sócio\" em conversas de 2023–2024. Na entrevista de 17/10, véspera do debate, ela não se declara sócia nas falas reportadas; à PF, em maio, descreveu a relação como amizade. Não foi localizada prova de sociedade empresarial formal.",
       "sources": [
+        "roberta_mensagens",
+        "roberta_cnn",
+        "roberta_pf",
         "roberta",
         "folha"
       ],
       "verification": "Secundária",
-      "note": "Negar sociedade em entrevista não resolve, por si só, as suspeitas investigadas.",
+      "note": "A classificação anterior (falsa) apoiava-se só na entrevista e não considerava as mensagens. Dizer que ela \"falou que é sócia\" tem base; afirmar como fato que ela \"é sócia\" do filho do presidente não está comprovado. Nada disso estabelece crime.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -2409,7 +2467,13 @@
       "occurrences": 2,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "reclassificada",
+        "limitation": "Mensagens conhecidas por reprodução de outro veículo; originais não auditados. A reportagem da Folha citada antes está sob assinatura e não pôde ser conferida."
+      }
     },
     {
       "id": "L88",
@@ -2493,7 +2557,13 @@
       "occurrences": 1,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Sem cargo público documentado; vínculos informais com o INSS não foram objeto do veredito."
+      }
     },
     {
       "id": "F21",
@@ -2592,7 +2662,7 @@
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",
       "status": "falsa",
-      "claim": "A PF não investiga Lulinha.",
+      "claim": "A PF até agora não foi atrás de Lulinha.",
       "evidence": "A cobertura dos inquéritos documenta investigações da PF sobre Lulinha e quebras de sigilo autorizadas judicialmente.",
       "sources": [
         "inqueritos",
@@ -2600,7 +2670,7 @@
         "transcricao"
       ],
       "verification": "Secundária",
-      "note": "Investigar não equivale a demonstrar culpa; a negativa absoluta sobre a existência de investigação é o núcleo contradito.",
+      "note": "Investigar não equivale a demonstrar culpa. Não foi localizada busca na residência de Lulinha em 2026 (ele vive na Espanha); essa parte da fala, no parágrafo anterior, não é o núcleo contradito. Os inquéritos e a quebra de sigilos foram pedidos pela própria PF.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -2614,7 +2684,13 @@
       "occurrences": 2,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Inquéritos sob sigilo; existência conferida por cobertura jornalística convergente."
+      }
     },
     {
       "id": "F22",
@@ -3052,14 +3128,15 @@
       "id": "F27",
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",
-      "status": "falsa",
-      "claim": "Somente o PT criou flexibilização para os descontos associativos.",
-      "evidence": "O levantamento identifica 31 parlamentares de 11 partidos, incluindo PT, PL e centrão.",
+      "status": "imprecisa",
+      "claim": "A bancada do PT insistiu na emenda que afrouxou o controle dos descontos associativos.",
+      "evidence": "Na MP 871/2019, parlamentares do PT apresentaram metade das emendas para flexibilizar a revalidação dos descontos (16 de ao menos 32), segundo o Aos Fatos. Outros partidos fizeram o mesmo, e a Folha identifica 31 parlamentares de 11 partidos contra o controle.",
       "sources": [
-        "emendas"
+        "emendas",
+        "aos_transcricao_checagens"
       ],
       "verification": "Secundária",
-      "note": "A atuação de petistas é real; a exclusividade atribuída à bancada não é.",
+      "note": "A fala atribui a mudança à bancada do PT; a atuação petista é real, mas não exclusiva, e a flexibilização foi aprovada pelo Congresso. A paráfrase anterior (\"somente o PT\") era mais forte que a fala e levou a uma classificação falsa.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         164
@@ -3072,7 +3149,13 @@
       "occurrences": 1,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "reclassificada",
+        "limitation": "Contagem de emendas reproduzida da checagem, sem conferência emenda a emenda no sistema do Congresso."
+      }
     },
     {
       "id": "F28",
@@ -3114,12 +3197,12 @@
       "theme": "Eleições",
       "status": "falsa",
       "claim": "Flávio perderia a imunidade no dia 25 de outubro.",
-      "evidence": "Uma votação presidencial não encerra automaticamente o mandato de senador ou suas prerrogativas.",
+      "evidence": "O mandato de senador de Flávio, eleito em 2018, vai até o fim de janeiro de 2027 (art. 46). Perder a eleição presidencial em 25 de outubro não encerra o mandato nem as prerrogativas do art. 53.",
       "sources": [
-        "const"
+        "const_mandato"
       ],
       "verification": "Primária",
-      "note": "Aplicação dos arts. 53 e 56; derrota eleitoral, eventual processo e perda de mandato são institutos diferentes.",
+      "note": "Corrigida a fonte: a ficha citava antes o art. 144, que trata de segurança pública.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         173
@@ -3132,7 +3215,13 @@
       "occurrences": 1,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Se perder, Flávio deixa de ter as prerrogativas em fevereiro de 2027, não na data do segundo turno."
+      }
     },
     {
       "id": "F29",
@@ -3941,10 +4030,11 @@
       "claim": "Nunca apoiou retirar a marcação de munições.",
       "evidence": "A negativa absoluta contrasta com a atuação em favor do PL 3.723/2019 reportada na cobertura legislativa.",
       "sources": [
-        "cartuchos"
+        "cartuchos",
+        "aos_transcricao_checagens"
       ],
       "verification": "Secundária",
-      "note": "Não se infere daí a intenção de facilitar crimes; verifica-se a posição sobre o dispositivo.",
+      "note": "Em 9/3/2022, na CCJ, Flávio pressionou pela votação do PL 3.723/2019 com o relatório que mantinha a revogação da marcação. Não há registro dele defendendo especificamente esse dispositivo; a conclusão vem do apoio ao texto que o incluía.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         310
@@ -3957,7 +4047,13 @@
       "occurrences": 1,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Conclusão por apoio ao texto completo, não por fala sobre o dispositivo. Ficha mais frágil entre as mantidas."
+      }
     },
     {
       "id": "L42",
@@ -4571,7 +4667,13 @@
       "occurrences": 3,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Valor atribuível só às viagens do casal não é calculável pelo Portal da Transparência; a Presidência gastou R$ 150,5 milhões em 2023–2025."
+      }
     },
     {
       "id": "L13",
@@ -4597,7 +4699,13 @@
       "occurrences": 1,
       "blocks": [
         1
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Números do ISA via checagem: FHC 142 territórios e 41,2 milhões de ha contra 124 e 24,6 milhões de ha somando Lula e Dilma. Tabela original não extraída."
+      }
     },
     {
       "id": "L52",
@@ -4861,7 +4969,7 @@
         "agencia"
       ],
       "verification": "Secundária",
-      "note": "Um atendimento documentado basta para contradizer “nunca”. Não foram buscados prontuários ou dados médicos privados.",
+      "note": "Lula disse \"acho que ele nunca foi no SUS, ele nunca foi numa UPA\". Mesmo com o \"acho\", a afirmação é contradita: a prefeitura confirmou o atendimento em UPA em abril de 2021. Não foram buscados prontuários ou dados médicos privados.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -4880,6 +4988,12 @@
         "date": "2026-10-19",
         "outcome": "conclusao_factual",
         "limitation": "Um atendimento documentado basta para contradizer “nunca”. Não foram buscados prontuários ou dados médicos privados."
+      },
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Fala hesitante (\"acho que\"); contraexemplo documentado em reportagem com confirmação municipal."
       }
     },
     {
@@ -5299,7 +5413,13 @@
       "occurrences": 1,
       "blocks": [
         2
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Tabela do DIEESE conferida: R$ 998 em 2019, reajuste de 4,61% contra INPC de 3,43%, ganho real de 1,14%."
+      }
     },
     {
       "id": "M28",
@@ -5387,14 +5507,14 @@
       "id": "L60",
       "candidate": "Lula",
       "theme": "Saúde",
-      "status": "falsa",
+      "status": "imprecisa",
       "claim": "Bolsonaro colocou três ministros da Saúde.",
-      "evidence": "Foram quatro titulares: Mandetta, Teich, Pazuello e Queiroga.",
+      "evidence": "Foram quatro titulares da Saúde: Mandetta, Teich, Pazuello e Queiroga. Teich ficou menos de um mês.",
       "sources": [
         "ministros"
       ],
       "verification": "Secundária",
-      "note": "A contagem não depende da avaliação política do desempenho de cada ministro.",
+      "note": "O número está errado, mas a base da fala (troca frequente de ministros na pandemia) é real. Pelo método, erro numérico com base real é imprecisão, não falsidade.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         551
@@ -5407,7 +5527,13 @@
       "occurrences": 1,
       "blocks": [
         2
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "reclassificada",
+        "limitation": "Juízo de proporcionalidade editorial; o erro de contagem é inequívoco."
+      }
     },
     {
       "id": "L90",
@@ -6136,6 +6262,12 @@
         "date": "2026-10-19",
         "outcome": "conclusao_factual",
         "limitation": "A conclusão é sobre a articulação reconhecida judicialmente. A decisão final sobre tarifas pertence às autoridades dos EUA; isso não elimina a atuação de quem pediu ou articulou as medidas."
+      },
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Agência Brasil (18/9/2026) relata que o STF viu articulação do tarifaço por Eduardo; a notícia do próprio STF fala em \"medidas econômicas ao país\"."
       }
     },
     {
@@ -6150,7 +6282,7 @@
         "transcricao"
       ],
       "verification": "Secundária",
-      "note": "A negativa ampla de enviar representantes é contradita. A representação em uma audiência específica do USTR é assunto diferente.",
+      "note": "A fala se refere à audiência do USTR de julho, em que o governo enviou apenas observadores por não considerá-la canal oficial. Mesmo assim, a negativa de que o governo \"não mandou ninguém\" para defender os interesses brasileiros nos EUA é contradita pelas negociações e pela visita de 7/5/2026.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -6163,7 +6295,13 @@
       "occurrences": 1,
       "blocks": [
         3
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Na audiência específica do USTR, o governo não fez defesa formal; a ficha avalia a negativa ampla."
+      }
     },
     {
       "id": "P02",
@@ -6697,12 +6835,12 @@
       "theme": "Segurança",
       "status": "falsa",
       "claim": "Os registros de roubo de celulares não caíram.",
-      "evidence": "O FBSP registra queda de 18,6% em roubos em 2025; furtos subiram 0,9%.",
+      "evidence": "O FBSP registra 308,7 mil roubos de celulares em 2025, queda de 18,6% sobre 2024; furtos de celulares subiram 0,9%.",
       "sources": [
         "fbsp"
       ],
       "verification": "Primária",
-      "note": "Roubo e furto são categorias diferentes; a conclusão usa registros nacionais, sujeitos a subnotificação.",
+      "note": "Fala feita como pergunta retórica. Roubo e furto são categorias diferentes; registros nacionais estão sujeitos a subnotificação.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -6715,7 +6853,13 @@
       "occurrences": 1,
       "blocks": [
         3
-      ]
+      ],
+      "false_audit": {
+        "date": "2026-10-19",
+        "previous_status": "falsa",
+        "outcome": "mantida",
+        "limitation": "Dados de registro policial, não de vitimização."
+      }
     },
     {
       "id": "F62",

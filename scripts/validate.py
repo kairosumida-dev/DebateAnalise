@@ -90,3 +90,15 @@ groups = [round_['new_factual_conclusions'],round_['still_under_review'],round_.
 assert sum(map(len,groups)) == len(set(sum(groups,[]))) == len(round_['reviewed_ids'])
 assert set(sum(groups,[])) == set(round_['reviewed_ids'])
 print('Validated dated review history and latest five-record audit.')
+
+false_audit = json.loads((root/'docs/data/review-false-audit.json').read_text())
+assert len(false_audit['records']) == len({r['id'] for r in false_audit['records']}) == 16
+for r in false_audit['records']:
+    c = claims[r['id']]
+    assert r['previous_status'] == 'falsa' and r['limitation']
+    assert r['status'] == c['status'] in {'falsa','imprecisa'}
+    assert r['sources'] == c['sources'] and all(s in data['sources'] for s in r['sources'])
+    assert (r['outcome'] == 'mantida') == (c['status'] == 'falsa')
+    assert c['false_audit']['outcome'] == r['outcome']
+assert {i for i,c in claims.items() if c['status']=='falsa'} <= {r['id'] for r in false_audit['records']}
+print('Validated audit of the 16 records previously classified as false.')

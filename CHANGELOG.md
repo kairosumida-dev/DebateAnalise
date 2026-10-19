@@ -1,5 +1,16 @@
 # Histórico editorial
 
+## 2026-10-19 — revalidação das 16 falsas
+
+- Todas as fichas falsas tiveram o contexto conferido na transcrição e as fontes reabertas. 13 mantidas, 3 reclassificadas como imprecisas.
+- F02: imprecisa. Mensagens de 2023–2024 reportadas em setembro mostram Roberta chamando Lulinha de "meu sócio"; a classificação anterior considerava só a entrevista. Sociedade formal não comprovada.
+- F27: imprecisa. A fala atribui a emenda à bancada do PT, que apresentou metade das emendas; a paráfrase anterior ("somente o PT") era mais forte que a fala.
+- L60: imprecisa. Foram quatro ministros, não três; base real de troca frequente na pandemia.
+- L34: fonte corrigida (citava o art. 144); mandato de Flávio vai até janeiro de 2027.
+- F05: paráfrase ajustada à fala ("não foi atrás"); registrado que não se localizou busca na casa de Lulinha em 2026.
+- L24, F39, P05, F09, F08: contexto e limites acrescentados, sem mudar a classificação. F39 é a mais frágil das mantidas.
+- Total inalterado: 138 conclusões factuais (agora 13 falsas e 71 imprecisas), 21 inconclusivas e 40 não factuais. [Registro](docs/data/review-false-audit.json).
+
 ## 2026-10-19 — mais cinco fichas investigadas
 
 - F33: imprecisa; composição da cifra de R$ 350 bilhões mistura crédito, renúncias, despesas e propostas, sem comprovar execução integral ou finalidade exclusiva eleitoral. Conferência secundária, cálculo não reproduzido integralmente.

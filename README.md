@@ -30,6 +30,8 @@ Pesquisa complementar: **cinco novas conclusões**, total de **131 conclusões f
 
 Rodada complementar de cinco: **duas novas conclusões**, total de **138 conclusões factuais, 21 inconclusivas e 40 registros não factuais**. Três fichas receberam evidência adicional sem confirmação da acusação. [Registro](docs/data/review-five-final.json).
 
+Revalidação das **16 fichas falsas**: 13 mantidas e 3 reclassificadas como imprecisas (F02, F27 e L60), com contexto conferido na transcrição. Total de conclusões inalterado: 138. [Registro](docs/data/review-false-audit.json).
+
 ## Executar localmente
 
 Sem instalação de pacotes:
