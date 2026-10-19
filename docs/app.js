@@ -43,7 +43,7 @@ function charts() {
   const ticks = [-3,0,3,6,9];
   const fmt = n => n.toLocaleString('pt-BR',{minimumFractionDigits:1,maximumFractionDigits:1});
   const svg = `<svg viewBox="0 0 900 245" role="img" aria-labelledby="gdp-title gdp-desc"><title id="gdp-title">Variação anual real do PIB em anos selecionados</title><desc id="gdp-desc">${values.map(v=>`${v.year}: ${fmt(v.value)}%`).join('; ')}. Os anos não são contínuos.</desc>${ticks.map(t=>`<line x1="50" x2="880" y1="${y(t)}" y2="${y(t)}" stroke="${t===0?'#95a498':'#e9ede6'}" ${t===3?'stroke-dasharray="4 4"':''}/><text x="35" y="${y(t)+4}" text-anchor="end" font-size="11" fill="#65716b">${t}%</text>`).join('')}${values.map((v,i)=>{const x=110+i*140;const negative=v.value<0;return `<rect x="${x-25}" y="${negative?y(0):y(v.value)}" width="50" height="${Math.abs(v.value)*15}" rx="3" fill="${negative?'#bb6962':'#679078'}"/><text x="${x}" y="${negative?y(v.value)+17:y(v.value)-9}" text-anchor="middle" font-size="13" font-weight="600" fill="#182823">${fmt(v.value)}%</text><text x="${x}" y="237" text-anchor="middle" font-size="12" fill="#65716b">${v.year}</text>`}).join('')}</svg>`;
-  $('gdp-chart').innerHTML = svg;
+  $('gdp-chart').innerHTML = svg + '<div class="gdp-values">' + values.map(v=>`<span>${v.year}: <strong>${fmt(v.value)}%</strong></span>`).join('') + '</div>';
   $('gdp-source').href=data.sources[data.gdp.source].url;
 }
 function populateFilters() {
