@@ -1,0 +1,729 @@
+{
+  "title": "Debate em evidência",
+  "debate_date": "2026-10-18",
+  "updated_at": "2026-10-19",
+  "coverage": "Levantamento parcial das principais afirmações reportadas. Não é transcrição integral nem amostra estatística.",
+  "sources": {
+    "band": {
+      "title": "Band · registro do debate",
+      "url": "https://www.band.com.br/nacional/pr/reveja-o-debate-da-band-completo-entre-lula-e-flavio-bolsonaro",
+      "type": "Registro jornalístico",
+      "published_at": "2026-10-18",
+      "accessed_at": "2026-10-19"
+    },
+    "folha": {
+      "title": "Folha · checagem do debate",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/debate-entre-lula-e-flavio-bolsonaro-teve-distorcoes-e-dados-falsos-veja-checagem.shtml",
+      "type": "Checagem jornalística",
+      "published_at": "2026-10-19",
+      "accessed_at": "2026-10-19"
+    },
+    "aos": {
+      "title": "Aos Fatos · checagem do debate",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "type": "Checagem jornalística",
+      "published_at": "2026-10-18",
+      "accessed_at": "2026-10-19"
+    },
+    "agencia": {
+      "title": "Agência Brasil · cobertura do debate",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-flavio-fazem-primeiro-debate-das-eleicoes-na-band",
+      "type": "Registro jornalístico público",
+      "published_at": "2026-10-19",
+      "accessed_at": "2026-10-19"
+    },
+    "pib2010": {
+      "title": "IBGE · PIB de 2010",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13983-asi-em-2010-pib-varia-75-e-fica-em-r-3675-trilhoes",
+      "type": "Fonte primária",
+      "published_at": "2011-03-03",
+      "accessed_at": "2026-10-19"
+    },
+    "pib2021": {
+      "title": "IBGE · Contas Nacionais de 2021",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/38284-release-contas-nacionais",
+      "type": "Fonte primária",
+      "published_at": "2023-11-09",
+      "accessed_at": "2026-10-19"
+    },
+    "contas": {
+      "title": "IBGE · série 2002–2023",
+      "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/9c2b887d59dd6c63da1b39b00c6cacce.pdf",
+      "type": "Fonte primária",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "mei": {
+      "title": "Planalto · Lei Complementar 128/2008",
+      "url": "https://planalto.gov.br/ccivil_03/leis/lcp/lcp128.htm",
+      "type": "Fonte primária",
+      "published_at": "2008-12-19",
+      "accessed_at": "2026-10-19"
+    },
+    "const": {
+      "title": "Constituição Federal · art. 144",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#art144",
+      "type": "Fonte primária",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "cpi": {
+      "title": "Senado · depoimento de Pedro Hallal à CPI",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/24/pesquisas-apontam-que-400-mil-mortes-poderiam-ser-evitadas-governistas-questionam",
+      "type": "Registro primário de depoimento",
+      "published_at": "2021-06-24",
+      "accessed_at": "2026-10-19"
+    },
+    "fbsp": {
+      "title": "Fórum Brasileiro de Segurança Pública · Anuário 2026",
+      "url": "https://fontesegura.forumseguranca.org.br/20a-edicao-do-anuario-brasileiro-de-seguranca-publica-aponta-que-os-lares-se-tornaram-ambientes-mais-violentos-para-mulheres-criancas-e-adolescentes-homicidios-caem-82-na-comparacao-com-2024/",
+      "type": "Fonte primária",
+      "published_at": "2026-07-23",
+      "accessed_at": "2026-10-19"
+    },
+    "inss": {
+      "title": "Agência Gov · cronologia dos descontos do INSS",
+      "url": "https://agenciagov.ebc.com.br/noticias/202505/2018a-fraude-comecou-entre-2019-e-2022-foi-revelada-e-extinta-neste-governo2019-diz-jorge-messias-1",
+      "type": "Posicionamento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "roberta": {
+      "title": "Folha · entrevista de Roberta à CNN",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/amiga-de-lulinha-afirma-que-quer-fazer-delacao-premiada-e-chama-presidente-de-mentiroso.shtml",
+      "type": "Registro jornalístico",
+      "published_at": "2026-10-17",
+      "accessed_at": "2026-10-19"
+    },
+    "inflacao": {
+      "title": "IBGE · IPCA de dezembro de 2022",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/36047-ipca-vai-a-0-62-em-dezembro-e-fecha-2022-em-5-79",
+      "type": "Fonte primária",
+      "published_at": "2023-01-10",
+      "accessed_at": "2026-10-19"
+    },
+    "viagens": {
+      "title": "Aos Fatos · viagens e a cifra de R$ 7 bilhões",
+      "url": "https://www.aosfatos.org/noticias/lula-7-bilhoes-viagens/",
+      "type": "Checagem jornalística",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "filme": {
+      "title": "Folha · investigação dos repasses ao filme",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-negociava-recursos-para-dark-horse-com-vorcaro-e-eduardo-era-gestor-do-dinheiro-diz-pf.shtml",
+      "type": "Registro jornalístico",
+      "published_at": "2026-09-11",
+      "accessed_at": "2026-10-19"
+    },
+    "cesta": {
+      "title": "DIEESE · cesta básica de agosto de 2026",
+      "url": "https://www.dieese.org.br/analisecestabasica/2026/202608cestabasica/index.html?page=35",
+      "type": "Fonte primária",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "cobertura": {
+      "title": "Folha · principais momentos do debate",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml",
+      "type": "Registro jornalístico",
+      "published_at": "2026-10-18",
+      "accessed_at": "2026-10-19"
+    }
+  },
+  "claims": [
+    {
+      "id": "L01",
+      "candidate": "Lula",
+      "theme": "Economia",
+      "status": "verdadeira",
+      "claim": "PIB cresceu 7,5% em 2010.",
+      "evidence": "A divulgação do IBGE confirma a variação real anual de 7,5%.",
+      "sources": [
+        "pib2010"
+      ],
+      "verification": "Primária",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L02",
+      "candidate": "Lula",
+      "theme": "Economia",
+      "status": "falsa",
+      "claim": "Depois de 2010, o PIB só voltou a crescer acima de 3% com seu retorno.",
+      "evidence": "O IBGE registra 4,0% em 2011 e 4,8% em 2021 na série consultada.",
+      "sources": [
+        "contas",
+        "pib2021",
+        "folha"
+      ],
+      "verification": "Primária",
+      "note": "As contas nacionais passam por revisões. O contraexemplo continua válido; crescimento na recuperação da pandemia não equivale a crescimento sustentado.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L03",
+      "candidate": "Lula",
+      "theme": "Trabalho",
+      "status": "verdadeira",
+      "claim": "O MEI foi criado em seu governo.",
+      "evidence": "O regime foi instituído pela LC 128/2008, sancionada em dezembro de 2008.",
+      "sources": [
+        "mei",
+        "cobertura"
+      ],
+      "verification": "Primária",
+      "note": "A aprovação também envolveu o Congresso; criação legal não é ato exclusivo do presidente.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L04",
+      "candidate": "Lula",
+      "theme": "Economia",
+      "status": "em_revisao",
+      "claim": "Inflação de alimentos: 56,17% com Bolsonaro e 13% com Lula.",
+      "evidence": "Aos Fatos aceita a comparação; Folha corrige o primeiro índice para 54,2%.",
+      "sources": [
+        "aos",
+        "folha",
+        "inflacao"
+      ],
+      "verification": "Divergência entre fontes",
+      "note": "Falta reconciliar subgrupo, meses de corte e acumulação composta. Em outubro de 2026, o mandato atual ainda não tem quatro anos completos. Não usar esses percentuais em gráfico comparativo antes dessa conciliação.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L05",
+      "candidate": "Lula",
+      "theme": "Economia",
+      "status": "imprecisa",
+      "claim": "Salário mínimo passou de 1,8 para 2,2 cestas básicas.",
+      "evidence": "Folha calcula 1,8 cesta em agosto de 2026, ante 1,62 em agosto de 2022, em São Paulo.",
+      "sources": [
+        "cesta",
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "A cesta tem preços regionais. Não existe, nesse cálculo, uma média nacional aplicável a todas as famílias.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L06",
+      "candidate": "Lula",
+      "theme": "Saúde",
+      "status": "verdadeira",
+      "claim": "Mais Médicos passou de cerca de 12 mil para 27 mil profissionais.",
+      "evidence": "Folha aponta 12,5 mil em setembro de 2022 e 27,5 mil em dezembro de 2025.",
+      "sources": [
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "Comparação arredondada e com datas diferentes. A série original do Ministério da Saúde não foi reproduzida nesta versão.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L07",
+      "candidate": "Lula",
+      "theme": "Saúde",
+      "status": "imprecisa",
+      "claim": "Associação das 716 mil mortes por Covid à gestão Bolsonaro.",
+      "evidence": "O acumulado nacional mencionado inclui óbitos posteriores a 2022.",
+      "sources": [
+        "folha",
+        "agencia"
+      ],
+      "verification": "Secundária",
+      "note": "A crítica à condução da pandemia é distinta da contagem por mandato. Falta anexar a extração do painel por data de óbito para fechar o valor exato de cada período.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L08",
+      "candidate": "Lula",
+      "theme": "Saúde",
+      "status": "imprecisa",
+      "claim": "Metade das mortes da pandemia poderia ter sido evitada.",
+      "evidence": "Hallal estimou 400 mil mortes evitáveis em junho de 2021, usando comparação com a média mundial.",
+      "sources": [
+        "cpi",
+        "agencia"
+      ],
+      "verification": "Primária",
+      "note": "É uma estimativa contrafactual com recorte e hipóteses, não uma contagem observada nem uma demonstração automática para todo o período posterior.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L09",
+      "candidate": "Lula",
+      "theme": "Corrupção e INSS",
+      "status": "imprecisa",
+      "claim": "Flávio pegou R$ 134 milhões de Vorcaro.",
+      "evidence": "Segundo Folha, R$ 134 milhões foram solicitados; ao menos R$ 62 milhões teriam sido transferidos.",
+      "sources": [
+        "filme",
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "Pedido, transferência e eventual desvio são fatos distintos; a investigação não equivale a condenação.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L10",
+      "candidate": "Lula",
+      "theme": "Patrimônio",
+      "status": "imprecisa",
+      "claim": "Flávio comprou casa por R$ 10 milhões.",
+      "evidence": "Aos Fatos informa preço de R$ 6 milhões.",
+      "sources": [
+        "aos"
+      ],
+      "verification": "Secundária",
+      "note": "Preço de aquisição e eventual avaliação de mercado precisam ser distinguidos.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L11",
+      "candidate": "Lula",
+      "theme": "Mulheres",
+      "status": "verdadeira",
+      "claim": "Flávio foi o único voto contra ampliar licença-maternidade em 2009.",
+      "evidence": "Aos Fatos confirma o voto isolado.",
+      "sources": [
+        "aos"
+      ],
+      "verification": "Secundária",
+      "note": "O registro nominal original da Alerj ainda não foi anexado; não inferimos motivação pessoal a partir do voto.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L12",
+      "candidate": "Lula",
+      "theme": "Segurança",
+      "status": "imprecisa",
+      "claim": "A Constituição atribuiu a segurança pública aos estados.",
+      "evidence": "O art. 144 também prevê Polícia Federal, polícias rodoviária e ferroviária federais e competências próprias da União.",
+      "sources": [
+        "const",
+        "aos"
+      ],
+      "verification": "Primária",
+      "note": "A atribuição estadual existe, mas a segurança pública não é responsabilidade exclusivamente estadual.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L13",
+      "candidate": "Lula",
+      "theme": "Meio ambiente",
+      "status": "falsa",
+      "claim": "Seus governos fizeram a maior demarcação de terras indígenas.",
+      "evidence": "Aos Fatos rejeita esse recorde.",
+      "sources": [
+        "aos"
+      ],
+      "verification": "Secundária",
+      "note": "O resultado depende da métrica: área homologada e número de terras são medidas diferentes. Esta classificação reproduz a checagem indicada.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "L14",
+      "candidate": "Lula",
+      "theme": "Corrupção e INSS",
+      "status": "imprecisa",
+      "claim": "O esquema do INSS foi montado no governo Bolsonaro.",
+      "evidence": "Há descontos investigados de 2019 a 2024, atravessando as duas gestões.",
+      "sources": [
+        "inss",
+        "folha",
+        "agencia"
+      ],
+      "verification": "Secundária",
+      "note": "O recorte investigado sustenta a existência anterior a 2023, mas não prova a data de origem de toda a rede nem elimina responsabilidade por omissões posteriores.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F01",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Gastos públicos",
+      "status": "falsa",
+      "claim": "Viagens de Lula e Janja custaram R$ 7 bilhões.",
+      "evidence": "A cifra se refere ao conjunto de órgãos federais, não ao casal.",
+      "sources": [
+        "viagens",
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F02",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Corrupção e INSS",
+      "status": "falsa",
+      "claim": "Roberta disse que era sócia de Lulinha.",
+      "evidence": "A entrevista reportada registra negativa de vínculo profissional, não confissão.",
+      "sources": [
+        "roberta",
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "Negar sociedade em entrevista não resolve, por si só, as suspeitas investigadas.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F03",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Corrupção e INSS",
+      "status": "imprecisa",
+      "claim": "O escândalo dos descontos do INSS pertence somente à gestão Lula.",
+      "evidence": "A investigação abrange 2019–2024.",
+      "sources": [
+        "inss",
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "A ocorrência anterior não apaga a continuidade no mandato atual. Os R$ 6,3 bilhões de descontos investigados não devem ser tratados automaticamente como perda integral comprovada.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F04",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Corrupção e INSS",
+      "status": "falsa",
+      "claim": "Careca do INSS integrou o governo Lula.",
+      "evidence": "Aos Fatos não identifica cargo dele no governo.",
+      "sources": [
+        "aos"
+      ],
+      "verification": "Secundária",
+      "note": "Relações com agentes públicos não equivalem a ocupar cargo público.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F05",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Corrupção e INSS",
+      "status": "falsa",
+      "claim": "A PF não investiga Lulinha.",
+      "evidence": "Aos Fatos registra investigação do filho de Lula.",
+      "sources": [
+        "aos"
+      ],
+      "verification": "Secundária",
+      "note": "Investigação não demonstra culpa.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F06",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Segurança",
+      "status": "imprecisa",
+      "claim": "O Brasil vive recorde generalizado de criminalidade.",
+      "evidence": "O FBSP aponta queda de mortes violentas e roubos, mas alta de feminicídios e violência doméstica em 2025.",
+      "sources": [
+        "fbsp"
+      ],
+      "verification": "Primária",
+      "note": "Não há um único indicador que represente todos os crimes; diferenças regionais também importam.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F07",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Mulheres",
+      "status": "imprecisa",
+      "claim": "Há recorde de mulheres assassinadas no atual governo.",
+      "evidence": "O recorde demonstrado é de feminicídios: 1.571 em 2025, alta de 4%.",
+      "sources": [
+        "fbsp"
+      ],
+      "verification": "Primária",
+      "note": "Feminicídio é uma categoria de homicídio de mulheres. O dado não prova recorde de todos os assassinatos de mulheres, nem causalidade exclusiva do governo federal.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F08",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Segurança",
+      "status": "falsa",
+      "claim": "Os registros de roubo de celulares não caíram.",
+      "evidence": "O FBSP registra queda de 18,6% em roubos em 2025; furtos subiram 0,9%.",
+      "sources": [
+        "fbsp"
+      ],
+      "verification": "Primária",
+      "note": "Roubo e furto são categorias diferentes; a conclusão usa registros nacionais, sujeitos a subnotificação.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F09",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Relações exteriores",
+      "status": "imprecisa",
+      "claim": "O governo não enviou representante à audiência do USTR.",
+      "evidence": "Folha contextualiza: a audiência era privada; houve outras reuniões oficiais.",
+      "sources": [
+        "folha"
+      ],
+      "verification": "Secundária",
+      "note": "A ausência em um encontro não demonstra ausência de negociação. Falta anexar o registro original do USTR.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F10",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Eleições",
+      "status": "imprecisa",
+      "claim": "73% dos presidiários votaram em Lula.",
+      "evidence": "Aos Fatos classifica a extrapolação como distorcida.",
+      "sources": [
+        "aos"
+      ],
+      "verification": "Secundária",
+      "note": "O voto é secreto. Resultados de seções não identificam votos individuais nem autorizam extrapolar para toda a população carcerária.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "P01",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Corrupção e INSS",
+      "status": "sem_comprovacao",
+      "claim": "Lula recebeu R$ 30 milhões por fora, segundo suposto áudio.",
+      "evidence": "Não foi obtida a íntegra autenticada do áudio nem documentação de transferência.",
+      "sources": [
+        "band",
+        "agencia"
+      ],
+      "verification": "Pendente",
+      "note": "Acusação não comprovada nesta pesquisa; isso não demonstra automaticamente que ela seja falsa.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "P02",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Relações exteriores",
+      "status": "sem_comprovacao",
+      "claim": "Suas viagens aos EUA serviram para defender empresas brasileiras.",
+      "evidence": "A declaração de finalidade não comprova o conteúdo de todas as reuniões.",
+      "sources": [
+        "band",
+        "agencia"
+      ],
+      "verification": "Pendente",
+      "note": "Faltam agendas, comunicações e registros das reuniões citadas.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "P03",
+      "candidate": "Lula",
+      "theme": "Relações exteriores",
+      "status": "sem_comprovacao",
+      "claim": "Flávio pretende entregar minerais estratégicos aos EUA.",
+      "evidence": "Não foi obtido documento que demonstre a intenção atribuída.",
+      "sources": [
+        "band",
+        "agencia"
+      ],
+      "verification": "Pendente",
+      "note": "Pergunta ou suspeita política não equivale a fato demonstrado.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "P04",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Mulheres",
+      "status": "em_revisao",
+      "claim": "O Cadastro Nacional de Pedófilos não foi colocado em funcionamento.",
+      "evidence": "A fala foi reportada; falta conferir a norma e o estágio operacional na data do debate.",
+      "sources": [
+        "cobertura"
+      ],
+      "verification": "Pendente",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "P05",
+      "candidate": "Lula",
+      "theme": "Saúde",
+      "status": "sem_comprovacao",
+      "claim": "Flávio nunca utilizou serviço público de saúde.",
+      "evidence": "Não foram obtidos registros suficientes para sustentar a afirmação absoluta.",
+      "sources": [
+        "agencia"
+      ],
+      "verification": "Pendente",
+      "note": "Informações médicas pessoais não são presumidas públicas.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "M01",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Segurança",
+      "status": "proposta",
+      "claim": "Construir 500 mil vagas no sistema penitenciário.",
+      "evidence": "Compromisso futuro: exige avaliação de viabilidade e posterior acompanhamento.",
+      "sources": [
+        "agencia"
+      ],
+      "verification": "Proposta",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "M02",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Segurança",
+      "status": "proposta",
+      "claim": "Classificar facções como organizações terroristas.",
+      "evidence": "Compromisso futuro: exige avaliação de viabilidade e posterior acompanhamento.",
+      "sources": [
+        "band",
+        "agencia"
+      ],
+      "verification": "Proposta",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "M03",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Segurança",
+      "status": "proposta",
+      "claim": "Instalar mais de um milhão de câmeras com inteligência artificial.",
+      "evidence": "Compromisso futuro: exige avaliação de viabilidade e posterior acompanhamento.",
+      "sources": [
+        "band"
+      ],
+      "verification": "Proposta",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "M04",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Saúde",
+      "status": "proposta",
+      "claim": "Indicar Cláudio Lottenberg e adotar padrão Einstein no SUS.",
+      "evidence": "Compromisso futuro: exige avaliação de viabilidade e posterior acompanhamento.",
+      "sources": [
+        "agencia"
+      ],
+      "verification": "Proposta",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "M05",
+      "candidate": "Lula",
+      "theme": "Segurança",
+      "status": "proposta",
+      "claim": "Criar o Ministério da Segurança Pública.",
+      "evidence": "Compromisso futuro: exige avaliação de viabilidade e posterior acompanhamento.",
+      "sources": [
+        "agencia"
+      ],
+      "verification": "Proposta",
+      "note": "",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    }
+  ],
+  "gdp": {
+    "unit": "Variação real anual (%)",
+    "source": "contas",
+    "values": [
+      {
+        "year": 2010,
+        "value": 7.5
+      },
+      {
+        "year": 2011,
+        "value": 4.0
+      },
+      {
+        "year": 2020,
+        "value": -3.3
+      },
+      {
+        "year": 2021,
+        "value": 4.8
+      },
+      {
+        "year": 2022,
+        "value": 3.0
+      },
+      {
+        "year": 2023,
+        "value": 3.2
+      }
+    ]
+  }
+}
