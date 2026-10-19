@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-19",
+  "scope": "Revalidação das 16 fichas classificadas como falsas: contexto conferido na transcrição e fontes reabertas. 13 mantidas e 3 reclassificadas como imprecisas.",
+  "records": [
+    {
+      "id": "L02",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "contas",
+        "pib2021",
+        "folha"
+      ],
+      "limitation": "Série do IBGE e do BC: 3,97% em 2011, 4,8% em 2021 e 3,0% em 2022, todos depois de 2010 e antes do retorno de Lula."
+    },
+    {
+      "id": "L24",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "reservas",
+        "reservas2002"
+      ],
+      "limitation": "Valor líquido de 2002 é projeção jornalística, não série oficial; usado só como contexto."
+    },
+    {
+      "id": "F02",
+      "previous_status": "falsa",
+      "status": "imprecisa",
+      "outcome": "reclassificada",
+      "sources": [
+        "roberta_mensagens",
+        "roberta_cnn",
+        "roberta_pf",
+        "roberta",
+        "folha"
+      ],
+      "limitation": "Mensagens conhecidas por reprodução de outro veículo; originais não auditados. A reportagem da Folha citada antes está sob assinatura e não pôde ser conferida."
+    },
+    {
+      "id": "F04",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "aos"
+      ],
+      "limitation": "Sem cargo público documentado; vínculos informais com o INSS não foram objeto do veredito."
+    },
+    {
+      "id": "F05",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "inqueritos",
+        "sigilolulinha",
+        "transcricao"
+      ],
+      "limitation": "Inquéritos sob sigilo; existência conferida por cobertura jornalística convergente."
+    },
+    {
+      "id": "F27",
+      "previous_status": "falsa",
+      "status": "imprecisa",
+      "outcome": "reclassificada",
+      "sources": [
+        "emendas",
+        "aos_transcricao_checagens"
+      ],
+      "limitation": "Contagem de emendas reproduzida da checagem, sem conferência emenda a emenda no sistema do Congresso."
+    },
+    {
+      "id": "L34",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "const_mandato"
+      ],
+      "limitation": "Se perder, Flávio deixa de ter as prerrogativas em fevereiro de 2027, não na data do segundo turno."
+    },
+    {
+      "id": "F39",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "cartuchos",
+        "aos_transcricao_checagens"
+      ],
+      "limitation": "Conclusão por apoio ao texto completo, não por fala sobre o dispositivo. Ficha mais frágil entre as mantidas."
+    },
+    {
+      "id": "F01",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "viagens",
+        "folha"
+      ],
+      "limitation": "Valor atribuível só às viagens do casal não é calculável pelo Portal da Transparência; a Presidência gastou R$ 150,5 milhões em 2023–2025."
+    },
+    {
+      "id": "L13",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "aos"
+      ],
+      "limitation": "Números do ISA via checagem: FHC 142 territórios e 41,2 milhões de ha contra 124 e 24,6 milhões de ha somando Lula e Dilma. Tabela original não extraída."
+    },
+    {
+      "id": "P05",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "upa2021",
+        "agencia"
+      ],
+      "limitation": "Fala hesitante (\"acho que\"); contraexemplo documentado em reportagem com confirmação municipal."
+    },
+    {
+      "id": "L58",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "salarioreal"
+      ],
+      "limitation": "Tabela do DIEESE conferida: R$ 998 em 2019, reajuste de 4,61% contra INPC de 3,43%, ganho real de 1,14%."
+    },
+    {
+      "id": "L60",
+      "previous_status": "falsa",
+      "status": "imprecisa",
+      "outcome": "reclassificada",
+      "sources": [
+        "ministros"
+      ],
+      "limitation": "Juízo de proporcionalidade editorial; o erro de contagem é inequívoco."
+    },
+    {
+      "id": "F56",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "eduardostf2026",
+        "eduardorecurso2026",
+        "transcricao"
+      ],
+      "limitation": "Agência Brasil (18/9/2026) relata que o STF viu articulação do tarifaço por Eduardo; a notícia do próprio STF fala em \"medidas econômicas ao país\"."
+    },
+    {
+      "id": "F09",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "negociacaoeua",
+        "transcricao"
+      ],
+      "limitation": "Na audiência específica do USTR, o governo não fez defesa formal; a ficha avalia a negativa ampla."
+    },
+    {
+      "id": "F08",
+      "previous_status": "falsa",
+      "status": "falsa",
+      "outcome": "mantida",
+      "sources": [
+        "fbsp"
+      ],
+      "limitation": "Dados de registro policial, não de vitimização."
+    }
+  ]
+}
