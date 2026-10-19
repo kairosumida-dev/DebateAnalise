@@ -912,6 +912,118 @@
       "type": "Registro jornalístico de julgamento",
       "published_at": null,
       "accessed_at": "2026-10-19"
+    },
+    "bancarizacao2015": {
+      "title": "Banco Central · Relatório de Inclusão Financeira 2015, página impressa 66",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/RIF2015.pdf",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "insscontestacoes2026": {
+      "title": "Agência Gov/INSS · 6,3 milhões de contestações em fevereiro de 2026",
+      "url": "https://agenciagov.ebc.com.br/noticias/202602/prazo-para-contestar-descontos-indevidos-termina-em-20-de-marco",
+      "type": "Posicionamento oficial · balanço administrativo",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "anpmarco2026": {
+      "title": "ANP · Síntese semanal 13/2026, semana de 22 a 28 de março",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arq-sintese-semanal/2026/sintese-precos-13.pdf",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "subvencaodiesel": {
+      "title": "Câmara · Decreto 12.878/2026, subvenção ao diesel",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/2026/decreto-12878-13-marco-2026-798807-publicacaooriginal-178431-pe.html",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "hospitaisaudiencia2023": {
+      "title": "Câmara · audiência de 16/05/2023 sobre hospitais federais do Rio",
+      "url": "https://escriba.camara.leg.br/escriba-servicosweb/html/68040",
+      "type": "Registro primário · depoimento em audiência",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "lagoareabertura": {
+      "title": "Ministério da Saúde/Agência Gov · reabertura de leitos do Hospital da Lagoa",
+      "url": "https://agenciagov.ebc.com.br/noticias/202509/saude-anuncia-r-170-milhoes-ampliar-atendimento-rede-federal-rio-de-janeiro",
+      "type": "Posicionamento oficial · plano de reestruturação",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "pib2025anual": {
+      "title": "IBGE · PIB de 2025: indústria cresce 1,4% e PIB total 2,3%",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/45968-pib-cresce-2-3-em-2025-e-fecha-o-ano-em-r-12-7-trilhoes",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "pibq42025": {
+      "title": "IBGE · caderno das Contas Nacionais, quarto trimestre de 2025",
+      "url": "https://ftp.ibge.gov.br/Contas_Nacionais/Contas_Nacionais_Trimestrais/Fasciculo_Indicadores_IBGE/pib-vol-val_202504caderno.pdf",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "tarifavigencia": {
+      "title": "Governo de Rondônia · vigência das tarifas em 6 de agosto de 2025",
+      "url": "https://rondonia.ro.gov.br/governo-de-ro-evidencia-resiliencia-da-economia-rondoniense-diante-da-previsao-de-tarifaco-dos-eua-ao-brasil/",
+      "type": "Registro público · cronologia das tarifas",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "leicadastro2024": {
+      "title": "Planalto · Lei 15.035/2024, Cadastro Nacional de Pedófilos e Predadores Sexuais",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15035.htm",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "cnjgtcadastro": {
+      "title": "CNJ · Portaria 153/2025, grupo de trabalho; alterada em junho de 2026",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/6158",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "adpfcadastro": {
+      "title": "Diário do STF, reproduzido pelo Escavador · decisão de 12/10/2026 na ADPF 1328",
+      "url": "https://www.escavador.com/diarios/12813106/STF/P/2026-10-12/1760744180/movimentacao-do-processo-adpf-1328",
+      "type": "Reprodução de decisão judicial · admissão de amici curiae",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "rtn2023publicacao": {
+      "title": "Tesouro Nacional · apresentação do resultado de dezembro de 2023",
+      "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48787_1551088/anexos/22120_1455608/apresentacao_dez23.pdf",
+      "type": "Fonte primária · documento oficial",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "ansaproducao2026": {
+      "title": "Petrobras · primeira produção de ureia na Ansa após reativação, 30/04/2026",
+      "url": "https://agencia.petrobras.com.br/w/negocio/petrobras-inicia-produ%C3%A7%C3%A3o-de-ureia-na-ansa-em-arauc%C3%A1ria-pr-",
+      "type": "Fonte primária · registro da empresa",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "fmm2026": {
+      "title": "Ministério de Portos · contratos do Fundo da Marinha Mercante em 2023–2026",
+      "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/06/fundo-da-marinha-mercante-contrata-r-14-43-bilhoes-em-investimentos-em-tres-anos",
+      "type": "Posicionamento oficial · balanço de contratos",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
+    },
+    "fertilizantesinfrasa": {
+      "title": "Infra S.A. · boletim de fertilizantes de fevereiro de 2026, páginas 6–7",
+      "url": "https://ontl.infrasa.gov.br/wp-content/uploads/2026/02/BOLETIM-DE-FERTILIZANTE-FEV_-rev-04_sirlea.pdf",
+      "type": "Estudo público · dados da ANDA",
+      "published_at": null,
+      "accessed_at": "2026-10-19"
     }
   },
   "claims": [
@@ -1690,14 +1802,15 @@
       "id": "L27",
       "candidate": "Lula",
       "theme": "Economia",
-      "status": "pendente",
+      "status": "em_revisao",
       "claim": "Bancarizou 22 milhões de brasileiros.",
-      "evidence": "Faltam período e conceito: ter conta, relacionamento bancário e usar banco pela internet são indicadores diferentes.",
+      "evidence": "O Banco Central registra, com base no Global Findex, mais de 22 milhões de novos titulares de contas entre 2011 e 2014. Isso confirma a existência de uma cifra semelhante, mas corresponde ao governo Dilma e não, automaticamente, aos anos de Lula. A fala aparece junto de resultados de 2003–2010 e não explicita a série usada.",
       "sources": [
+        "bancarizacao2015",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária",
+      "note": "RIF 2015, página impressa 66 (página 64 do PDF). Pessoas com conta, número de contas e relacionamentos ativos não são a mesma medida. A coincidência numérica não prova que essa seja a fonte da fala; falta reconciliar o período e a atribuição causal.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         46
@@ -2437,14 +2550,16 @@
       "id": "F24",
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",
-      "status": "pendente",
+      "status": "verdadeira",
       "claim": "Cinco milhões de aposentados foram roubados pela rede.",
-      "evidence": "Falta definir se o número conta pessoas que sofreram desconto, contestaram, tiveram irregularidade reconhecida ou foram ressarcidas.",
+      "evidence": "O balanço anunciado pelo ministro da Previdência em 15/10/2026 informa ressarcimento a mais de 5 milhões de aposentados e pensionistas por descontos associativos indevidos. Isso sustenta a ordem de grandeza de 5 milhões de vítimas citada no debate.",
       "sources": [
+        "devolucaovalor",
+        "insscontestacoes2026",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária e secundária",
+      "note": "A conclusão limita-se à dimensão dos descontos indevidos. O dado não prova a responsabilidade criminal de cada pessoa acusada no restante da fala. Contestações, reconhecimento do direito e pagamentos são etapas distintas; 6,3 milhões de contestações já eram reportadas em fevereiro. O balanço de outubro é uma declaração ministerial registrada em reportagem.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         149
@@ -3775,16 +3890,16 @@
       "id": "L49",
       "candidate": "Lula",
       "theme": "Trabalho",
-      "status": "em_revisao",
-      "claim": "O PL pretende reverter o fim da escala 6x1.",
-      "evidence": "Há registro de fala do líder do PL sobre alterar a política e negativa pública posterior de Flávio. A posição do partido e a promessa do candidato precisam ser distinguidas.",
+      "status": "verdadeira",
+      "claim": "Liderança do PL anunciou proposta para mudar a política de jornada após o fim da escala 6x1.",
+      "evidence": "A transcrição afirma que o PL dizia que iria propor mudar a política. Em 14/10, o líder da bancada, Sóstenes Cavalcante, anunciou uma PEC para permitir escolha entre o modelo aprovado e pagamento por hora. Há respaldo para a existência dessa proposta na liderança do PL.",
       "sources": [
         "escalaPL",
         "escalanegativa",
         "transcricao"
       ],
       "verification": "Secundária",
-      "note": "Não é possível tratar uma intenção futura como resultado consumado. A promessa do candidato permanece na categoria proposta.",
+      "note": "Escopo corrigido: registrar o anúncio da liderança não equivale a provar que todo o partido assumiu compromisso de restabelecer a escala 6x1. Em 16/10, Flávio negou que trabalharia para reverter seu fim. A negativa do candidato não apaga o anúncio anterior de uma proposta de mudança por uma liderança partidária.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         377
@@ -4815,15 +4930,17 @@
       "id": "L59",
       "candidate": "Lula",
       "theme": "Energia",
-      "status": "em_revisao",
+      "status": "imprecisa",
       "claim": "Subsídios impediram altas do petróleo, diesel e gasolina durante as guerras.",
-      "evidence": "O governo anunciou subvenções e desonerações de combustíveis em 2026. A existência das medidas não demonstra que todos os preços ficaram sem alta durante as guerras.",
+      "evidence": "Houve subsídios e desonerações, mas eles não impediram todas as altas. A ANP registra gasolina comum de R$ 6,30 para R$ 6,78/litro e diesel B S10 de R$ 6,15 para R$ 7,57/litro entre as semanas terminadas em 7 e 28/03/2026, durante a guerra no Irã.",
       "sources": [
+        "anpmarco2026",
+        "subvencaodiesel",
         "subsidios",
         "transcricao"
       ],
-      "verification": "Secundária",
-      "note": "Falta série de preços da ANP e delimitação de produto, mercado e intervalo; petróleo internacional, preço de refinaria e bomba não são equivalentes.",
+      "verification": "Primária",
+      "note": "ANP, Síntese 13/2026: tabelas de revenda, páginas impressas 1 e 5. A subvenção ao diesel existe no Decreto 12.878/2026. O dado contradiz ausência de aumento na bomba; não estima quanto os preços teriam subido sem a política e não equipara petróleo bruto a combustível no varejo.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         546
@@ -5035,15 +5152,17 @@
       "id": "L63",
       "candidate": "Lula",
       "theme": "Saúde",
-      "status": "em_revisao",
+      "status": "verdadeira",
       "claim": "Hospitais federais estavam sem cozinha e com UTIs fechadas.",
-      "evidence": "A reportagem registra 735 leitos inoperantes ou bloqueados em inspeção de 2023. Isso sustenta parte do diagnóstico, mas falta comprovar separadamente a cozinha e as UTIs citadas.",
+      "evidence": "Há documentação de cozinha desativada e leitos de terapia intensiva sem funcionamento na rede federal do Rio. Em audiência de maio de 2023, o gestor relatou cozinha do Andaraí desativada havia mais de dez anos. O plano oficial de reestruturação da Lagoa, de setembro de 2025, prevê reabertura gradual de leitos de UTI, clínicos e pediátricos.",
       "sources": [
+        "hospitaisaudiencia2023",
+        "lagoareabertura",
         "hospitaisrio",
         "transcricao"
       ],
-      "verification": "Secundária",
-      "note": "Leitos hospitalares e leitos de UTI não são a mesma medida; não generalizar a situação para os seis hospitais.",
+      "verification": "Primária e secundária",
+      "note": "Conclusão restrita à existência dos problemas descritos. Não comprova que Flávio administrasse os hospitais ou que a desativação tivesse começado no governo Bolsonaro: a própria audiência situa a cozinha fora de operação desde antes. Reabertura anunciada não prova obra concluída, e não se generaliza a situação para os seis hospitais.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         571
@@ -5304,13 +5423,15 @@
       "theme": "Indústria",
       "status": "em_revisao",
       "claim": "PIB industrial voltou a crescer 3,4%.",
-      "evidence": "Na divulgação de 2024, o IBGE informa PIB total de 3,4% e indústria de 3,3%. A fala não especifica ano ou série; falta demonstrar a referência industrial de 3,4%.",
+      "evidence": "O IBGE informa, na divulgação de 2024, crescimento de 3,4% do PIB total e 3,3% da indústria. Para 2025, informa 2,3% no total e 1,4% na indústria. A cifra industrial de 3,4% citada sem ano ainda não foi conciliada com uma série e um período definidos.",
       "sources": [
         "industria2024",
+        "pib2025anual",
+        "pib2026",
         "transcricao"
       ],
       "verification": "Primária",
-      "note": "PIB total, PIB da indústria e produção física industrial são indicadores distintos e sujeitos a revisão.",
+      "note": "Esses resultados não autorizam trocar o indicador: PIB industrial não é PIB total nem produção física da PIM. Sem identificar a referência temporal da fala, a diferença não basta para uma conclusão definitiva.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         594
@@ -5486,15 +5607,17 @@
       "id": "L69",
       "candidate": "Lula",
       "theme": "Economia",
-      "status": "em_revisao",
+      "status": "verdadeira",
       "claim": "A economia brasileira continuou crescendo após o tarifaço.",
-      "evidence": "O PIB cresceu 0,5% no segundo trimestre de 2026, segundo a análise do BNDES. A continuidade depois das tarifas depende de qual rodada e intervalo Lula menciona; o dado não prova efeito positivo das tarifas.",
+      "evidence": "A economia continuou crescendo após a rodada de tarifas que entrou em vigor em agosto de 2025. O IBGE registra variação positiva de 0,1% no quarto trimestre de 2025 ante o anterior, com ajuste sazonal. O BNDES registra ainda alta de 0,5% no segundo trimestre de 2026.",
       "sources": [
+        "pibq42025",
+        "tarifavigencia",
         "pib2026",
         "transcricao"
       ],
-      "verification": "Secundária",
-      "note": "Correção de leitura: só cresceu pode indicar continuidade, não que o Brasil começou a crescer apenas após o tarifaço.",
+      "verification": "Primária e estudo",
+      "note": "Leitura adotada: continuidade da expansão agregada após a rodada de 2025. A variação de 0,1% é tratada pelo IBGE como estabilidade, não crescimento forte. Os dados não demonstram que tarifas causaram crescimento, que nenhum setor perdeu ou que o PIB do terceiro trimestre de 2026 já era conhecido na data do debate.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         608
@@ -5841,12 +5964,15 @@
       "theme": "Mulheres",
       "status": "em_revisao",
       "claim": "O Cadastro Nacional de Pedófilos não foi colocado em funcionamento.",
-      "evidence": "A fala foi reportada; falta conferir a norma e o estágio operacional na data do debate.",
+      "evidence": "A Lei 15.035/2024 determina a criação do cadastro e a consulta pública. O CNJ instituiu grupo de trabalho pela Portaria 153/2025, alterada em junho de 2026. Em outubro de 2026, a ADPF 1328 discutia alegada omissão na implementação. Há documentação do problema institucional, mas falta confirmação operacional direta na data do debate.",
       "sources": [
-        "cobertura"
+        "leicadastro2024",
+        "cnjgtcadastro",
+        "adpfcadastro",
+        "transcricao"
       ],
-      "verification": "Pendente",
-      "note": "",
+      "verification": "Primária e secundária",
+      "note": "A decisão de 12/10/2026 consultada apenas admite participantes na ADPF: não julga procedente a alegação de omissão. Lei em vigor, grupo de trabalho e ação judicial não comprovam, isoladamente, se a consulta nacional já estava disponível em 18/10. Cadastros estaduais também não equivalem ao nacional.",
       "quote_type": "Paráfrase da transcrição consultada",
       "timestamp": null,
       "checked_at": "2026-10-19",
@@ -6163,13 +6289,14 @@
       "theme": "Contas públicas",
       "status": "em_revisao",
       "claim": "Herdou déficit de 2,8% do governo anterior.",
-      "evidence": "O TCU registra superávit primário do governo central em 2022. A fala de déficit herdado de 2,8% não especifica agregado nem ano; pode se referir a obrigações e orçamento de 2023.",
+      "evidence": "O TCU documenta superávit primário do Governo Central em 2022. A apresentação do Tesouro para 2023 registra déficit primário de 2,1% do PIB, afetado pelo pagamento de precatórios. Nenhum desses resultados corresponde diretamente aos 2,8% herdados citados sem definição de agregado e período.",
       "sources": [
         "fiscal2022",
+        "rtn2023publicacao",
         "transcricao"
       ],
       "verification": "Primária",
-      "note": "Sem reconciliar período, juros, precatórios e exclusões, não é correto contradizer a cifra usando apenas outro indicador.",
+      "note": "Foram acrescentados documentos para separar resultado realizado, orçamento e obrigações de exercícios anteriores. O déficit de 2023 não pode ser integralmente atribuído ao governo anterior, nem o superávit de 2022 elimina obrigações adiadas. A cifra de 2,8% continua sem reconciliação documental.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         652,
@@ -6299,14 +6426,17 @@
       "id": "L78",
       "candidate": "Lula",
       "theme": "Indústria",
-      "status": "pendente",
+      "status": "em_revisao",
       "claim": "Recuperou a indústria naval e a de fertilizantes.",
-      "evidence": "Há anúncios de retomada e investimentos, mas falta série de produção e capacidade que sustente recuperação dos dois setores como um todo.",
+      "evidence": "Há retomada efetiva: a Petrobras informa produção de ureia na Ansa em abril de 2026, além do retorno das Fafens de Sergipe e Bahia. No setor naval, o Ministério de Portos registra R$ 14,43 bilhões em contratos do FMM em 2023–2026. Isso vai além de anúncios genéricos, mas não demonstra recuperação integral dos dois setores.",
       "sources": [
+        "ansaproducao2026",
+        "fmm2026",
+        "fertilizantesinfrasa",
         "transcricao"
       ],
-      "verification": "Apuração aberta",
-      "note": "Apuração aberta: não conta como verdadeira, falsa ou imprecisa nos totais de conclusões. A transcrição comprova apenas a localização da fala.",
+      "verification": "Primária e estudo",
+      "note": "Contratos não equivalem a obras ou navios entregues. A Infra S.A. registra produção de fertilizantes de 7,2 milhões de toneladas em 2024, ante 8,8 milhões em 2015; a série antecede as reativações de 2026 e não mede seu efeito. Falta consolidar produção, capacidade utilizada e emprego recentes dos dois setores.",
       "checked_at": "2026-10-19",
       "paragraphs": [
         670
@@ -6547,22 +6677,53 @@
     "latest_round": {
       "date": "2026-10-19",
       "reviewed_ids": [
-        "F54",
-        "F14",
-        "F66",
-        "L61",
-        "F44"
+        "L27",
+        "F24",
+        "L49",
+        "L59",
+        "L63",
+        "L66",
+        "L69",
+        "P04",
+        "L74",
+        "L78"
       ],
       "new_factual_conclusions": [
-        "F54",
-        "F14"
+        "F24",
+        "L49",
+        "L59",
+        "L63",
+        "L69"
       ],
       "still_under_review": [
-        "F66",
-        "L61",
-        "F44"
+        "L27",
+        "L66",
+        "P04",
+        "L74",
+        "L78"
       ]
-    }
+    },
+    "previous_rounds": [
+      {
+        "date": "2026-10-19",
+        "reviewed_ids": [
+          "F54",
+          "F14",
+          "F66",
+          "L61",
+          "F44"
+        ],
+        "new_factual_conclusions": [
+          "F54",
+          "F14"
+        ],
+        "still_under_review": [
+          "F66",
+          "L61",
+          "F44"
+        ]
+      }
+    ]
   },
   "fiscal": {
     "source": "rtnhistorico",

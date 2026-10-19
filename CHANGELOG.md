@@ -1,5 +1,20 @@
 # Histórico editorial
 
+## 2026-10-19 — revisão de mais dez fichas
+
+- F24: verdadeira para a ordem de grandeza de vítimas, conforme balanço ministerial anterior ao debate; responsabilidade dos acusados não decorre do número.
+- L49: verdadeira para o anúncio de proposta pela liderança do PL; paráfrase ajustada à transcrição, preservada a negativa posterior do candidato.
+- L59: imprecisa; tabelas originais da ANP documentam aumento de gasolina e diesel durante março, apesar da subvenção.
+- L63: verdadeira para a existência de cozinha desativada e leitos fechados; sem atribuir administração a Flávio ou origem exclusiva a Bolsonaro.
+- L69: verdadeira para continuidade agregada após a rodada tarifária de agosto de 2025, sem inferir causalidade.
+- L27: localizada cifra de 22 milhões no BC para 2011–2014; mantida em revisão quanto ao período e atribuição da fala.
+- L66: ampliada comparação com resultados industriais de 2024 e 2025, sem trocar PIB por produção física.
+- P04: adicionadas lei, portaria do CNJ e decisão de admissão na ADPF; esta não equivale a julgamento da omissão.
+- L74: acrescentado documento de 2023 para separar resultado e herança; 2,8% permanece sem reconciliação.
+- L78: produção de ureia efetivamente retomada e contratos navais documentados; recuperação setorial integral ainda em revisão.
+- Cinco novas conclusões e cinco revisões abertas; total de 116 conclusões factuais, 44 sem conclusão definitiva e 39 registros não factuais.
+
+
 ## 2026-10-19 — revisão de mais cinco fichas
 
 - F54: verdadeira no sentido de aquisição federal durante Bolsonaro; cruzados contrato, distribuição pelo PNI e registro da aplicação, com ressalva da inferência sem lote individual.
