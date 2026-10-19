@@ -532,6 +532,39 @@
       "checked_at": "2026-10-19"
     },
     {
+      "id": "F11",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Mulheres",
+      "status": "verdadeira",
+      "claim": "Os registros de agressões contra mulheres estão em patamar recorde.",
+      "evidence": "O FBSP registra 286.270 agressões em contexto doméstico em 2025, alta de 2,6%.",
+      "sources": [
+        "fbsp",
+        "aos"
+      ],
+      "verification": "Primária",
+      "note": "A checagem do Aos Fatos confirma o recorde reportado. Ocorrências registradas não equivalem à totalidade dos episódios, e o indicador não determina sozinho a responsabilidade de um governo.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
+      "id": "F12",
+      "candidate": "Flávio Bolsonaro",
+      "theme": "Trabalho",
+      "status": "verdadeira",
+      "claim": "Votou a favor do fim da escala 6x1, após mudar de posição.",
+      "evidence": "A cobertura da Agência Brasil registra o voto favorável e a mudança de posição.",
+      "sources": [
+        "agencia"
+      ],
+      "verification": "Secundária",
+      "note": "A justificativa pessoal para mudar de opinião não é verificável como fato. O registro nominal da votação ainda precisa ser anexado.",
+      "quote_type": "Paráfrase de fala reportada",
+      "timestamp": null,
+      "checked_at": "2026-10-19"
+    },
+    {
       "id": "P01",
       "candidate": "Flávio Bolsonaro",
       "theme": "Corrupção e INSS",

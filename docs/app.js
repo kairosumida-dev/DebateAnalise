@@ -32,7 +32,7 @@ function charts() {
     const claims = data.claims.filter(c => c.candidate===n);
     const counts = Object.keys(STATUS).map(k => ({...STATUS[k], count:claims.filter(c => c.status===k).length}));
     const description = counts.map(s => `${s.plural}: ${s.count}`).join('; ');
-    return `<div class="candidate-row"><div class="candidate-label"><strong>${n}</strong><span>${claims.length} registros</span></div><div class="stack" role="img" aria-label="${esc(n+': '+description)}">${counts.filter(s=>s.count).map(s=>`<span class="segment" style="width:${100*s.count/max}%;background:${s.color}" title="${s.plural}: ${s.count}">${s.count}</span>`).join('')}</div><p class="small" style="margin:6px 0 0">${counts.filter(s=>s.count).map(s=>`${s.count} ${s.plural.toLowerCase()}`).join(' · ')}</p></div>`;
+    return `<div class="candidate-row"><div class="candidate-label"><strong>${n}</strong><span>${claims.length} registros</span></div><div class="stack" role="img" aria-label="${esc(n+': '+description)}">${counts.filter(s=>s.count).map(s=>`<span class="segment" style="width:${100*s.count/max}%;background:${s.color}" title="${s.plural}: ${s.count}">${s.count}</span>`).join('')}</div><p class="small" style="margin:6px 0 0">${counts.filter(s=>s.count).map(s=>`${s.count} ${(s.count===1?s.label:s.plural).toLowerCase()}`).join(' · ')}</p></div>`;
   }).join('');
   $('legend').innerHTML = Object.values(STATUS).map(s=>`<span><i style="background:${s.color}"></i>${s.plural}</span>`).join('');
   const themes = [...new Set(data.claims.map(c=>c.theme))].map(t => [t, data.claims.filter(c=>c.theme===t).length]).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'pt-BR'));
